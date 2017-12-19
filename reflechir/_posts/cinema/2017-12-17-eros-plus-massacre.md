@@ -31,4 +31,5 @@ L'un des points noirs de ce film pourtant pourrait être ses inspirations Nouvel
 En résumé, Eros+Massacre est un film original, qui peut rebuter par sa mise en scène maniérée et son scénario, mais qui est un bijou d'esthétique visuelle.
 
 **Modification du 18/12/2017 :** Ito et Osugi ont été assassinés par la police militaire japonaise, et non par l'armée japonaise impériale.
+**Modification du 19/12/2017 :** Correction orthographique.
 
