@@ -4,13 +4,13 @@ date: 2017-04-04
 bitlink: http://bit.ly/2AEncLP
 ---
 
-<img src="/images/16.jpg" style="float: center"/> 
+![Philippe Poutou](/images/16.jpg)
 
 Le programme de Philippe Poutou est disponible [ici](https://poutou2017.org/sites/default/files/2017-03/ProgrammePOUTOU-2017_WEB_0.pdf), et est résumé sur cette [page](https://poutou2017.org/sites/default/files/2017-01/4PAGES-Campagne-web.pdf).
 
 ## Contexte ##
 
-Philippe Poutou est le candidat à l'élection présidentielle de 2017 issu du Nouveau Parti anticapitaliste. Il est ouvrier et responsable syndical de la CGT. Il a été candidat à l'élection présidentielle en 2012 et en 2017 ([source](https://fr.wikipedia.org/wiki/Philippe_Poutou)).
+Philippe Poutou est le candidat à l'élection présidentielle de 2017 issu du Nouveau Parti Anticapitaliste. Il est ouvrier et responsable syndical de la CGT. Il a été candidat à l'élection présidentielle en 2012 et en 2017 ([source](https://fr.wikipedia.org/wiki/Philippe_Poutou)).
 
 Aucune affaire judiciaire où il serait impliqué n'est connue de l'auteur à ce jour.
 

@@ -3,3 +3,26 @@
 ---
 
 @import "minima";
+
+img {
+  display: table;
+  margin: 0 auto;
+  vertical-align: middle;
+  max-width: 300px;
+  max-height: 450px
+}
+
+img.preview {
+  display: table;
+  margin: 0 auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+body {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lora Regular"), local("Lora-Regular"), url("http://fonts.gstatic.com/s/lora/v12/4vqKRIwnQQGUQQh-PnvdMA.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}

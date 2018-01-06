@@ -12,7 +12,7 @@ Il y a une distinction importante à faire entre un **problème** et une **insta
 
 ## Définitions ##
 
-<img src="/images/2017-12-15-image1.png" style="float: center"/> 
+![graphe](/images/2017-12-15-image1.png)
 
 Commençons par définir ce qu'est exactement un graphe (voir un exemple simple de graphe ci-dessus). Comme écrit précédemment, un graphe représente un __ensemble d'objets__ et les __interactions entre ces objets__ : on appelle les objets des **sommets** (ou noeuds). Une interaction est symétrique si, quand l'objet A interagit avec B, nécessairement B interagit également avec A; sinon cette interaction est dite asymétrique. Par exemple, pour les amis sur Facebook, si Alice est amie avec Bob, alors Bob est aussi ami avec Alice. Au contraire, dans le cas d'un arbre généalogique, si Charlotte est la mère de Daniel, en revanche Daniel n'est pas la mère de Charlotte. Si vous êtes familiers avec les relations en mathématiques (par exemple, l'égalité, les ordres, ...), les graphes peuvent être la représentation d'un relation d'ordre sur des éléments d'un ensemble.
 
@@ -49,7 +49,7 @@ Chaque sommet sera un cours de l'emploi du temps. Chaque arête entre deux somme
 
 Voici le graphe correspondant :
 
-<img src="/images/2017-12-15-image2.png" style="float: center"/> 
+![emploi du temps](/images/2017-12-15-image2.png) 
 
 Maintenant définissons une coloration d'un graphe :
 
@@ -75,7 +75,7 @@ Cas m=2 (où on n'utilise que deux couleurs) : La propriété (P) est vérifiée
 
 Un exemple de coloration pour m=2 est présenté ci-dessous :
 
-<img src="/images/2017-12-15-image3.png" style="float: center"/> 
+![2-coloration](/images/2017-12-15-image3.png)
 
 ## Exercices de compréhension ##
 

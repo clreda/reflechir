@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: http://bit.ly/2zCOvIt
 ---
 
-<img src="/images/jeanlassalle.jpeg" style="float: center"/> 
+![Jean Lassalle](/images/jeanlassalle.jpeg)
 
 Le programme de Jean Lassalle est disponible [ici](http://jeanlassalle2017.fr/le-projet-de-jean-lassalle/).
 

@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: http://bit.ly/2jik0Bc
 ---
 
-<img src="/images/180px-BHamon2012.jpg" style="float: center"/> 
+![Benoît Hamon](/images/180px-BHamon2012.jpg) 
 
 Voir les [deuxième]({{ siteurl }}{% post_url /evenements/2017-04-04-presidentielle-2017-hamon-benoit-partie-2 %}) et [troisième]({{ siteurl }}{% post_url /evenements/2017-04-04-presidentielle-2017-hamon-benoit-partie-3 %}) parties. Le programme de Benoît Hamon est disponible sur cette [page](https://www.benoithamon2017.fr/wp-content/uploads/2017/03/projet-web1.pdf).
 

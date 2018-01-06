@@ -14,11 +14,11 @@ Attention : on parle ici d'arêtes, donc le graphe est non orienté. On rappelle
 
 Voici ci-dessous le graphe G de l'exercice :
 
-<img src="/images/2017-12-16-image1.png" style="float: center"/> 
+![graphe G](/images/2017-12-16-image1.png)
 
 Voici un exemple de l'inégalité prouvée précédemment sur G :
 
-<img src="/images/2017-12-16-image2.png" style="float: center"/> 
+![inégalité](/images/2017-12-16-image2.png)
 
 Pour montrer que $\chi$(G) = 3, il suffit donc de montrer que $\chi$(G) est supérieur à trois. Pour cela, on peut tester les cas $\chi$(G) = 1 et $\chi$(G) = 2, et montrer que de telles colorations ne respectent pas la propriété requise (P). 
 
@@ -120,11 +120,11 @@ Le graphe $K_4$ est-il planaire ? $K_5$ est-il planaire ? (Indice : il y a un ou
 
 $K_4$ est planaire, voir le dessin ci-dessous :
 
-<img src="/images/2017-12-16-image6.png" style="float: center"/> 
+![K4 planaire](/images/2017-12-16-image6.png)
 
 **Une autre famille de graphes particulière : les graphes connexes** Un graphe connexe est un graphe tel que, pour tous sommets i et j distincts, il existe un chemin, c'est-à-dire une suite d'arêtes/arcs, dans le graphe de i vers j (et de j vers i, si le graphe est non orienté). Par exemple, $K_3$ est connexe. Donnez un exemple de graphe non connexe, et justifiez sa non-connexité (On exhibera donc un couple de sommets qui ne respecte pas la condition ci-dessus).
 
-<img src="/images/2017-12-16-image7.png" style="float: center"/> 
+![graphe non connexe](/images/2017-12-16-image7.png)
 
 0 et 1 ne respectent pas la condition de connexité, puisque ce graphe ne possède pas d'arête.
 
@@ -132,7 +132,7 @@ $K_4$ est planaire, voir le dessin ci-dessous :
 
 Le graphe est bien biparti : on colore les noeuds du premier ensemble de sommets en rouge, ceux du deuxième ensemble en vert.
 
-<img src="/images/2017-12-15-image3.png" style="float: center"/> 
+![graphe biparti](/images/2017-12-15-image3.png)
 
 L'énoncé du théorème utilise un "si et seulement si" : il s'agit alors de prouver les deux sens de l'équivalence.
 

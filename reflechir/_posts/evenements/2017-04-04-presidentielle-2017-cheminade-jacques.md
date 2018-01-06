@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: http://bit.ly/2mld1J2
 ---
 
-<img src="/images/220px-Jacques-Cheminade_2.jpg" style="float: center"/> 
+![Jacques Cheminade](/images/220px-Jacques-Cheminade_2.jpg) 
 
 Le programme de Jacques Cheminade est disponible [ici](http://www.cheminade2017.fr/-Projet-2017-).
 

@@ -43,25 +43,24 @@ J'écris ici seulement l'essentiel : /!\ Ne pas utiliser de crochets à part pou
 
 * Mettre en italique mot : *mot*
 
-* Ajouter une image : mettre l'image dans le dossier "images" et écrire
-<img src="/images/[nom de l'image].[extension]" style="float: center"/> 
+* Ajouter une image : mettre l'image dans le dossier "images" et écrire:
+
+![Texte alternatif invisible](/images/[nom de l'image].[extension])
 
 * Faire un tableau : voir les liens précédents ou https://www.tablesgenerator.com/markdown_tables, https://help.github.com/articles/organizing-information-with-tables/
 
 Exemple : 
 
-| A| B|A ou B|
-|---|---|----|
-| 0| 0| 0    |
-| 0| 1|   1  |
-| 1| 0|    1 |
-| 1| 1|    1 |
+| A | B |A ou B|
+|---|---|------|
+| 0 | 0 |  0   |
+| 0 | 1 |  1   |
+| 1 | 0 |  1   |
+| 1 | 1 |  1   |
 
 (mettre AU MOINS 3 tirets pour séparer titre des colonnes et contenu, sinon le layout hurle)
 
 Pour prévenir les erreurs d'affichage : mettre les tableaux au même endroit, si possible, et mettre au moins 5 lignes entre le début de l'article et le premier tableau (heuristique plus ou moins fiable)
-
-(ignorer : ![Légende]({{ "/images/[nom de l'image].[extension]" | absolute_url }}))
 
 * Ajouter un document PDF : mettre le document dans le dossier "pdfs" et écrire
 [PDF]({{ "/pdfs/[nom du document].pdf" | absolute_url }})
