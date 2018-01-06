@@ -5,7 +5,7 @@ var isMobile = function() {
    console.log("Navigator: " + navigator.userAgent);
    return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
 };
-if (isMobile & window.location.hostname == "reflechir.ml") {
+if (isMobile() && (window.location.hostname == "www.reflechir.ml" || window.location.hostname == "reflechir.ml")) {
 	window.location.replace('http://www.reflechir.cf' + window.location.pathname);
 }
 </script>
