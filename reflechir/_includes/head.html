@@ -37,8 +37,8 @@ MathJax.Hub.Config({
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  
-{% if site.port == 80 %}
-  {% include google-analytics.html %}
+
+{% if site.host != "localhost" %}
+	{% include google-analytics.html %}
 {% endif %}
 </head>
