@@ -7,7 +7,7 @@ categories: ""
 
 Se connecter à Tinyletter en utilisant les identifiants fournis.
 
-## Ecrire une newsletter                ##
+## Ecrire une newsletter                ##
 
 Cliquer sur "Compose" dans le panneau de contrôle à gauche. Ecrire le titre dans la boîte "Subject". Dans le corps du message, écrire d'abord :
 
