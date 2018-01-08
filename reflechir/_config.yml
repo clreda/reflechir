@@ -9,7 +9,9 @@ antichrono:             [actualités, sciences, sciences humaines,dossiers,évè
 pagenames:              ["Actualités","Sciences","Sciences humaines","Évènements","Dossiers","Fact Checking","Opinions","Mathématiques","Informatique","Biologie","Physique","Lu et approuvé","Cinéma"]
 sectionnames:           ["Actualités","Sciences","Sciences humaines"]
 
-google_analytics:       'UA-109489888-1'
+google_analyticsML:       'UA-109489888-1'
+google_analyticsCF:       'UA-112150486-1'
+
 environment:            "production"
 
 images:                 "images/"
