@@ -3,10 +3,10 @@ description:            "Ce site s'adresse à tous et a pour but de susciter la 
 url:                    http://reflechir.ml 
 email:                  sitereflechir@gmail.com
 lang:                   "fr"
-categories:             [actualités,sciences, sciences humaines,évènements,fact-checking,opinions,mathématiques,informatique,biologie, physique,dossiers,lu et approuvé,cinéma]
+categories:             [actualités,sciences, sciences humaines,évènements,fact-checking,opinions,mathématiques,informatique,biologie, physique,dossiers,lu et approuvé,vu et approuvé]
 sections:               [actualités, sciences, sciences humaines]
-antichrono:             [actualités, sciences, sciences humaines,dossiers,évènements,fact-checking,opinions,cinéma]
-pagenames:              ["Actualités","Sciences","Sciences humaines","Évènements","Dossiers","Fact Checking","Opinions","Mathématiques","Informatique","Biologie","Physique","Lu et approuvé","Cinéma"]
+antichrono:             [actualités, sciences, sciences humaines,dossiers,évènements,fact-checking,opinions,vu et approuvé]
+pagenames:              ["Actualités","Sciences","Sciences humaines","Évènements","Dossiers","Fact Checking","Opinions","Mathématiques","Informatique","Biologie","Physique","Lu et approuvé","vu et approuvé"]
 sectionnames:           ["Actualités","Sciences","Sciences humaines"]
 
 google_analyticsML:       'UA-109489888-1'
@@ -103,10 +103,10 @@ defaults:
       category:         [lu et approuvé,sciences humaines]
   -
     scope:
-      path:             "_posts/cinema"
+      path:             "_posts/vuetapprouve"
     values:
-      title:            "Cinéma"
-      category:         [cinéma,sciences humaines]
+      title:            "vu et approuvé"
+      category:         [vu et approuvé,sciences humaines]
 
 images:                 "images/"
 source:                 .
