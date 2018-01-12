@@ -110,7 +110,7 @@ Le but de ces mesures est de partager le temps de travail plus efficacement afin
 
 ####  « Créer un service public de la petite enfance et ouvrir 500 000 places en crèche et modes de garde adaptés dans les cinq ans » (72) ####
  
-### JEUNES ###
+### JEUNES ###
 
 ####  « Instaurer une allocation d'autonomie pour les jeunes de 18 à 25 ans, d'une durée de trois ans, sous réserve d'une formation qualifiante et sous condition de ressources » (27) ####
 
@@ -118,7 +118,7 @@ Le but de ces mesures est de partager le temps de travail plus efficacement afin
 
 ####  « Créer un service citoyen obligatoire : - Pour les femmes et pour les hommes - Par conscription avant 25 ans, proche du lieu de vie, en limitant le "casernement" aux fonctions qui l'exigent réellement - D'une durée totale de neuf mois, comprenant une formation militaire initiale incluant un droit à l'objection de conscience - Rémunéré au SMIC - Affecté à des tâches d'intérêt général : secours à la population, sapeurs-pompiers, sécurité publique, défense, sécurité civile, protection et réparation de l'environnement, appui à des associations labellisées d'intérêt général - Présence sur tout le territoire, y compris les Outre-mer, les zones rurales et les quartiers populaires - Comprenant un bilan de santé, une évaluation des capacités d'écriture, de lecture et de calcul avec leur éventuelle mise à niveau, la formation gratuite à la conduite et le passage de l'examen du permis de conduire » (14) ####
 
-### PERSONNES ÂGÉES ###
+### PERSONNES ÂGÉES ###
 
 ####  « Réduire le « reste à charge » de 500 euros par mois pour les personnes en établissement et augmenter de 50 % le montant de l'APA (Allocation personnalisée d'autonomie, aujourd'hui de 700 euros) pour les personnes restant à domicile, pour faire face en urgence aux frais engagés par les personnes concernées » (71) ####
 
@@ -186,7 +186,7 @@ Jean-Luc Mélenchon propose d'inscrire dans la nouvelle Constitution le droit à
 
 ####  « Assurer la pérennité des moyens pour le financement de l'insertion professionnelle des personnes en situation de handicap et garantir leur usage exclusif pour ces missions » (68) ####
 
-### LAÏCITÉ ###
+### LAÏCITÉ ###
 
 ####  « Étendre le bénéfice de l'application de la loi de 1905 à tout le territoire de la République (abroger le concordat d'Alsace-Moselle et les divers statuts spécifiques en vigueur dans les Outre-mer) » (7) ####
 
