@@ -17,18 +17,11 @@ Voir les [première]({{ siteurl }}{% post_url /evenements/2017-04-04-presidentie
 ####  « Créer une fonction de délégués départementaux à l'écologie chargés d'alerter sur les dysfonctionnements, sur le modèle des délégués départementaux de l'Éducation nationale » (38) ####
 
 ####  « 100% d'énergies renouvelables en 2050 » (39) ####
-Voir l'étude ([source](https://negawatt.org/Scenario-negaWatt-2017)) pour la faisabilité.
+Voir l'étude negawatt ([source](https://negawatt.org/Scenario-negaWatt-2017)) pour la faisabilité.
 
-####  « Adopter un plan de transition énergétique avec un double axe sobriété/efficacité énergétique et transition vers les énergies renouvelables ####
-Développer l'ensemble des énergies renouvelables
-Sortir des énergies carbonées en commençant par l'arrêt des subventions aux énergies fossiles et de toute exploration de gaz et pétrole de schiste et de houille
-Stopper la privatisation des barrages hydroélectriques » (39)
+####  « Adopter un plan de transition énergétique avec un double axe sobriété/efficacité énergétique et transition vers les énergies renouvelables, Développer l'ensemble des énergies renouvelables, Sortir des énergies carbonées en commençant par l'arrêt des subventions aux énergies fossiles et de toute exploration de gaz et pétrole de schiste et de houille, Stopper la privatisation des barrages hydroélectriques » (39) ####
 
-####  « Sortir du nucléaire ####
-Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démantèlement
-Abandonner l'opération du grand carénage visant à prolonger la vie des centrales nucléaires au-delà de quarante ans
-Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure
-Rendre publique les données sur l'enfouissement des déchets nucléaires depuis soixante ans et informer sur les dangers sanitaires avérés et/ou éventuels » (39)
+####  « Sortir du nucléaire, Fermer immédiatement Fessenheim en garantissant l'emploi des salariés et leur formation pour en faire un site pilote du démantèlement, Abandonner l'opération du grand carénage visant à prolonger la vie des centrales nucléaires au-delà de quarante ans, Abandonner les projets d'EPR (Flamanville et Hinkley Point) et d'enfouissement des déchets nucléaires à Bure, Rendre publique les données sur l'enfouissement des déchets nucléaires depuis soixante ans et informer sur les dangers sanitaires avérés et/ou éventuels » (39) ####
 
 ####  « Créer un pôle public de l'énergie pour mener une politique cohérente, en renationalisant EDF et Engie (ex-GDF) en lien avec des coopératives locales de production et de consommation d'énergies renouvelables et en favorisant l'autoproduction et le partage des excédents » (39) ####
 
@@ -63,7 +56,8 @@ Rendre publique les données sur l'enfouissement des déchets nucléaires depuis
 ####  « Rembourser à 100 % les soins de santé prescrits, dont les soins et appareils dentaires, optiques et auditifs, faire baisser les tarifs des lunettes et appareils auditifs » (67) ####
 Il n'y aura alors plus besoin de mutuelle.
 
-####  « Combler les déserts médicaux et créer un corps de médecins généralistes fonctionnaires rémunérés pendant leurs études, afin de pallier l'insuffisance de médecins dans certaines zones » (67) Il semble que Jean-Luc Mélenchon veut payer certains médecins pendant leurs études en échange de leur implantation dans les déserts médicaux. ####
+####  « Combler les déserts médicaux et créer un corps de médecins généralistes fonctionnaires rémunérés pendant leurs études, afin de pallier l'insuffisance de médecins dans certaines zones » (67) ####
+Il semble que Jean-Luc Mélenchon veut payer certains médecins pendant leurs études en échange de leur implantation dans les déserts médicaux.
 
 ####  « Abolir les dépassements d'honoraires, renforcer le paiement au forfait, créer des centres de santé pratiquant le tiers payant » (67) ####
 
@@ -77,10 +71,7 @@ Il n'y aura alors plus besoin de mutuelle.
 
 ####  « Affecter les recettes des taxes sur le cannabis à des programmes de lutte contre les addictions et à une politique de prévention et d'aide à la désintoxication » (69) ####
 
-####  « Renforcer la médecine du travail ####
-Intégrer la médecine du travail au service public de santé et garantir ses moyens
-Restaurer la visite médicale obligatoire à l'embauche auprès d'un médecin et périodiquement en cours de contrat de travail
-Ouvrir l'accès de la médecine du travail aux chômeurs et instaurer une visite obligatoire pour les chômeurs au-delà de six mois » (70)
+####  « Renforcer la médecine du travail, Intégrer la médecine du travail au service public de santé et garantir ses moyens, Restaurer la visite médicale obligatoire à l'embauche auprès d'un médecin et périodiquement en cours de contrat de travail, Ouvrir l'accès de la médecine du travail aux chômeurs et instaurer une visite obligatoire pour les chômeurs au-delà de six mois » (70) ####
 
 ####  « Reconnaître le burn-out comme maladie professionnelle, lutter contre l'idéologie managériale et ses effets psychologiques et sanitaires et imposer l'enseignement des sciences sociales et des risques psychosociaux dans les cursus de gestion/commerce/ressources humaines » (70) ####
 
@@ -93,11 +84,8 @@ Jean-Luc Mélenchon veut encourager les entreprises à éviter les accidents du 
 
 ####  « Refonder le financement de l'enseignement supérieur et de la recherche pour favoriser les financements pérennes, plutôt que des appels à projets erratiques, augmenter le budget des universités et assurer une rémunération unifiée » (75) ####
 
-####  « Abroger les lois LRU et Fioraso pour : ####
-reconstruire une offre cohérente de formations d'enseignement supérieur sur tout le territoire, y compris dans les villes moyennes, et pilotées nationalement. Les communautés d'universités et d'établissements (comUE), regroupements forcés, seront dissoutes
-arrêter le féodalisme des présidents d'universités pour une direction démocratique et collégiale des universités, pour des procédures transparentes d'attributions des postes d'enseignants-chercheurs, pour mettre un terme à la concurrence entre universités, dont la concurrence malsaine pour les financements, ainsi qu'à l'évaluation permanente, chronophage et bureaucratique, au profit d'une évaluation scientifique » (75)
-
-La loi LRU (loi relative aux libertés et responsabilités des universités, aussi appelée loi Pécresse), adoptée en 2007 sous le gouvernement Fillon, a permis aux universités de devenir « autonomes », notamment en gérant chacune son budget alors qu'avant c'était l'Etat qui s'en occupait. Le problème majeur est que l'Etat n'a pas donné assez d'argent aux universités, et puisque c'est l'Etat qui fixe les frais d'inscription et les salaires des enseignants, les universités ne contrôlent véritablement ni leurs rentrées d'argent ni leurs dépenses mais sont seules face au risque de faillite, alors qu'avant la promulgation de cette loi l'Etat était le garant de l'existence des universités. ([source](http://www.liberation.fr/societe/2013/12/22/autonomie-ces-universites-a-la-rue-a-cause-de-la-loi-lru_968473)) et ([source](https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s))
+####  « Abroger les lois LRU et Fioraso pour : reconstruire une offre cohérente de formations d'enseignement supérieur sur tout le territoire, y compris dans les villes moyennes, et pilotées nationalement. Les communautés d'universités et d'établissements (comUE), regroupements forcés, seront dissoutes, arrêter le féodalisme des présidents d'universités pour une direction démocratique et collégiale des universités, pour des procédures transparentes d'attributions des postes d'enseignants-chercheurs, pour mettre un terme à la concurrence entre universités, dont la concurrence malsaine pour les financements, ainsi qu'à l'évaluation permanente, chronophage et bureaucratique, au profit d'une évaluation scientifique » (75) ####
+La loi LRU (loi relative aux libertés et responsabilités des universités, aussi appelée loi Pécresse), adoptée en 2007 sous le gouvernement Fillon, a permis aux universités de devenir « autonomes », notamment en gérant chacune son budget alors qu'avant c'était l'Etat qui s'en occupait. Le problème majeur est que l'Etat n'a pas donné assez d'argent aux universités, et puisque c'est l'Etat qui fixe les frais d'inscription et les salaires des enseignants, les universités ne contrôlent véritablement ni leurs rentrées d'argent ni leurs dépenses mais sont seules face au risque de faillite, alors qu'avant la promulgation de cette loi l'Etat était le garant de l'existence des universités. ([source](http://www.liberation.fr/societe/2013/12/22/autonomie-ces-universites-a-la-rue-a-cause-de-la-loi-lru_968473)) et ([source](https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s))  
 La loi Fioraso (loi relative à l'enseignement supérieur et à la recherche), adoptée en 2013 sous le gouvernement Ayrault, a fait polémique sur deux points : les regroupements d'universités forcés, jugés contre-productifs, et les cursus en langue étrangère, jugés affaiblir le rayonnement de la langue française. ([source](http://www.letudiant.fr/educpros/actualite/loi-sur-l-enseignement-superieur-et-la-recherche-les-points-essentiels-de-la-reforme-fioraso.html)) et ([source](https://fr.wikipedia.org/wiki/Loi_relative_%C3%A0_l%27enseignement_sup%C3%A9rieur_et_%C3%A0_la_recherche))
 
 ####  « Mettre fin à la précarité des doctorants et jeunes chercheurs par la titularisation des personnels effectuant des missions pérennes » (75) ####
@@ -120,11 +108,7 @@ La loi Fioraso (loi relative à l'enseignement supérieur et à la recherche), a
 
 ## VII) Justice ##
 
-####  « Mettre fin à la paupérisation de la justice et de l'administration pénitentiaire : ####
-Mettre en œuvre un plan de recrutement de personnels pour désengorger les tribunaux
-Rénover et construire de nouveaux locaux pour les tribunaux
-Recruter 2000 agents pénitentiaires pour les escortes des détenus
-Mettre fin au tout-carcéral par des peines alternatives à la prison, rénover les prisons pour garantir la dignité humaine, assurer la socialisation des détenus » (11)
+####  « Mettre fin à la paupérisation de la justice et de l'administration pénitentiaire :Mettre en œuvre un plan de recrutement de personnels pour désengorger les tribunaux, Rénover et construire de nouveaux locaux pour les tribunaux, Recruter 2000 agents pénitentiaires pour les escortes des détenus, Mettre fin au tout-carcéral par des peines alternatives à la prison, rénover les prisons pour garantir la dignité humaine, assurer la socialisation des détenus » (11) ####
 
 ####  « Réformer le dualisme juridictionnel en supprimant la fonction juridictionnelle du Conseil d'Etat et en créant une juridiction suprême commune aux deux ordres de juridiction (fusionnant la Cour de cassation et la fonction juridictionnelle du Conseil d'Etat) » (11) ####
 Le Conseil d'Etat est l'équivalent de la Cour de cassation pour les personnes investies d'un pouvoir public (dans l'exécutif, les collectivités territoriales etc). ([source](http://www.conseil-etat.fr/Conseil-d-Etat/Missions/Juger-l-administration))
@@ -137,7 +121,8 @@ Le Conseil d'Etat est l'équivalent de la Cour de cassation pour les personnes i
 
 La stratégie de Jean-Luc Mélenchon face à l'Union européenne (UE) s'articule autour d'un plan A et d'un plan B, entre lesquels le peuple choisira par référendum : le plan A consiste en la refondation de l'UE et le plan B consiste en la sortie de l'UE.
 
-« Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la négociation » (51) Entre autres, Mélenchon propose de :
+#### « Plan A. Proposer une refondation démocratique, sociale et écologique des traités européens par la négociation » (51) ####
+Entre autres, Mélenchon propose de :
 
 ####  « Mettre fin à l'indépendance de la Banque centrale européenne » et de « modifier ses missions et statuts ». ####
 La Banque centrale européenne (BCE) a été au cœur de plusieurs polémiques, accusée de dicter à plusieurs Etats européens les politiques économiques et budgétaires qu'ils devaient mener s'ils voulaient bénéficier de l'aide de la BCE ; voir ([source](http://www.latribune.fr/economie/union-europeenne/irlande-la-commission-d-enquete-sur-la-crise-financiere-met-en-cause-la-bce-546559.html)) pour le cas de l'Irlande.
@@ -155,9 +140,10 @@ L'harmonisation sociale et fiscale consiste à aligner les salaires, les retrait
 
 ####  « Abandonner le marché carbone et mettre en œuvre une véritable politique de réduction des gaz à effet de serre » ####
 
-« En cas d'accord, le résultat des négociations sera soumis à référendum du peuple français qui décidera souverainement de sa participation à l'Union européenne refondée ou de la sortie »
+#### « En cas d'accord, le résultat des négociations sera soumis à référendum du peuple français qui décidera souverainement de sa participation à l'Union européenne refondée ou de la sortie » ####
 
 Dans le cadre du plan B (52), en cas de sortie de l'UE, Mélenchon propose entre autres de :
+
 ####  « Mettre en place un contrôle des capitaux et des marchandises aux frontières nationales pour éviter l'évasion fiscale des plus riches et des grands groupes, et se protéger des attaques spéculatives et du dumping social, fiscal et écologique » ####
 
 ####  « Construire de nouvelles coopérations avec les Etats qui le souhaitent en matière culturelle, éducative, scientifique, etc » ####

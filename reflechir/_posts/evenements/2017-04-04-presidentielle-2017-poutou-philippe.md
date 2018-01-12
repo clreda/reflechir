@@ -28,9 +28,8 @@ Le programme économique de Poutou est révolutionnaire : il propose la réquisi
 
 Poutou parle d'« embauches correspondantes » parce que si le nombre d'heures qui doivent être faites est le même mais que chaque personne travaille moins d'heures, alors il faut plus de travailleurs.
 
-#### « Le SMIC à 1 700 euros net tout de suite, et une augmentation de tous les salaires de 300 euros. » Aujourd'hui le SMIC (salaire minimum interprofessionnel de croissance) est à 1 153 euros net par mois #### 
-
-Source : [ici](http://www.journaldunet.com/management/salaire-cadres/1071810-smic/).
+#### « Le SMIC à 1 700 euros net tout de suite, et une augmentation de tous les salaires de 300 euros. » ####
+Aujourd'hui le SMIC (salaire minimum interprofessionnel de croissance) est à 1 153 euros net par mois ([source](http://www.journaldunet.com/management/salaire-cadres/1071810-smic/))
 
 #### « Un CDI, un emploi statutaire pour toutes et tous. » ####
 
@@ -164,7 +163,7 @@ La réforme du collège est composée de la loi de 2013 d'orientation et de prog
 
 #### « Pas plus de 20 [élèves] par classe dans les lycées » ####
 
-## XIII) Outre-Mer ##
+## XIII) Outre-Mer ##
 
 Pas de mesure.
 
@@ -194,9 +193,9 @@ Ces cas peuvent motiver cette mesure de Poutou.
 
 ## Comparaison avec les autres candidats ##
 
-Comme Mélenchon, Poutou est pour la dissolution des BAC et le désarmement de la police.
-Comme Arthaud, Mélenchon, Hamon, Le Pen, et Cheminade, Poutou est pour l’abrogation de la Loi Travail, aussi appelée loi El Khomri.
-Comme Arthaud, Poutou est pour l’ouverture des frontières, pour la liberté de circulation et d’installation.
+Comme Mélenchon, Poutou est pour la dissolution des BAC et le désarmement de la police.  
+Comme Arthaud, Mélenchon, Hamon, Le Pen, et Cheminade, Poutou est pour l’abrogation de la Loi Travail, aussi appelée loi El Khomri.  
+Comme Arthaud, Poutou est pour l’ouverture des frontières, pour la liberté de circulation et d’installation.  
 
 L'image vient de lemonde.fr.
 
