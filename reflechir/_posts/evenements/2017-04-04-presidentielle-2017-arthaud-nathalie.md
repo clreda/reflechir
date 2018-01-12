@@ -103,7 +103,7 @@ Pas de mesure.
 
 ## Comparaison ##
 
-Comme Poutou et Mélenchon, Arthaud est pour l’augmentation du SMIC, mais va plus loin qu’eux (elle propose 1800 euros net par mois (pour 35 heures par semaine) tandis que Poutou propose 1700 euros net et Mélenchon propose 1326 euros net).
+Comme Poutou et Mélenchon, Arthaud est pour l’augmentation du SMIC, mais va plus loin qu’eux (elle propose 1800 euros net par mois (pour 35 heures par semaine) tandis que Poutou propose 1700 euros net et Mélenchon propose 1326 euros net).  
 Comme Poutou, Arthaud est pour l’ouverture des frontières, pour la liberté de circulation et d’installation.
 
 L'image est de Thomas Bresson et vient de la [page](https://fr.wikipedia.org/wiki/Nathalie_Arthaud#/media/File:2017-02-11_16-10-22_meeting-lo-belfort_cropped.jpg) et est sous [licence](https://creativecommons.org/licenses/by/4.0/).
