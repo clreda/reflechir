@@ -61,7 +61,10 @@ def trouver_coloration(S,A):
 	m = 1
 	## Si le graphe ne       ##
 	## contient qu'un seul   ##
-	## sommet                ##
+	## sommet ou ne possède  ##
+	## aucune arête (on dit  ##
+	## que les sommets de ce ##
+	## graphe sont isolés    ##
 	if (len(A)==0):
 		return(m)
 	i = 0
@@ -69,7 +72,7 @@ def trouver_coloration(S,A):
 	## noeuds ne sont pas    ##
 	## coloriés              ##
 	while (any([v==None for v in col]) and i < len(S)):
-		## Les voisins du noeud d'index i sont les noeuds qui ##
+		## Les voisins du noeud d'indice i sont les noeuds qui ##
 		## partagent une arête/arc avec ce noeud              ##
 		## On récupère ici tous les sommets entrants ayant    ##
 		## une arête/arc en commun avec le sommet S[i]        ##
@@ -112,7 +115,7 @@ A=[["Mathématiques", "Français"], ["Histoire", "SVT"], ["SVT", "Physique"]]
 print(trouver_coloration(S, A))
 ```
 
-L'algorithme retourne bien m=2 sur cette instance.
+L'algorithme retourne bien m=2 sur cette instance. Si on choisit de retourner aussi le tableau **col**, on a un exemple de coloration minimale (i.e. une coloration qui respecte la propriété (P) avec un nombre minimal de couleurs) pour le graphe en entrée. Cette coloration n'est pas forcément unique !
 
 **Une famille de graphes particulière : les graphes planaires** Un graphe planaire G est tel qu'il existe une façon de le dessiner sans que les arêtes ne s'intersectent. Un __graphe planaire plongé__ est un graphe qui est dessiné sans que les arêtes ne s'intersectent. Autrement dit, un graphe planaire peut être dessiné sous forme d'un graphe planaire plongé. Ici, lorsqu'on évoquera un graphe planaire, on pensera à sa version plongée.
 
@@ -144,3 +147,4 @@ Supposons que le graphe a un nombre chromatique inférieur à 2, donc égal à 1
 
 **Modifications du 30/12/2017 :** Correction de quelques tournures de phrases; commentaire de l'algorithme en Python. Modification de la démonstration de l'exercice 3 (merci à Clémentine Lemarié-Rieusset).
 
+**Modifications du 22/01/2018 :** Correction du commentaire de l'algorithme (le cas "len(A) == 0" s'applique aussi à un ensemble de sommets isolés de taille arbitraire). Correction d'une tournure de phrase. Ajout du résultat d'existence d'une coloration minimale retournée par l'algorithme.
