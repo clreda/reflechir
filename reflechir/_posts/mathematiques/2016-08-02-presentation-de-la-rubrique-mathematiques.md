@@ -4,11 +4,11 @@ date: 2016-08-02
 bitlink: goo.gl/yNojnE
 ---
 
-Les articles sont rédigés de telle manière à ce que l'on puisse s'arrêter à n'importe quel moment (après avoir lu le premier article, après avoir lu les quatre premiers articles, après avoir lu les onze premiers articles, etc) en ayant pu profiter de ses lectures (et exercices !) pour s'amuser, découvrir le monde des maths et enrichir sa réflexion.
+Les articles sont rédigés de telle manière à ce que l'on puisse s'arrêter à n'importe quel moment (après avoir lu le premier article , ou les quatre premiers, les onze premiers, etc articles) en ayant pu profiter de ses lectures (et exercices !) pour s'amuser, découvrir le monde des mathématiques et enrichir sa réflexion.
 
-Normalement on peut comprendre les 42 articles sans jamais avoir fait de maths avant, par contre un article peut reprendre des notations et des idées des articles précédents (il est donc conseillé de lire les articles dans l'ordre, et de ne pas hésiter à relire rapidement un article déjà lu si on a attendu longtemps avant de lire la suite (par exemple parce que je n'ai pas encore publié la suite... le calendrier de publication est donné plus bas)).
+Normalement on peut comprendre les 42 articles sans jamais avoir fait de mathématiques avant; par contre un article peut reprendre des notations et des idées des articles précédents (il est donc conseillé de lire les articles dans l'ordre, et de ne pas hésiter à relire rapidement un article déjà lu si on a attendu longtemps avant de lire la suite, ce qui peut arriver par exemple si je n'ai pas encore publié la suite... le calendrier de publication est donné plus bas).
 
-Les articles de maths seront modifiés au fur et à mesure des remarques des lecteurs, afin d'être toujours plus intéressants et plus accessibles. N'hésitez pas à envoyer des remarques à l'adresse mail sitereflechir@gmail.com ! 
+Les articles de maths seront modifiés au fur et à mesure des remarques des lecteurs, afin d'être toujours plus intéressants et plus accessibles. N'hésitez pas à envoyer des remarques à l'adresse mail indiquée dans la barre à droite du site ! 
 
 Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premier dans cette rubrique, mais a été publié le 20 janvier 2018. Les modifications de cet article et des autres articles de maths ne seront pas indiquées, contrairement à celles des autres articles du site, afin de ne pas finir par avoir une liste de modifications plus longue que l'article lui-même.
 
@@ -46,16 +46,17 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 30) Analyse 4
 31) Algèbre 4
 32) Où en est la recherche en mathématiques ?
-33)  à 42. Dix articles qui présentent des domaines de recherche en mathématiques
+33)  à 42. Dix articles qui présentent des domaines de recherche en mathématiques.
 
  
-Calendrier de publication :  
-2018 : 6 et 7  
-2019 : 8 – 11  
-2020 : 12 – 18  
-2021 : 19 – 25  
-2022 : 26 – 32  
-J'espère avoir fini d'ici 2025.
+| Calendrier de publication : | 
+|-----------------------------|
+| 2018 : 6 et 7 | 
+| 2019 : 8 – 11 | 
+| 2020 : 12 – 18 | 
+| 2021 : 19 – 25 | 
+| 2022 : 26 – 32 | 
+| J'espère avoir fini d'ici 2025. |
 
 J'espère que les articles de mathématiques vous plairont !
 
