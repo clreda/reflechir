@@ -10,7 +10,7 @@ Normalement on peut comprendre les 42 articles sans jamais avoir fait de mathém
 
 Les articles de maths seront modifiés au fur et à mesure des remarques des lecteurs, afin d'être toujours plus intéressants et plus accessibles. N'hésitez pas à envoyer des remarques à l'adresse mail indiquée dans la barre à droite du site ! 
 
-Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premier dans cette rubrique, mais a été publié le 20 janvier 2018. Les modifications de cet article et des autres articles de maths ne seront pas indiquées, contrairement à celles des autres articles du site, afin de ne pas finir par avoir une liste de modifications plus longue que l'article lui-même.
+Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premier dans cette rubrique, mais a été publié le 20 janvier 2018. Les modifications de cet article et des autres articles de mathématiques ne seront pas indiquées, contrairement à celles des autres articles du site, afin de ne pas finir par avoir une liste de modifications plus longue que l'article lui-même.
 
 Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corrigés) :
 
