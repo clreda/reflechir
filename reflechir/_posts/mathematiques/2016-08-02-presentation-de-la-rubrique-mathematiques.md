@@ -14,39 +14,39 @@ Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premie
 
 Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corrigés) :
 
-1) Les raisonnements en mathématiques
-2) Le raisonnement par récurrence
-3) Les raisonnement par contraposition
-4) Le raisonnement par analyse-synthèse
-5) Arithmétique
-6) Théorie des ensembles
-7) Géométrie
-8) Probabilités
-9) Analyse
-10) Algèbre
-11) Sites de mathématiques
-12) Arithmétique 2
-13) Théorie des ensembles 2
-14) Géométrie 2
-15) Probabilités 2
-16) Analyse 2
-17) Algèbre 2
-18) 18 grands mathématiciens
-19) Théorie des nombres
-20) Théorie des ensembles 3
-21) Topologie
-22) Probabilités 3
-23) Analyse 3
-24) Algèbre 3
-25) Que sont les mathématiques ?
-26) Théorie des nombres 2
-27) Théorie des ensembles 4
-28) Topologie 2
-29) Probabilités 4
-30) Analyse 4
-31) Algèbre 4
-32) Où en est la recherche en mathématiques ?
-33)  à 42. Dix articles qui présentent des domaines de recherche en mathématiques.
+1) Les raisonnements en mathématiques\\
+2) Le raisonnement par récurrence\\
+3) Les raisonnement par contraposition\\
+4) Le raisonnement par analyse-synthèse\\
+5) Arithmétique\\
+6) Théorie des ensembles\\
+7) Géométrie\\
+8) Probabilités\\
+9) Analyse\\
+10) Algèbre\\
+11) Sites de mathématiques\\
+12) Arithmétique 2\\
+13) Théorie des ensembles 2\\
+14) Géométrie 2\\
+15) Probabilités 2\\
+16) Analyse 2\\
+17) Algèbre 2\\
+18) 18 grands mathématiciens\\
+19) Théorie des nombres\\
+20) Théorie des ensembles 3\\
+21) Topologie\\
+22) Probabilités 3\\
+23) Analyse 3\\
+24) Algèbre 3\\
+25) Que sont les mathématiques ?\\
+26) Théorie des nombres 2\\
+27) Théorie des ensembles 4\\
+28) Topologie 2\\
+29) Probabilités 4\\
+30) Analyse 4\\
+31) Algèbre 4\\
+32) Où en est la recherche en mathématiques ?\\
+33) à 42. Dix articles qui présentent des domaines de recherche en mathématiques.\\
 
  
 | Calendrier de publication : | 
