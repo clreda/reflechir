@@ -46,7 +46,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 30) Analyse 4\\
 31) Algèbre 4\\
 32) Où en est la recherche en mathématiques ?\\
-33) à 42. Dix articles qui présentent des domaines de recherche en mathématiques.\\
+33) à 42. Dix articles qui présentent des domaines de recherche en mathématiques. \\
 
  
 | Calendrier de publication : | 
