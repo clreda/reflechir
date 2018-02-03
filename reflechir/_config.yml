@@ -10,7 +10,7 @@ pagenames:              ["Actualités","Sciences","Sciences humaines","Évèneme
 sectionnames:           ["Actualités","Sciences","Sciences humaines"]
 
 google_analyticsML:       'UA-109489888-1'
-google_analyticsCF:       'UA-112150486-1'
+google_analyticsCF:       'UA-109489888-2'
 
 environment:            "production"
 
