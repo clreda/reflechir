@@ -16,9 +16,9 @@ Notation : On note $\mathbb{N}$ l'ensemble des entiers naturels.
 
 $n \in \mathbb{N}$ signifie $n$ appartient à $\mathbb{N}$ c'est-à-dire $n$ est un entier naturel.
 
-Remarque : Si $n = a\times b$ avec $n,a,b \in \mathbb{N}$ non nuls alors $n \geq a$ (car $b \geq 1$) et $n \geq b$ (car $a \geq 1$). Pour savoir si $p \in \mathbb{N}$ est premier, il suffit donc de calculer $a\times b$ pour tous les couples $(a,b)$ d'entiers compris strictement entre $1$ et $p$ : si l'un de ces produits est égal à $p$ alors $p$ n'est pas premier, sinon $p$ est premier.
+Remarques : Si $n = a\times b$ avec $n,a,b \in \mathbb{N}$ non nuls alors $n \geq a$ (car $b \geq 1$) et $n \geq b$ (car $a \geq 1$). De plus, si $n = a\times b$ alors $a > 1$ entraîne $n > b$ et $b > 1$ entraîne $n > a$. Pour savoir si $p \in \mathbb{N}$ est premier, il suffit donc de calculer $a\times b$ pour tous les couples $(a,b)$ d'entiers compris strictement entre $1$ et $p$ : si l'un de ces produits est égal à $p$ alors $p$ n'est pas premier, sinon $p$ est premier.
 
-Exemples : $2$ est premier (il n'y a pas de couple d'entiers $(a,b)$ tel que $1<a<2$ et $1<b<2$)
+Exemples : $2$ est premier (il n'y a tout simplement pas de couple d'entiers $(a,b)$ tel que $1<a<2$ et $1<b<2$)
 
 $3$ est premier (le seul couple d'entiers à considérer est $(2,2)$ et $2 \times 2 = 4$)
 
@@ -32,21 +32,21 @@ Initialisation : $2$ est premier, d'où l'existence de la décomposition en fact
 
 Hérédité : Soit $n \in \mathbb{N}$ supérieur à $2$. Supposons que, pour tout $2 \leq m \leq n$, $m$ admet une décomposition en facteurs premiers.
 
-Si $n + 1$ est premier, $n + 1$ admet une décompositon en facteurs premiers.
+Si $n + 1$ est premier alors $n + 1$ admet une décompositon en facteurs premiers.
 
 Sinon, il existe $ 1 < a < n + 1$ et $ 1 < b < n + 1$ tels que $n + 1 = a \times b$.
 
-Par hypothèse de récurrence (cf. "Supposons que ..." plus haut), $a$ et $b$ admettent une décomposition en facteurs premiers, notons $a = p_1 \times ... \times p_k$ avec $k \in \mathbb{N}$, $p_1, ..., p_k$ premiers et $b = q_1 \times ... \times q_l $ avec $l \in \mathbb{N}$, $q_1, ..., q_l$ premiers.
+Par hypothèse de récurrence, $a$ et $b$ admettent une décomposition en facteurs premiers (car $2 \leq a \leq n$ et $2 \leq b \leq n$), notons $a = p_1 \times ... \times p_k$ avec $k \in \mathbb{N}$ supérieur à 1, $p_1, ..., p_k$ premiers et $b = q_1 \times ... \times q_l $ avec $l \in \mathbb{N}$ supérieur à 1, $q_1, ..., q_l$ premiers.
 
 $n + 1 = a \times b = p_1 \times ... \times p_k \times q_1 \times ... \times q_l$ donc $n + 1$ admet une décomposition en facteurs premiers.
 
-## Quelques notations pour la suite. ##
+### Quelques notations pour la suite. ###
 
-On a introduit dans cet article la notation pour l'ensemble des entiers naturels, $\mathbb{N}$.
+On a introduit dans cet article la notation pour l'ensemble des entiers naturels : $\mathbb{N}$.
 
 L'ensemble des entiers relatifs, c'est-à-dire des entiers négatifs et positifs, se note $\mathbb{Z}$. $\mathbb{Z}$ contient $0, 1, 2$ etc mais aussi $-1, -2$ etc.
 
-L'ensemble des rationnels, c'est-à-dire des fractions d'entiers, se note $\mathbb{Q}$. $\mathbb{Q}$ contient $\frac{1}{2}$, $-4$, $\frac{33}{16}$, $0$, $\frac{3}{4}$, $2$ etc.
+L'ensemble des rationnels, c'est-à-dire des fractions d'entiers, se note $\mathbb{Q}$. $\mathbb{Q}$ contient $\frac{1}{2}$, $-4$, $\frac{33}{16}$, $0$, $-\frac{3}{4}$, $2$ etc.
 
 L'ensemble des réels se note $\mathbb{R}$. C'est l'ensemble des longueurs possibles d'un segment (la longueur du rebord de votre table est un réel).
 
