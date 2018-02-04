@@ -20,7 +20,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 2. Le raisonnement par récurrence (et quelques notations ensemblistes)
 
-3. Les raisonnement par contraposition (et le raisonnement par l'absurde)
+3. Le raisonnement par contraposition (et le raisonnement par l'absurde)
 
 4. Le raisonnement par analyse-synthèse (et le raisonnement par disjonction de cas) 
 
