@@ -6,7 +6,7 @@ bitlink : goo.gl/jY3rbA
 
 Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas.
 
-###Ordonnance n° 2017-1385 du 22 septembre 2017 relative au renforcement de la négociation collective###
+### Ordonnance n° 2017-1385 du 22 septembre 2017 relative au renforcement de la négociation collective ###
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=id)
 
@@ -16,8 +16,7 @@ Cette ordonnance donne deux listes : une liste de matières pour lesquelles la 
 
 [Le rapport au Président de la République](https://www.legifrance.gouv.fr/eli/rapport/2017/9/23/MTRT1724786P/jo/texte)
 
-###Ordonnance n° 2017-1386 du 22 septembre 2017 relative à la nouvelle organisation du dialogue
-social et économique dans l’entreprise et favorisant l’exercice et la valorisation des responsabilités syndicales###
+### Ordonnance n° 2017-1386 du 22 septembre 2017 relative à la nouvelle organisation du dialogue social et économique dans l’entreprise et favorisant l’exercice et la valorisation des responsabilités syndicales ###
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035607348&categorieLien=id)
 
@@ -25,7 +24,7 @@ Cette ordonnance fusionne les trois instances représentatives du personnel (dé
 
 [Le rapport au Président de la République](https://www.legifrance.gouv.fr/eli/rapport/2017/9/23/MTRT1724789P/jo/texte)
 
-###Ordonnance n° 2017-1387 du 22 septembre 2017 relative à la prévisibilité et la sécurisation des relations de travail###
+### Ordonnance n° 2017-1387 du 22 septembre 2017 relative à la prévisibilité et la sécurisation des relations de travail ###
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035607388&categorieLien=id)
 
@@ -38,7 +37,7 @@ Les CDI de chantier ou d'opération seront désormais possibles dans tous les se
 
 [Le rapport au Président de la République](https://www.legifrance.gouv.fr/eli/rapport/2017/9/23/MTRT1724787P/jo/texte)
 
-###Ordonnance n° 2017-1388 du 22 septembre 2017 portant diverses mesures relatives au cadre de la négociation collective###
+### Ordonnance n° 2017-1388 du 22 septembre 2017 portant diverses mesures relatives au cadre de la négociation collective ###
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035607456&categorieLien=id)
 
@@ -46,8 +45,7 @@ Cette ordonnance étend les possibilités d’élargissement par le/la ministre 
 
 [Le rapport au Président de la République](https://www.legifrance.gouv.fr/eli/rapport/2017/9/23/MTRT1724788P/jo/texte)
 
-Ordonnance n° 2017-1389 du 22 septembre 2017 relative à la prévention et à la prise en compte
-des effets de l’exposition à certains facteurs de risques professionnels et au compte professionnel de prévention
+### Ordonnance n° 2017-1389 du 22 septembre 2017 relative à la prévention et à la prise en compte des effets de l’exposition à certains facteurs de risques professionnels et au compte professionnel de prévention ###
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035607482&categorieLien=id)
 
