@@ -47,14 +47,14 @@ Si c'est une sous-section à ajouter, ajouter :
       category:         ["[sous-section]","[section associée]"]
 "
 
-3) Ajouter à la variable "categories" (en haut du fichier) "[section]" (idem pour une sous-section)
+3) Ajouter à la variable "categories" (en haut du fichier) "[section]" (idem pour une sous-section).
 
-4) Si c'est une section, alors ajouter à la variable "sections" "[section]"
+4) Si c'est une section, alors ajouter à la variable "sections" "[section]".
 
-5) Si les posts de cette (sous-)section doivent être montrés dans l'ordre anti-chronologique, ajouter le nom de la section à la variable "antichrono"
+5) Si les posts de cette (sous-)section doivent être montrés dans l'ordre anti-chronologique, ajouter le nom de la section à la variable "antichrono".
 
-6) Ajouter le titre de la (sous-)section à la variable "pagenames"
+6) Ajouter le titre de la (sous-)section à la variable "pagenames".
 
-7) Si c'est une section, alors ajouter à la variable "sectionnames" le titre de la section
+7) Si c'est une section, alors ajouter à la variable "sectionnames" le titre de la section.
 
 
