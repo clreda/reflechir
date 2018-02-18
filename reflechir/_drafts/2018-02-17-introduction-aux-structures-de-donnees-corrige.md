@@ -49,6 +49,12 @@ tableau_vide = [||];;
 let suppression_tableau tableau n =
 	let len = longueur_tableau tableau in
 	let nouveau_tableau = creer_tableau tableau.(0) (len-1) in
+	if (n == 0) 
+	then 
+		for i = (n+1) to (len-2) do
+			nouveau_tableau.(i) <- tableau.(i);
+		done;
+		nouveau
 	for i = 0 to (n-1) do
 		nouveau_tableau.(i) <- tableau.(i);
 	done;
