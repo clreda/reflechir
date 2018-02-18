@@ -12,7 +12,7 @@ Dans les articles précédents, on démontrait des "énoncés". On va désormais
 Un théorème est un énoncé très important, une proposition un énoncé moins important (mais important quand même, sinon on ne se fatiguerait pas à le démontrer), un lemme est un énoncé qui va servir à démontrer un théorème et un corollaire est un énoncé qui va se démontrer grâce à un théorème.  
 Certains manuels scolaires désignent des énoncés comme étant des "propriétés", mais dans les cursus universitaires et le monde de la recherche on ne démontre jamais une "propriété" (vous pouvez remplacer vos "propriétés" par des propositions, ou des lemmes si elles servent à démontrer un théorème). 
 
-Commençons par un lemme très important.
+Commençons par ce lemme très important.
 
 _Lemme_ : Toute partie non vide de $\mathbb{N}$ admet un plus petit élément (c'est-à-dire que si $A \subset \mathbb{N}$ n'est pas vide alors il existe $n \in A$ tel que pour tout $a \in A$ $n \leq a$).
 
