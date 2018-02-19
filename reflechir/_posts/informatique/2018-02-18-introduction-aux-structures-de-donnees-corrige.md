@@ -6,16 +6,7 @@ bitlink: goo.gl/EZWpmE
 
 ## Exercice de programmation ##
 
-En OCaml, les listes et les tableaux sont évidemment présents, et ces deux structures sont implémentées de façon différente (contrairement à Python, par exemple) :
-
-```
-// La liste contenant les entiers 1, 2, et 3
-let liste = [1; 2; 3];;
-// Le tableau contenant les entiers 1, 2 et 3
-let tableau = [|1; 2; 3|];;
-```
-
-(Re)programmez les primitives de ces deux structures de données : initialisation d'un objet sans données, suppression d'un élément à une position donnée (sans erreur, donc en particulier en vérifiant que l'objet contient effectivement au moins un élément !), ajout d'un élément à une position donnée, retour de la valeur 'Vrai' ("true" en OCaml) d'un élément dans l'objet s'il y est présent, sinon de la valeur 'Faux' ("false"). Ne pas utiliser les fonctions déjà présentes en OCaml...
+En OCaml, les listes et les tableaux sont évidemment présents, et ces deux structures sont implémentées de façon différente (contrairement à Python, par exemple). (Re)programmez les primitives de ces deux structures de données : initialisation d'un objet sans données, suppression d'un élément à une position donnée (sans erreur, donc en particulier en vérifiant que l'objet contient effectivement au moins un élément !), ajout d'un élément à une position donnée, retour de la valeur 'Vrai' ("true" en OCaml) d'un élément dans l'objet s'il y est présent, sinon de la valeur 'Faux' ("false"). Ne pas utiliser les fonctions déjà présentes en OCaml...
 
 Il y a de multiples manières, plus ou moins optimisées, d'effectuer les actions précédemment citées. Ici, la lisibilité et la compréhension ont été privilégiées, au détriment de l'efficacité et de la concision. Le moyen de vérifier si les fonctions écrites effectuent **vraiment** le but que l'on leur a fixé est soit, si on est matheux, de prouver la **correction** de la fonction, en montrant qu'elle vérifie des propriétés qui imposent que le résultat soit celui attendu; soit de __déboguer__ à la main, en testant sur des exemples **variés** et **nombreux** que la fonction retourne le bon résultat : vérifier les cas limites en particulier, par exemple, quand la liste est vide, ou quand on cherche à atteindre le dernier élément du tableau, et surtout, vérifier que la fonction puisse donner une réponse cohérente dans toutes les situations (surtout quand vous lui demandez de faire une chose incohérente, comme supprimer un élément qui n'existe pas). La première méthode "formelle" de test sera présentée dans un prochain article d'informatique.
 
