@@ -28,7 +28,7 @@ Par exemple, pour le graphe suivant :
 
 La première méthode donne le tableau suivant :
 
-<center>
+
 
 |  Indices  |  A1    |    A2  |    A3   |     A4   |
 |:----------|:------:|:------:|:-------:|:--------:|
@@ -37,19 +37,19 @@ La première méthode donne le tableau suivant :
 |   **A3**      |   0    |    1   |     0   |    1     |
 |   **A4**      |   0    |    1   |     1   |    0     |
 
-</center>
+
 
 Cette structure de données s'appelle une **matrice d'adjacence**.
 
 La deuxième méthode donne le tableau suivant :
 
-<center>
+
 
 |  A1    |    A2  |    A3   |     A4   |
 |:------:|:------:|:-------:|:--------:|
 | A2;    |  A3, A4;|  A2, A4; |  A2, A3;  |
 
-</center>
+
 
 Cette structure de données s'appelle un tableau de **listes d'adjacence**.
 
@@ -60,7 +60,7 @@ Dans la suite de cet article, nous allons rencontrer deux autres types de struct
 Les listes ici sont plus exactement des **listes simplement chaînées** ici. Elles contiennent des éléments souvent de même nature, selon le langage de programmation utilisé : par exemple, que des entiers, que des nombres réels, etc. Ces éléments sont ordonnés : la liste commence par un élément de **tête**, et finit par un ensemble d'éléments appelés **queue**. La liste est construite de façon récursive : l'élément de tête est relié au premier élément de la queue (qui est lui-même, s'il existe, l'élément de tête de la queue) par un **pointeur**, c'est-à-dire un lien entre deux espaces mémoires de l'ordinateur. Depuis l'élément de tête, on peut accéder à l'élément de tête de la queue de la liste initiale, et depuis ce dernier, on peut à nouveau accéder à l'élément de tête du reste de la liste, etc. Le dernier élément de la liste est relié à un élément "vide", appelé souvent **nil**, qui marque la fin de la liste.
 
 ![exemple de liste chaînée (travail de Lasindi, Wikipédia)](/images/408px-Singly-linked-list.svg.png)
-<center>Image de l'utilisateur Lasinki, Wikipédia</center>
+Image de l'utilisateur Lasinki, Wikipédia
 
 Le but des listes est de faciliter l'ajout et la suppression d'éléments (de tête) à stocker, au détriment de l'accès à un élément précis de la liste différent de l'élément de tête, par exemple.
 
