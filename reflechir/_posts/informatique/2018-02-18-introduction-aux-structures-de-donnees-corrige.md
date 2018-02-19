@@ -8,7 +8,7 @@ bitlink: goo.gl/EZWpmE
 
 En OCaml, les listes et les tableaux sont évidemment présents, et ces deux structures sont implémentées de façon différente (contrairement à Python, par exemple) :
 
-```ocaml
+```
 // La liste contenant les entiers 1, 2, et 3
 let liste = [1; 2; 3];;
 // Le tableau contenant les entiers 1, 2 et 3
@@ -21,7 +21,7 @@ Il y a de multiples manières, plus ou moins optimisées, d'effectuer les action
 
 Pour les listes :
 
-```ocaml
+```
 liste_vide = [];;
 
 // Suppression d'un élément à la position/indice n
@@ -46,7 +46,7 @@ let rec rechercher_liste liste element = match liste with
 
 Pour les tableaux :
 
-```ocaml
+```
 tableau_vide = [||];;
 
 // Suppression d'un élément à la position/indice n
@@ -102,21 +102,20 @@ let rechercher_tableau tableau element =
 
 ## Quand utiliser une liste ? Quand utiliser un tableau ? ##
 
-<p>
 + __Exemple 1__ : La structure à utiliser est la liste : on peut facilement ajouter des éléments à la liste sans avoir à recréer une nouvelle liste. 
 
 + __Exemple 2__ : La structure à utiliser est le tableau : on peut accéder directement à un élément par son indice, sans avoir à parcourir l'ensemble du tableau pour ce faire.
-</p>
 
 ## Bonus ##
 
 Une liste peut être convertie en tableau, et vice-versa. Avec vos nouvelles connaissances de programmation, vous devriez être capable de convertir une liste en tableau et inversement. Vous ne voyez pas comment ? Laissez-vous un temps de réflexion, puis jetez un coup d'oeil à la solution ci-dessous.
 
-```ocaml
+```
 // Obtient la longueur d'une liste 
 let rec longueur_liste liste = match liste with
 |[]-> 0
 |ls -> 1 + longueur_liste (queue ls);;
+
 // Convertit une liste en tableau
 let liste_en_tableau liste =
 	let len = longueur_liste liste in
@@ -129,6 +128,7 @@ let liste_en_tableau liste =
 			|[] -> t
 			|h::q -> t.(!i) <- h; i := !i + 1; aux (queue liste)
 		in aux liste;;
+
 // Convertit un tableau en liste
 let tableau_en_liste tableau = 
 	let len = longueur_tableau tableau in
