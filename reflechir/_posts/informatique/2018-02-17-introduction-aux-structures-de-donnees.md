@@ -9,27 +9,26 @@ La programmation est utilisée pour résoudre des problèmes. Ces derniers amèn
 ## Définitions ##
 
 En programmation, une __structure de données__ est un type d'objet programmé qui répond à deux exigences :
-<p>
+
 - stocker des données de manière à faciliter et à optimiser en temps et en coût de stockage une opération en particulier (lecture, récupération d'un élément qui remplit un certain critère, ...);
 
 - posséder des **primitives** (des opérations "de base" sur cette structure de données) qui permettent notamment d'initialiser, de détruire, et de modifier cette structure de données.
-</p>
 
 Par exemple, un graphe n'est pas une structure de données en lui-même : c'est un objet mathématique, qui cependant peut nécessiter l'utilisation de structures de données, pour stocker ses arêtes et ses noeuds, dans le programme dans lequel le graphe est appelé.
 
 Une structure de données en elle-même est un objet abstrait : les attributs qu'elle possède ne sont pas définis par leur implémentation, c'est-à-dire le code qui décrit la structure de données. Une structure de données peut avoir plusieurs implémentations, puisqu'il peut exister plusieurs façons pour effectuer une même action. Par exemple, si l'on souhaite stocker les interactions entre les noeuds d'un graphe (voir l'article sur les graphes pour plus de détails), on peut les écrire sous au moins deux formes :
 
-<p>
 - comme un tableau à double entrée : en nommant les colonnes et les lignes avec les identifiants de chaque noeud, on place un 1 dans chaque case où les noeuds correspondant à la colonne et à la ligne de la case sont reliés par une arête (dans le cas d'un graphe non orienté), sinon on y place un 0;
 
 - comme un tableau à une seule dimension, de longueur égale au nombre de noeuds : pour chaque case nommée après le noeud N, on reporte chaque noeud qui est relié à N par une arête (dans le cas d'un graphe non orienté).
-</p>
 
 Par exemple, pour le graphe suivant :
 
 ![exemple de graphe](/images/2018-02-17-graphe.png)
 
 La première méthode donne le tableau suivant :
+
+<center>
 
 |  Indices  |  A1    |    A2  |    A3   |     A4   |
 |:----------|:------:|:------:|:-------:|:--------:|
@@ -38,13 +37,19 @@ La première méthode donne le tableau suivant :
 |   **A3**      |   0    |    1   |     0   |    1     |
 |   **A4**      |   0    |    1   |     1   |    0     |
 
+</center>
+
 Cette structure de données s'appelle une **matrice d'adjacence**.
 
 La deuxième méthode donne le tableau suivant :
 
+<center>
+
 |  A1    |    A2  |    A3   |     A4   |
 |:------:|:------:|:-------:|:--------:|
 | A2;    |  A3, A4;|  A2, A4; |  A2, A3;  |
+
+</center>
 
 Cette structure de données s'appelle un tableau de **listes d'adjacence**.
 
@@ -55,18 +60,15 @@ Dans la suite de cet article, nous allons rencontrer deux autres types de struct
 Les listes ici sont plus exactement des **listes simplement chaînées** ici. Elles contiennent des éléments souvent de même nature, selon le langage de programmation utilisé : par exemple, que des entiers, que des nombres réels, etc. Ces éléments sont ordonnés : la liste commence par un élément de **tête**, et finit par un ensemble d'éléments appelés **queue**. La liste est construite de façon récursive : l'élément de tête est relié au premier élément de la queue (qui est lui-même, s'il existe, l'élément de tête de la queue) par un **pointeur**, c'est-à-dire un lien entre deux espaces mémoires de l'ordinateur. Depuis l'élément de tête, on peut accéder à l'élément de tête de la queue de la liste initiale, et depuis ce dernier, on peut à nouveau accéder à l'élément de tête du reste de la liste, etc. Le dernier élément de la liste est relié à un élément "vide", appelé souvent **nil**, qui marque la fin de la liste.
 
 ![exemple de liste chaînée (travail de Lasindi, Wikipédia)](/images/408px-Singly-linked-list.svg.png)
-<center>*Image de l'utilisateur Lasinki, Wikipédia*</center>
-
+<center>Image de l'utilisateur Lasinki, Wikipédia</center>
 
 Le but des listes est de faciliter l'ajout et la suppression d'éléments (de tête) à stocker, au détriment de l'accès à un élément précis de la liste différent de l'élément de tête, par exemple.
 
 Les primitives des listes comprennent les fonctions suivantes :
 
-<p>
 - **concat** (parfois aussi appelée **push**) : cette fonction ajoute un élément à la liste, en le plaçant comme élément de tête et en créant un pointeur de ce dernier vers l'ancien élément de tête. En OCaml, cette opération s'écrit de la façon suivante :
-</p>
 
-`̀̀̀ `
+```
 let liste = [1;2;3];;
 let liste2 = 3 :: liste;;
 liste2;;
@@ -74,11 +76,11 @@ liste2;;
 
 retourne la liste [3;1;2;3]. 
 
-<p>
-- **peek** : cette fonction retourne l'élément de tête de la liste.
-</p>
 
-`̀̀̀ `
+- **peek** : cette fonction retourne l'élément de tête de la liste.
+
+
+```
 let liste = [1;2;3];;
 let peek liste = match liste with
 | [] -> failwith "La liste est vide !"
@@ -88,11 +90,11 @@ peek liste;;
 
 retourne l'entier 1.
 
-<p>
-- **pop** : cette fonction retire l'élément de tête de la liste.
-</p>
 
-`̀̀̀ `
+- **pop** : cette fonction retire l'élément de tête de la liste.
+
+
+```
 let liste = [1;2;3];;
 let pop liste = match liste with
 | [] -> failwith "La liste est vide !"
@@ -110,11 +112,11 @@ Les tableaux sont à privilégier lorsque l'on veut accéder un élément préci
 
 Les primitives pour les tableaux comprennent les fonction suivantes :
 
-<p>
-- **set** : 
-</p>
 
-`̀̀̀ `
+- **set** : 
+
+
+```
 let tableau = [|1;2;3|];;
 tableau.(1) <- 4;;
 tableau;;
@@ -122,11 +124,11 @@ tableau;;
 
 retourne le tableau [|1;4;3|].
 
-<p>
-- **get** :
-</p>
 
-`̀̀̀ `
+- **get** :
+
+
+```
 let tableau = [|1;2;3|];;
 tableau.(1);;
 ```
@@ -247,17 +249,17 @@ Quelle serait la meilleure structure (entre le tableau et la liste) pour stocker
 
 + __Exemple 2__ Vous cherchez un certain type d'objet dans un magasin très, très grand. La personne en charge du magasin vous fournit un fichier contenant l'inventaire de tous les types d'objets disponibles pour vous faciliter la tâche, ordonné par identifiant entier croissant (par exemple, il peut commencer par 1 : les abats-jours, 2 : les armoires, 5 : les tables). Comme le magasin est très grand, l'inventaire est très long et il y a un très grand nombre de types d'objets disponibles (et tous les identifiants ne sont pas peut-être tous présents, comme dans l'exemple précédent où il manque des objets de type 3 et 4). Une première méthode serait de parcourir une à une toutes les lignes de l'inventaire jusqu'à trouver la ligne associée au type d'objet que vous cherchez. Ce serait extrêmement pénible, car long. Une méthode potentiellement plus rapide, et qui utilise le fait que la liste soit ordonnée est la recherche par **dichotomie**. A chaque étape de l'algorithme, on divise par deux l'espace de recherche (c'est-à-dire le nombre de lignes restant à vérifier) de la façon suivante : considérant l'inventaire réduit à un certain nombre de lignes $m$, on lit la ligne numéro $\frac{m}{2}$ (ou le nombre entier le plus proche), et on compare l'identifiant présent à cette ligne avec l'entier que l'on recherche (par exemple, 42, l'indice pour les casseroles en cuivre) :
 
-<p>
+
 - Si cet identifiant est égal à 42, alors on a trouvé la bonne ligne;
 
 - S'il est plus petit, alors on recherchera à la prochaine étape dans la moitié de l'inventaire qui contient les identifiants plus grand que l'identifiant courant (les $m/2$ lignes suivantes par exemple);
 
 - S'il est plus grand, alors on recherchera à la prochaine étape dans la moitié de l'inventaire qui contient les identifiants plus petit que l'identifiant courant (les $m/2+1$ lignes précédentes par exemple).
-</p>
+
 
 Par exemple, pour l'inventaire (petit ici) suivant :
 
-<p>
+
 - 1 : abats-jours;
 
 - 2 : armoires;
@@ -269,7 +271,7 @@ Par exemple, pour l'inventaire (petit ici) suivant :
 - 41 : casseroles en cuivre;
 
 - 42 : poêles.
-</p>
+
 
 Comme l'inventaire est de taille 6 à la première étape, on lit la ligne numéro 3 : l'identifiant est 5 plus petit que 42. Donc on regarde les trois lignes suivantes, et on lit la ligne numéro 5 : l'identifiant est 41, plus petit que 42. On se limite à la dernière ligne, dont l'identifiant est 42.
 
