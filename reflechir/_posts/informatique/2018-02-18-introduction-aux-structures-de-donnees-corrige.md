@@ -4,7 +4,7 @@ date: 2018-02-18
 bitlink: goo.gl/EZWpmE
 ---
 
-## Exercice de programmation ##
+## Exercice de programmation ##
 
 En OCaml, les listes et les tableaux sont évidemment présents, et ces deux structures sont implémentées de façon différente (contrairement à Python, par exemple) :
 
