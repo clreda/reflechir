@@ -4,7 +4,7 @@ date: 2018-02-17
 bitlink: goo.gl/gMU2Te
 ---
 
-La programmation est utilisée pour résoudre des problèmes. Ces derniers amènent souvent à analyser, lire, mémoriser des données. Nombre de ces petites opérations, qui effectuent des actions simples, basiques à l'échelle d'un algorithme, sont fréquemment utilisées. Pour des raisons d'optimisation en temps de calcul, ou en espace mémoire, il est préférable de les organiser, selon le but à atteindre, dans un objet de type **structure de données**. Dans la majorité des langages, ces objets sont déjà implémentés (c'est-à-dire programmés) et prêts à l'usage. Une **structure de données** permet de définir clairement ces objets et de faciliter leur utilisation.
+La programmation est utilisée pour résoudre des problèmes. Ces derniers amènent souvent à analyser, lire, mémoriser des données. Nombre de ces petites opérations, qui effectuent des actions simples, basiques à l'échelle d'un algorithme, sont fréquemment utilisées. Pour réduire le temps de calcul (c'est-à-dire, le temps pour rendre un résultat) et l'espace en mémoire (le nombre d'informations à stocker pour faire les calculs), il est préférable de les organiser, selon le but à atteindre, dans un objet de type **structure de données**. Dans la majorité des langages, ces objets sont déjà implémentés (c'est-à-dire programmés) et prêts à l'usage. Une **structure de données** permet de définir clairement ces objets et de faciliter leur utilisation.
 
 ## Définitions ##
 
@@ -16,7 +16,7 @@ En programmation, une __structure de données__ est un type d'objet programmé q
 
 Par exemple, un graphe n'est pas une structure de données en lui-même : c'est un objet mathématique, qui cependant peut nécessiter l'utilisation de structures de données, pour stocker ses arêtes et ses noeuds, dans le programme dans lequel le graphe est appelé.
 
-Une structure de données en elle-même est un objet abstrait : les attributs qu'elle possède ne sont pas définis par leur implémentation, c'est-à-dire le code qui décrit la structure de données. Une structure de données peut avoir plusieurs implémentations, puisqu'il peut exister plusieurs façons pour effectuer une même action. Par exemple, si l'on souhaite stocker les interactions entre les noeuds d'un graphe (voir l'article sur les graphes pour plus de détails), on peut les écrire sous au moins deux formes :
+Une structure de données en elle-même est un objet abstrait : les attributs qu'elle possède ne sont pas définis par leur implémentation, c'est-à-dire le code qui décrit la structure de données. Une structure de données peut avoir plusieurs implémentations, puisqu'il peut exister plusieurs façons d'effectuer une même action. Par exemple, si l'on souhaite stocker les interactions entre les noeuds d'un graphe (voir l'article sur les graphes pour plus de détails), on peut les écrire sous au moins deux formes :
 
 - comme un tableau à double entrée : en nommant les colonnes et les lignes avec les identifiants de chaque noeud, on place un 1 dans chaque case où les noeuds correspondant à la colonne et à la ligne de la case sont reliés par une arête (dans le cas d'un graphe non orienté), sinon on y place un 0;
 
@@ -277,4 +277,4 @@ Comme l'inventaire est de taille 6 à la première étape, on lit la ligne numé
 
 Quelle serait la meilleure structure (entre le tableau et la liste) pour effectuer une recherche par dichotomie ? Justifier.
 
-
+**Modification du 20/02/2018**: Correction de quelques tournures de phrase.
