@@ -1,7 +1,7 @@
 ---
 title : "Lois de l'automne 2017"
 date : 2018-03-10
-bitlink : XXX
+bitlink : goo.gl/dKkrQQ
 ---
 
 Sites vus à la date du 13 février 2018.
