@@ -20,9 +20,7 @@ Le gouvernement a engagé une **procédure accélérée** pour plusieurs de ces 
 
 Si l'Assemblée nationale et le Sénat ne parviennent pas à se mettre d'accord, c'est l'Assemblée nationale qui a le dernier mot (sauf si la loi est une loi organique concernant entre autres le Sénat, auquel cas il faut l'accord des deux chambres pour que la loi passe).
 
-### Projet de loi mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement ###
-
-*(Assemblée 10 octobre, 1er et 19 décembre, Sénat 8 novembre puis rejet le 18 décembre, JO 31 décembre 2017.)*
+#### Loi mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement (Assemblée 10 octobre, 1er et 19 décembre, Sénat 8 novembre puis rejet le 18 décembre, JO 31 décembre 2017). ####
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339396&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087). Le gouvernement a engagé une procédure accélérée pour cette loi ([source](http://www.assemblee-nationale.fr/15/projets/pl0155.asp)). Quelques articles marquants :
 
@@ -56,8 +54,7 @@ La suite du chapitre définit la régulation des biocarburants. Les biocarburant
 
 Cette loi a fait l'objet de nombreuses corrections par le Sénat, toutes refusées par l'Assemblée Nationale, et non présentes dans la loi finale, dont une exception pour les territoires Outre-Mer ([source](http://www.senat.fr/espace_presse/actualites/201710/fin_de_la_recherche_et_de_lexploitation_des_hydrocarbures_conventionnels_et_non_conventionnels.html#c635484)). 
 
-### Proposition de loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations ###
-*(Assemblée 30 novembre et 21 décembre, Sénat 18 et 20 décembre, JO 31 décembre 2017.)*
+#### Loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations (Assemblée 30 novembre et 21 décembre, Sénat 18 et 20 décembre, JO 31 décembre 2017). ####
 
 Ce texte est une **proposition de loi**, c'est-à-dire proposé par un parlementaire, et non par un membre du gouvernement (**projet de loi**). Il a fait l'objet d'une procédure accélérée ([source](https://www.senat.fr/dossier-legislatif/ppl17-123.html)).
 
@@ -78,7 +75,7 @@ Cette loi permet aussi aux intercommunalités de transférer leurs missions à d
 
 **Article 4** "En matière de gestion des milieux aquatiques et de prévention des inondations, un établissement public de coopération intercommunale à fiscalité propre ou un établissement public territorial peut transférer à un syndicat de communes ou à un syndicat mixte l'ensemble des missions relevant de cette compétence [les missions listées ci-dessus] ou certaines d'entre elles, en totalité ou partiellement. Par dérogation au premier alinéa du présent article, ce transfert total ou partiel peut être réalisé au profit d'un syndicat de communes ou d'un syndicat mixte sur tout ou partie du territoire de l'établissement public de coopération intercommunale à fiscalité propre ou de l'établissement public territorial ou au profit de plusieurs syndicats situés chacun sur des parties distinctes du territoire de l'établissement. [...]"
 
-### Projet de loi de finances rectificative pour 2017 ###
+### Loi de finances rectificative pour 2017 ###
 *(Assemblée 6, 13 et 14 novembre, Sénat 9 novembre et rejet 14 novembre, JO 2 décembre 2017.)*
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
@@ -101,8 +98,7 @@ Les [ouvertures de crédit](http://www.cours-de-droit.net/l-ouverture-de-credit-
 - "la mission « Immigration, asile et intégration », à hauteur de 161 M€, pour financer l’[apurement](http://www.larousse.fr/dictionnaires/francais/apurement/4847) de la dette de l’État, au titre de l’[allocation temporaire d’attente](https://www.pole-emploi.fr/candidat/allocation-temporaire-d-attente-ata--@/article.jspz?id=60952) (ATA) constituée auprès de Pôle emploi essentiellement au cours des années 2015 et 2016 ;"
 - "la mission « Égalité des territoires et logement », à hauteur de 135 M€, pour financer notamment l’[hébergement d’urgence](https://www.cidj.com/vie-quotidienne/trouver-un-logement/l-hebergement-d-urgence) (90 M€) et les aides personnelles au logement (46 M€)."
 
-### Projet de loi de finances rectificative pour 2017 bis ###
-*(Assemblée 12, 19 et 21 décembre, Sénat 15 décembre et rejet 20 décembre, JO 29 décembre 2017.)*
+#### Loi de finances rectificative pour 2017 (Assemblée 12, 19 et 21 décembre, Sénat 15 décembre et rejet 20 décembre, JO 29 décembre 2017). ####
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
 
@@ -118,8 +114,8 @@ Il est aussi à noter qu'un article porte sur des avantages fiscaux temporaires 
 
 Les "propriétés bâties les immeubles situés dans un bassin urbain à dynamiser" (*sic*) sont exonérés de [taxe foncière](https://www.pap.fr/patrimoine/impots-taxes/tout-sur-la-taxe-fonciere/a1784).
 
-### Projet de loi de financement de la sécurité sociale pour 2018 ###
-*(Assemblée 31 octobre et 29 novembre et 4 décembre, Sénat 21 novembre puis rejet le 1er décembre, JO 31 décembre 2017.)*
+#### Loi de financement de la sécurité sociale pour 2018 (Assemblée 31 octobre et 29 novembre et 4 décembre, Sénat 21 novembre puis rejet le 1er décembre, JO 31 décembre 2017). ####
+
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339090&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
@@ -143,8 +139,7 @@ Il en va de même pour certaines cotisations à la charge de l'employeur :
 
 Enfin, d'ici fin 2020, le paquet de cigarettes atteindra 10 euros (voir article 17 du texte). L'article 18 traite de la hausse de l'impôt sur l'essence. L'article 19 met en place la taxe "soda", qui augmente le prix des produits sucrés pour lutter conte l'obésité ([source](http://www.rtl.fr/actu/societe-faits-divers/budget-de-la-securite-sociale-ce-qui-va-changer-en-2018-7790751564)). L'article 49 ajoute huit vaccinations obligatoires pour les enfants nés en 2018.
 
-### Projet de loi de finances pour 2018 ###
-*(Assemblée 21 novembre, 15 et 21 décembre, Sénat 12 décembre puis rejet le 19 décembre, JO 31 décembre 2017.)*
+#### Loi de finances pour 2018 (Assemblée 21 novembre, 15 et 21 décembre, Sénat 12 décembre puis rejet le 19 décembre, JO 31 décembre 2017). ####
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339197&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
@@ -180,8 +175,7 @@ Enfin, un dernier article portant sur la déportation d'un étranger non ressort
 
 **Article 148** "[...] Lorsqu'un refus d'entrée a été prononcé, et à compter de cette décision jusqu'à la sortie de la zone d'attente, les frais de prise en charge de l'étranger non ressortissant d'un Etat membre de l'Union européenne ainsi que les frais de réacheminement incombent à l'entreprise de transport qui l'a débarqué en France. [...]"
 
-### Projet de loi de programmation des finances publiques pour les années 2018 à 2022 ###
-*(Assemblée 24 octobre, 15 et 21 décembre, Sénat 9 novembre et 19 décembre, JO 23 janvier 2018.)*
+#### Loi de programmation des finances publiques pour les années 2018 à 2022 (Assemblée 24 octobre, 15 et 21 décembre, Sénat 9 novembre et 19 décembre, JO 23 janvier 2018). ####
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036526027&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036526024).
 
