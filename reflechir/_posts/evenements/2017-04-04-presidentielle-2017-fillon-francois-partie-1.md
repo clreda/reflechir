@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : François Fillon (première partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2yut1Kh
+bitlink: https://goo.gl/uRr4za
 ---
 
 ![François Fillon](/images/François_Fillon_2010.jpg) 

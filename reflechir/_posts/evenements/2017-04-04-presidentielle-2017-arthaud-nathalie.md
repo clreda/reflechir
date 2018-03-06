@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Nathalie Arthaud"
 date: 2017-04-04
-bitlink: http://bit.ly/2iRHpp9
+bitlink: https://goo.gl/tzC7yb
 ---
 
 <img src="/images/2017-02-11_16-10-22_meeting-lo-belfort_(cropped).jpg"/> 

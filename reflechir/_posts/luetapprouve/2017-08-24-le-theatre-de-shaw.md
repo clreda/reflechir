@@ -1,7 +1,7 @@
 ---
 title: "Le théâtre de Shaw"
 date: 2017-08-24
-bitlink: http://bit.ly/2yrl5JD
+bitlink: https://goo.gl/5y5zZP
 ---
 
 ![Lu et approuvé !](/images/Lu_et_approuv.png) 

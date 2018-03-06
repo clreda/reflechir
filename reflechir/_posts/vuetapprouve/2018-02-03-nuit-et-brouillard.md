@@ -1,7 +1,7 @@
 ---
 title: "Nuit et Brouillard d'Alain Resnais (1956)"
 date: 2018-02-03
-bitlink: goo.gl/oKEVVe
+bitlink: https://goo.gl/oKEVVe
 --- 
 
 ![Affiche de Nuit et Brouillard](/images/nuit-et-brouillard-photo.png)

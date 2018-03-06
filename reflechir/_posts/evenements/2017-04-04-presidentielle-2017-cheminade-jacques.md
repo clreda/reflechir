@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Jacques Cheminade"
 date: 2017-04-04
-bitlink: http://bit.ly/2mld1J2
+bitlink: https://goo.gl/RnMEqQ
 ---
 
 ![Jacques Cheminade](/images/220px-Jacques-Cheminade_2.jpg) 

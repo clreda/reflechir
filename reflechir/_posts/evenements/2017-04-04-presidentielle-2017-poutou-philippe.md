@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Philippe Poutou"
 date: 2017-04-04
-bitlink: http://bit.ly/2AEncLP
+bitlink: https://goo.gl/XZ6uGZ
 ---
 
 ![Philippe Poutou](/images/16.jpg)

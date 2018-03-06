@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : François Asselineau"
 date: 2017-04-04
-bitlink: http://bit.ly/2humFYc
+bitlink: https://goo.gl/8d9RCH
 ---
 
 ![François Asselineau](/images/François_ASSELINEAU.jpg) 

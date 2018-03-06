@@ -1,7 +1,7 @@
 ---
 title: "Eros+Massacre, de Yoshishige Yoshida (1969)"
 date: 2017-12-16
-bitlink: http://bit.ly/2otURWn
+bitlink: https://goo.gl/9UuXwY
 --- 
 
 ![Eros+Massacre](/images/eros-plus-massacre-1.jpg)

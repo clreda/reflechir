@@ -1,7 +1,7 @@
 ---
 title : "Lois de l'automne 2017"
 date : 2018-03-06
-bitlink : https://goo.gl/AoNYMu
+bitlink : https://goo.gl/vxAH9K
 ---
 
 ![Lois de l'automne 2017](/images/illus_assemblees_parl.jpg)
@@ -38,7 +38,7 @@ Les exceptions à l'article précédent sont les exploitations concernées par l
 
 Autrement dit, si le propriétaire d'une mine prouve qu'il existe une source d'énergie non hydrocarbure localisée dans la mine, dont l'extraction serait rentable, alors il peut conserver son titre d'exploitation. L'article L. 111-6 interdit l'exploitation des hydrocarbures présents dans ladite mine. La conservation de l'extraction du "grisou" est expliquée [ici](http://www.assemblee-nationale.fr/15/projets/pl0155-ei.asp).
 
-L'exploitation du gaz de schiste en particulier est interdite, et le gouvernement est chargé de s'assurer un approvisionnement correct en gaz naturel des foyers français ([source](http://www.senat.fr/dossier-legislatif/pjl17-021.html).
+L'exploitation du gaz de schiste en particulier est interdite, et le gouvernement est chargé de s'assurer un approvisionnement correct en gaz naturel des foyers français ([source](http://www.senat.fr/dossier-legislatif/pjl17-021.html)).
 
 L'article suivant prévoit une préparation de la reconversion et de la réutilisation des mines désaffectées pour la production d'énergie renouvelable :
 

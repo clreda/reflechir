@@ -1,7 +1,7 @@
 ---
 title: "1. Les raisonnements en mathématiques"
 date: 2016-09-01
-bitlink: http://bit.ly/2z9AkeU
+bitlink: https://goo.gl/CemgJx
 ---
 
 En mathématiques, savoir démontrer un énoncé est très important. Un énoncé est constitué d'hypothèses et de conclusions. Une démonstration est une suite de déductions qui relie hypothèses et conclusions. Pour que la démonstration d'un énoncé soit correcte, il faut que toutes les déductions de la démonstration le soient.

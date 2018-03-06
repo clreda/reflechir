@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Nicolas Dupont-Aignan (troisième partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2i8Hcyi
+bitlink: https://goo.gl/q3pRrA
 ---
 
 ![Nicolas Dupont-Aignan](/images/NDA_en_2014.jpg) 

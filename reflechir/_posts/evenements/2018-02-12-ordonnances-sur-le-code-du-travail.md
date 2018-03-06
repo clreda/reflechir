@@ -1,7 +1,7 @@
 ---
 title : "Ordonnances sur le Code du Travail"
 date : 2018-02-12
-bitlink : goo.gl/jY3rbA
+bitlink : https://goo.gl/aQwv9a
 ---
 
 Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas.

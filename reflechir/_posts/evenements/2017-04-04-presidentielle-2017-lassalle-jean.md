@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Jean Lassalle"
 date: 2017-04-04
-bitlink: http://bit.ly/2zCOvIt
+bitlink: https://goo.gl/m77yBZ
 ---
 
 ![Jean Lassalle](/images/jeanlassalle.jpeg)

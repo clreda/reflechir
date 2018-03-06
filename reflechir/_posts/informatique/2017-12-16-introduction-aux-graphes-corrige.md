@@ -1,7 +1,7 @@
 ---
 title: "Introduction aux graphes (corrigé)"
 date: 2017-12-16
-bitlink: http://bit.ly/2AMYmZC
+bitlink: https://goo.gl/NjjKPq
 --- 
 
 **Note :** C'est la correction des exercices de l'article "Introduction aux graphes".

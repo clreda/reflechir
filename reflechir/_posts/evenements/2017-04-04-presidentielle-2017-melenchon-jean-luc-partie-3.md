@@ -1,7 +1,7 @@
 --- 
 title: "Présidentielle 2017 : Jean-Luc Mélenchon (troisième partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2hmRYAn
+bitlink: https://goo.gl/ffsjHf
 ---
 
 ![Jean-Luc Mélenchon](/images/Jean-Luc-Melenchon.jpg)

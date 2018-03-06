@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Marine Le Pen (deuxième partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2zy0KX8
+bitlink: https://goo.gl/f8peLJ
 ---
 
 ![Marine Le Pen](/images/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg)

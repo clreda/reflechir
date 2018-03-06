@@ -1,6 +1,7 @@
 ---
 title: "Irene Pepperberg et le perroquet Alex"
 date: 2017-11-17
+bitlink: https://goo.gl/i1SmRu
 ---
 
 ![Lu et approuvé !](/images/Lu_et_approuv.png)

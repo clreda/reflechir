@@ -1,7 +1,7 @@
 ---
 title: "3. Le raisonnement par contraposition"
 date: 2017-01-01
-bitlink: http://bit.ly/2iFBBQF
+bitlink: https://goo.gl/gpz3gd
 ---
 
 Pour comprendre le raisonnement par contraposition, il est utile de préciser ce que l'on entend par "Si A alors B" (A représentant les hypothèses de l'énoncé et B ses conclusions).

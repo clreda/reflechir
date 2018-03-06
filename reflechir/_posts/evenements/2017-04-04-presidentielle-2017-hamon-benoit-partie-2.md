@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Benoît Hamon (deuxième partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2i7uCzC
+bitlink: https://goo.gl/nw55P8
 ---
 
 ![Benoît Hamon](/images/180px-BHamon2012.jpg) 

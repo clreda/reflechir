@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Emmanuel Macron (première partie)"
 date: 2017-04-04
-bitlink: http://bit.ly/2hoRcmF
+bitlink: https://goo.gl/jQFFwS
 ---
 
 ![Emmanuel Macron](/images/21e61bb6f3f978d3d1c96e89c9d9f.jpeg)

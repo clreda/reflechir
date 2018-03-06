@@ -1,7 +1,7 @@
 ---
 title: "Présentation de la rubrique Mathématiques"
 date: 2016-08-02
-bitlink: goo.gl/yNojnE
+bitlink: https://goo.gl/yNojnE
 ---
 
 Les articles sont rédigés de telle manière à ce que l'on puisse s'arrêter à n'importe quel moment (après avoir lu le premier article , ou les quatre premiers, les onze premiers, etc articles) en ayant pu profiter de ses lectures (et exercices !) pour s'amuser, découvrir le monde des mathématiques et enrichir sa réflexion.

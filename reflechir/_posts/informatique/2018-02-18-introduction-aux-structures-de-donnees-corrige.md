@@ -1,7 +1,7 @@
 ---
 title: "Introduction aux structures de données (corrigé)"
 date: 2018-02-18
-bitlink: goo.gl/EZWpmE
+bitlink: https://goo.gl/vPYAtj
 ---
 
 ## Exercice de programmation ##
