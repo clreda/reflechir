@@ -26,7 +26,7 @@ L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/af
 
 Conformément aux dispositions prévues par l'[accord de Paris](http://unfccc.int/files/essential_background/convention/application/pdf/french_paris_agreement.pdf) (adopté le 12 décembre 2015 lors de la [convention COP21](http://unfccc.int/resource/docs/2015/cop21/fre/10a01f.pdf)) pour réduire les émissions de gaz à effet de serre, les exploitations d'hydrocarbures seront toutes fermées à l'horizon 2040 ([source](https://kiosque.bercy.gouv.fr/alyas/search/print/lettre-daj/7870)), aucun permis d'exploitation d'hydrocarbures ne sera délivré à l'avenir, et aucune concession ne sera prolongée au-delà de 2040 :
 
-**Chapitre Ier, Article 2** "Art. L. 111-9.-Il n'est plus accordé par l'autorité compétente de :  
+**Chapitre Ier, Article 2** "Il n'est plus accordé par l'autorité compétente de :  
 1° Permis exclusif de recherches ou d'autorisation de prospections préalables en vue de la recherche, y compris à des fins expérimentales, portant sur [les hydrocarbures qui sont l'objet de cette loi : charbon, pétrole, gaz de schiste, ...];  
 2° Concession en vue de l'exploitation de ces mêmes substances [sauf dans certains cas prévus par la loi];  
 3° Prolongation d'une concession portant sur ces mêmes substances pour une durée dont l'échéance excède le 1er janvier 2040.  
@@ -34,7 +34,7 @@ La prolongation d'un permis exclusif de recherches portant sur ces mêmes substa
 
 Les exceptions à l'article précédent sont les exploitations concernées par l'article suivant :
 
-**Chapitre Ier, Article 2** "Art. L. 111-7.-Le détenteur d'un titre d'exploitation de mines [pour des hydrocarbures, y compris charbon, pétrole, à l’exception du "gaz de mine", ou "grisou", dont l'extraction n'est effectuée que pour des raisons de sécurité] a droit, s'il en fait la demande au plus tard quatre ans avant l'échéance de son titre, à la conversion de ce titre en titre d'exploitation portant sur [une substance qui ne fait pas partie des hydrocarbures qui sont l'objet de cette loi] ou un autre usage du sous-sol mentionné dans [le code minier] dès lors qu'il démontre à l'autorité administrative, d'une part, la connexité, au sens de l'article L. 121-5, entre la nouvelle substance ou le nouvel usage et les hydrocarbures contenus dans le gisement et, d'autre part, la rentabilité économique de la poursuite de l'exploitation du gisement."
+**Chapitre Ier, Article 2** "Le détenteur d'un titre d'exploitation de mines [pour des hydrocarbures, y compris charbon, pétrole, à l’exception du "gaz de mine", ou "grisou", dont l'extraction n'est effectuée que pour des raisons de sécurité] a droit, s'il en fait la demande au plus tard quatre ans avant l'échéance de son titre, à la conversion de ce titre en titre d'exploitation portant sur [une substance qui ne fait pas partie des hydrocarbures qui sont l'objet de cette loi] ou un autre usage du sous-sol mentionné dans [le code minier] dès lors qu'il démontre à l'autorité administrative, d'une part, la connexité, au sens de l'article L. 121-5, entre la nouvelle substance ou le nouvel usage et les hydrocarbures contenus dans le gisement et, d'autre part, la rentabilité économique de la poursuite de l'exploitation du gisement."
 
 Autrement dit, si le propriétaire d'une mine prouve qu'il existe une source d'énergie non hydrocarbure localisée dans la mine, dont l'extraction serait rentable, alors il peut conserver son titre d'exploitation. L'article L. 111-6 interdit l'exploitation des hydrocarbures présents dans ladite mine. La conservation de l'extraction du "grisou" est expliquée [ici](http://www.assemblee-nationale.fr/15/projets/pl0155-ei.asp).
 
@@ -42,7 +42,7 @@ L'exploitation du gaz de schiste en particulier est interdite, et le gouvernemen
 
 L'article suivant prévoit une préparation de la reconversion et de la réutilisation des mines désaffectées pour la production d'énergie renouvelable :
 
-**Chapitre Ier, Article 4** "Art. L. 132-12-1.-Cinq ans avant la fin de sa concession et dans des conditions prévues par décret en Conseil d'Etat, l'exploitant remet à l'autorité administrative un dossier présentant le potentiel de reconversion de ses installations ou de leur site d'implantation pour d'autres usages du sous-sol, notamment la géothermie, ou pour d'autres activités économiques, en particulier l'implantation d'énergies renouvelables."
+**Chapitre Ier, Article 4** "Cinq ans avant la fin de sa concession et dans des conditions prévues par décret en Conseil d'Etat, l'exploitant remet à l'autorité administrative un dossier présentant le potentiel de reconversion de ses installations ou de leur site d'implantation pour d'autres usages du sous-sol, notamment la géothermie, ou pour d'autres activités économiques, en particulier l'implantation d'énergies renouvelables."
 
 Un rapport du gouvernement doit être préparé pour rendre compte des conséquences sur l'emploi de la fermeture progressive des exploitations :
 
@@ -50,7 +50,7 @@ Un rapport du gouvernement doit être préparé pour rendre compte des conséque
 
 Cette loi prévoit également l'introduction et la régulation de la production de biocarburants. En particulier, l'article suivant définit les biocarburants jugés rentables et valides :
 
-**Chapitre IV, Article 18** "Art. L. 661-4.-La production et l'utilisation de biocarburants et bioliquides doivent représenter un potentiel de réduction des émissions de gaz à effet de serre d'au moins 50 % par rapport aux émissions de gaz à effet de serre résultant des carburants et combustibles d'origine fossile [c'est-à-dire des hydrocarbures] pour les biocarburants et bioliquides produits dans des installations qui ont été mises en service avant le 5 octobre 2015.  
+**Chapitre IV, Article 18** "La production et l'utilisation de biocarburants et bioliquides doivent représenter un potentiel de réduction des émissions de gaz à effet de serre d'au moins 50 % par rapport aux émissions de gaz à effet de serre résultant des carburants et combustibles d'origine fossile [c'est-à-dire des hydrocarbures] pour les biocarburants et bioliquides produits dans des installations qui ont été mises en service avant le 5 octobre 2015.  
 Ce potentiel de réduction est d'au moins 60 % pour les biocarburants et bioliquides produits dans des installations mises en service à partir de la même date sur le territoire de l'Union européenne et après le 1er janvier 2008 pour les installations situées sur le territoire d'un Etat tiers [c'est-à-dire hors de l'Union européenne].  
 Pour l'application du présent article, une installation est considérée comme étant mise en service dès lors qu'une production physique de biocarburants ou de bioliquides y a eu lieu."
 
