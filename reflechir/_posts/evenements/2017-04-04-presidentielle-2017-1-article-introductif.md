@@ -1,7 +1,7 @@
 ---
 title: "Présidentielle 2017 : Article introductif"
 date: 2017-04-04
-bitink: http://bit.ly/2hophmN
+bitink: https://goo.gl/rTbHc5
 ---
 
 ![Article introductif](/images/2017-03-18t105333z_1912742804_rc1acb0a48b0_rtrmadp_3_france-election-candidates_2.jpg)

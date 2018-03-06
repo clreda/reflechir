@@ -1,7 +1,7 @@
 ---
 title : "Lois de l'automne 2017"
 date : 2018-03-10
-bitlink : goo.gl/dKkrQQ
+bitlink : https://goo.gl/dKkrQQ
 ---
 
 ![Lois de l'automne 2017](/images/illus_assemblees_parl.jpg)
