@@ -79,8 +79,8 @@ Cette loi permet aussi aux intercommunalités de transférer leurs missions à d
 
 **Article 4** "En matière de gestion des milieux aquatiques et de prévention des inondations, un établissement public de coopération intercommunale à fiscalité propre ou un établissement public territorial peut transférer à un syndicat de communes ou à un syndicat mixte l'ensemble des missions relevant de cette compétence [les missions listées ci-dessus] ou certaines d'entre elles, en totalité ou partiellement. Par dérogation au premier alinéa du présent article, ce transfert total ou partiel peut être réalisé au profit d'un syndicat de communes ou d'un syndicat mixte sur tout ou partie du territoire de l'établissement public de coopération intercommunale à fiscalité propre ou de l'établissement public territorial ou au profit de plusieurs syndicats situés chacun sur des parties distinctes du territoire de l'établissement. [...]"
 
-### Loi de finances rectificative pour 2017 ###
-*(Assemblée 6, 13 et 14 novembre, Sénat 9 novembre et rejet 14 novembre, JO 2 décembre 2017.)*
+#### Loi de finances rectificative pour 2017 (Assemblée 6, 13 et 14 novembre, Sénat 9 novembre et rejet 14 novembre, JO 2 décembre 2017). ####
+
 
 L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
 
@@ -199,3 +199,53 @@ La France ne remplit aucune de ces conditions fin 2017. Le déficit structurel �
 Ce texte impose des contraintes plus restrictives sur les budget des collectivités territoriales ([source](http://www.lagazettedescommunes.com/544017/la-programmation-des-finances-publiques-2018-2022/)). En particulier, il fixe un [taux de croissance](https://www.collectivites-locales.gouv.fr/files/files/statistiques/brochures/bis_les_finances_des_collectivites_locales_en_2016_et_2017.pdf) annuel maximal de 1,2% des dépenses annuelles de fonctionnement en 2017 à partir de 2018 ([source](http://www.lagazettedescommunes.com/545833/publication-de-la-loi-de-programmation-des-finances-publiques-pour-les-annees-2018-a-2022/)). L'article 29 prévoit trois conditions pour revoir à la hausse ce taux de croissance, pour ne pas trop pénaliser les plus grandes collectivités territoriales, ou celles qui nécessitent des investissements importants pour se développer :
 
 **Article 29** "Le taux de croissance annuel peut être modulé à la hausse en tenant compte des trois critères suivants, dans la limite maximale de 0,15 point [1 point = 10 milliards d'euros ([source](http://www.lepoint.fr/editos-du-point/pierre-antoine-delhommais/1-point-de-pib-cela-fait-combien-19-12-2013-1771856_493.php))] pour [chacune des trois conditions citées ci-dessous], appliqué à la base [de dépenses de fonctionnement de] 2017 : La population de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre a connu entre le 1er janvier 2013 et le 1er janvier 2018 une évolution annuelle supérieure d'au moins 0,75 point à la moyenne nationale ou la moyenne annuelle de logements autorisés ayant fait l'objet d'un permis de construire [...] dépasse 2,5 % du nombre total de logements au 1er janvier 2014 [...]"; [...] Le revenu moyen par habitant de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre est inférieur de plus de 20 % au revenu moyen par habitant de l'ensemble des collectivités ou, pour les communes et les établissements publics de coopération intercommunale à fiscalité propre, la proportion de population résidant dans les quartiers prioritaires de la politique de la ville est supérieure à 25 % ; [...] Les dépenses réelles de fonctionnement de la collectivité territoriale ou de l'établissement public de coopération intercommunale à fiscalité propre ont connu une évolution inférieure d'au moins 1,5 point à l'évolution moyenne constatée pour les collectivités de la même catégorie ou les établissements publics de coopération intercommunale à fiscalité propre entre 2014 et 2016."
+
+#### Loi ratifiant l’ordonnance n° 2017-31 du 12 janvier 2017 de mise en cohérence des textes au regard des dispositions de la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé (Assemblée 19 juillet, Sénat 11 octobre, JO 24 octobre). ####
+
+Voir [ici](http://www.red-on-line.fr/hse/blog/2017/01/23/modernisation-systeme-sante-ordonnance-mise-coherence-textes-005401) pour des explications. 
+
+#### Loi ratifiant l’ordonnance n° 2017-644 du 27 avril 2017 relative à l’adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé (Assemblée 19 juillet et 18 décembre, Sénat 11 octobre et 20 décembre, JO 31 décembre). ####
+
+Voir [ici](https://www.interfimo.fr/blog/detail/fonctionnement-des-ordres-des-professions-de-sante,533) pour des explications.
+
+#### Loi ratifiant l'ordonnance n° 2017-717 du 3 mai 2017 portant création de l'établissement public Paris La Défense (Sénat 20 juillet et 18 décembre, Assemblée 27 novembre et 14 décembre, JO 27 décembre). ####
+
+Les établissements publics de gestion du quartier d'affaires de La Défense (DEFACTO) et d'aménagement de La Défense Seine Arche (EPADESA) sont remplacés dès le 1er janvier 2018 par un établissement public unique appelé Paris La Défense.
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/ratification_ordonnance_2017-717.asp#ECRCM) pour plus d'explications. 
+
+#### Loi autorisant l’approbation de la convention d’entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République algérienne démocratique et populaire (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
+
+Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-04-05/convention-d-entraide-judiciaire-en-matiere-penale-entre-la-).
+
+#### Loi autorisant la ratification du protocole relatif à la convention pour la répression d’actes illicites contre la sécurité de la navigation maritime et du protocole relatif au protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
+
+Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-05-10/repression-d-actes-illicites-contre-la-securite-de-la-naviga).
+
+#### Loi autorisant la ratification de l’avenant modifiant la convention du 14 janvier 1971 entre la France et le Portugal tendant à éviter les doubles impositions et à établir des règles d’assistance administrative réciproque en matière d’impôts sur le revenu (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/modification_convention_fiscale_portugal.asp#ECRCM).
+
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement du Royaume hachémite de Jordanie relatif au statut de leurs forces (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
+
+Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0112-ai.pdf).
+
+#### Loi autorisant la ratification de l'accord entre la République française et la République portugaise relatif à l'assistance et à la coopération dans le domaine de la sécurité civile et l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg relatif à l'assistance et à la coopération dans le domaine de la protection et de la sécurité civiles (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/accords_portugal_luxembourg_securite_civile.asp#ECRCM).
+
+#### Loi autorisant la ratification du protocole sur les privilèges et immunités de la juridiction unifiée du brevet (Assemblée 4 octobre, Sénat 20 décembre, JO 31 décembre). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_unifiee_brevet.asp#ECRCM).
+
+#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/entraide_judiciaire_penale_Costa_Rica.asp#ECRCM).
+
+#### Loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_Costa_Rica.asp#ECRCM).
+
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse relatif à la fiscalité applicable dans l'enceinte de l'aéroport de Bâle-Mulhouse (Sénat 9 novembre, Assemblée 18 décembre, JO 24 décembre). ####
+
+Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
