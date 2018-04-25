@@ -247,7 +247,7 @@ _Exo_ : Il n'y a pas de solution dans $\mathbb{N} \setminus${$0$} à $x^4+y^4=z^
 
 4) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
 
-Passons au cas $n = 3$. On a besoin de définir la valeur absolue d'un entier : si $x \in \mathbb{Z}$, sa valeur absolue $|x|$ est $x$ si $x \in \mathbb{N}$, $-x$ sinon. On remarque que la valeur absolue d'un entier est toujours positive. On définit le pgcd de $x,y,z \in \mathbb{Z}$ par pgcd$(x,y,z) =$ pgcd$(|x|,|y|,|z|)$.  
+Passons au cas $n = 3$. On a besoin de définir la valeur absolue d'un entier : si $x \in \mathbb{Z}$, sa valeur absolue $abs(x)$ est $x$ si $x \in \mathbb{N}$, $-x$ sinon. On remarque que la valeur absolue d'un entier est toujours positive. On définit le pgcd de $x,y,z \in \mathbb{Z}$ par pgcd$(x,y,z) =$ pgcd$(abs(x),abs(y),abs(z))$.  
 
 _Exo_ : Il n'y a pas de solution dans $\mathbb{Z} \setminus${$0$} à $x^3+y^3=z^3$.
 
