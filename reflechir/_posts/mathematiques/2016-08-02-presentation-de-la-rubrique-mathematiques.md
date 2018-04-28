@@ -90,6 +90,8 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 <p>2021 : 19 – 25</p>
 <p>2022 : 26 – 32</p>
 
-J'espère avoir fini d'ici 2025. J'espère que les articles de mathématiques vous plairont !
+<p>J'espère avoir fini d'ici 2025.</p>
 
-Clémentine Lemarié--Rieusset
+<p>J'espère que les articles de mathématiques vous plairont !</p>
+
+<p>Clémentine Lemarié--Rieusset</p>
