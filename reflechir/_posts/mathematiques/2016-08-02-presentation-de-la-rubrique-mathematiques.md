@@ -16,71 +16,71 @@ Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premie
 
 Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corrigés) :
 
-1. Les raisonnements en mathématiques
+<p>1. Les raisonnements en mathématiques</p>
 
-2. Le raisonnement par récurrence (et quelques notations ensemblistes)
+<p>2. Le raisonnement par récurrence (et quelques notations ensemblistes)</p>
 
-3. Le raisonnement par contraposition (et le raisonnement par l'absurde)
+<p>3. Le raisonnement par contraposition (et le raisonnement par l'absurde)</p>
 
-4. Le raisonnement par analyse-synthèse (et le raisonnement par disjonction de cas) 
+<p>4. Le raisonnement par analyse-synthèse (et le raisonnement par disjonction de cas)</p> 
 
-5. Arithmétique 
+<p>5. Arithmétique</p>
 
-6. Théorie des ensembles  
+<p>6. Théorie des ensembles</p> 
 
-7. Géométrie  
+<p>7. Géométrie</p>
 
-8. Probabilités 
+<p>8. Probabilités </p>
 
-9. Analyse  
+<p>9. Analyse</p>
 
-10. Algèbre  
+<p>10. Algèbre</p>
 
-11. Sites de mathématiques  
+<p>11. Sites de mathématiques</p>
 
-12. Arithmétique 2  
+<p>12. Arithmétique 2</p>
 
-13. Théorie des ensembles 2  
+<p>13. Théorie des ensembles 2</p>
 
-14. Géométrie 2  
+<p>14. Géométrie 2</p>
 
-15. Probabilités 2  
+<p>15. Probabilités 2</p>
 
-16. Analyse 2  
+<p>16. Analyse 2</p>
 
-17. Algèbre 2 
+<p>17. Algèbre 2 
 
-18. 18 grands mathématiciens  
+<p>18. 18 grands mathématiciens</p>
 
-19. Théorie des nombres  
+<p>19. Théorie des nombres</p>
 
-20. Théorie des ensembles 3  
+<p>20. Théorie des ensembles 3</p>
 
-21. Topologie  
+<p>21. Topologie</p>
 
-22. Probabilités 3  
+<p>22. Probabilités 3</p>
 
-23. Analyse 3  
+<p>23. Analyse 3</p>
 
-24. Algèbre 3 
+<p>24. Algèbre 3</p>
 
-25. Que sont les mathématiques ?  
+<p>25. Que sont les mathématiques ?</p>
 
-26. Théorie des nombres 2  
+<p>26. Théorie des nombres 2</p>
 
-27. Théorie des ensembles 4  
+<p>27. Théorie des ensembles 4</p>
 
-28. Topologie 2  
+<p>28. Topologie 2</p>
 
-29. Probabilités 4  
+<p>29. Probabilités 4</p>
 
-30. Analyse 4  
+<p>30. Analyse 4</p>
 
-31. Algèbre 4  
+<p>31. Algèbre 4</p>
 
-32. Où en est la recherche en mathématiques ? 
+<p>32. Où en est la recherche en mathématiques ?</p>
 
-33. à 42. Dix articles qui présentent des domaines de recherche en mathématiques.  
+<p>33. à 42. Dix articles qui présentent des domaines de recherche en mathématiques.</p>
 
  
 | Calendrier de publication : | 
