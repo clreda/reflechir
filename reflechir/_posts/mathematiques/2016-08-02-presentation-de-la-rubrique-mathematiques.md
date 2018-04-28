@@ -81,18 +81,15 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 <p>32. Où en est la recherche en mathématiques ?</p>
 
 <p>33. à 42. Dix articles qui présentent des domaines de recherche en mathématiques.</p>
-
  
-### Calendrier de publication
+<p><b>Calendrier de publication</b></p>
 
-2018 : 6 et 7
-2019 : 8 – 11
-2020 : 12 – 18 
-2021 : 19 – 25 
-2022 : 26 – 32
+<p>2018 : 6 et 7</p>
+<p>2019 : 8 – 11</p>
+<p>2020 : 12 – 18</p>
+<p>2021 : 19 – 25</p>
+<p>2022 : 26 – 32</p>
 
-J'espère avoir fini d'ici 2025.
-
-J'espère que les articles de mathématiques vous plairont !
+J'espère avoir fini d'ici 2025. J'espère que les articles de mathématiques vous plairont !
 
 Clémentine Lemarié--Rieusset
