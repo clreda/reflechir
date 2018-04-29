@@ -4,7 +4,7 @@
 
 @import "minima";
 
-img {
+img  {
   display: table;
   margin: 0 auto;
   vertical-align: middle;
@@ -12,17 +12,58 @@ img {
   max-height: 300px
 }
 
-img.preview {
+img.preview  {
   display: table;
   margin: 0 auto;
   max-width: 100px;
   max-height: 100px;
 }
 
-body {
-  font-family: "Lora";
-  font-style: normal;
-  font-weight: 400;
-  src: local("Lora Regular"), local("Lora-Regular"), url("http://fonts.gstatic.com/s/lora/v12/4vqKRIwnQQGUQQh-PnvdMA.woff2") format("woff2");
-  unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+@import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
+
+table {
+	background-color:transparent;
+	width:80%;
+	max-width:90%;
+	margin-bottom:20px;
+}
+
+th {
+	text-align:left
+}
+
+table>thead>tr>th {
+	padding:8px;
+	line-height:1.4285714;
+	border-top:1px solid #ddd;
+	vertical-align:bottom;
+	border-bottom:2px solid #ddd;
+}
+
+table>thead>tr>td,table>tbody>tr>th,table>tbody>tr>td,table>tfoot>tr>th,table>tfoot>tr>td {
+	padding:8px;
+	line-height:1.4285714;
+	vertical-align:top;
+	border-top:1px solid #ddd;
+	border:1px solid #ddd;
+}
+
+table>caption+thead>tr:first-child>th,table>caption+thead>tr:first-child>td,table>colgroup+thead>tr:first-child>th,table>colgroup+thead>tr:first-child>td,table>thead:first-child>tr:first-child>th,table>thead:first-child>tr:first-child>td {
+	border-top:0;
+}
+
+table>tbody+tbody {
+	border-top:2px solid #ddd;
+}
+
+table table {
+	background-color:#fff;
+}
+
+table>thead>tr>th,table>thead>tr>td {
+	border-bottom-width:2px;
+}
+
+table>tbody>tr:nth-child(odd)>td,table>tbody>tr:nth-child(odd)>th {
+	background-color:#f9f9f9
 }

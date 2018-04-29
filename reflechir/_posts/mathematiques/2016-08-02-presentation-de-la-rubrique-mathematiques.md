@@ -16,17 +16,18 @@ Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premie
 
 Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corrigés) :
 
+<div class="list" markdown="1">
 <p>1. Les raisonnements en mathématiques</p>
 
 <p>2. Le raisonnement par récurrence (et quelques notations ensemblistes)</p>
 
 <p>3. Le raisonnement par contraposition (et le raisonnement par l'absurde)</p>
 
-<p>4. Le raisonnement par analyse-synthèse (et le raisonnement par disjonction de cas)</p> 
+<p>4. Le raisonnement par analyse-synthèse (et le raisonnement par disjonction de cas)</p>
 
 <p>5. Arithmétique</p>
 
-<p>6. Théorie des ensembles</p> 
+<p>6. Théorie des ensembles</p>
 
 <p>7. Géométrie</p>
 
@@ -48,7 +49,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>16. Analyse 2</p>
 
-<p>17. Algèbre 2 
+<p>17. Algèbre 2</p>
 
 <p>18. 18 grands mathématiciens</p>
 
@@ -81,17 +82,17 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 <p>32. Où en est la recherche en mathématiques ?</p>
 
 <p>33. à 42. Dix articles qui présentent des domaines de recherche en mathématiques.</p>
- 
-<p><b>Calendrier de publication</b></p>
+</div>
 
-<p>2018 : 6 et 7</p>
-<p>2019 : 8 – 11</p>
-<p>2020 : 12 – 18</p>
-<p>2021 : 19 – 25</p>
-<p>2022 : 26 – 32</p>
+| Calendrier de publication : | 
+|-----------------------------|
+| 2018 : 6 et 7 | 
+| 2019 : 8 – 11 | 
+| 2020 : 12 – 18 | 
+| 2021 : 19 – 25 | 
+| 2022 : 26 – 32 | 
+| J'espère avoir fini d'ici 2025. |
 
-<p>J'espère avoir fini d'ici 2025.</p>
+J'espère que les articles de mathématiques vous plairont !
 
-<p>J'espère que les articles de mathématiques vous plairont !</p>
-
-<p>Clémentine Lemarié--Rieusset</p>
+Clémentine Lemarié--Rieusset
