@@ -81,7 +81,25 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>32. Où en est la recherche en mathématiques ?</p>
 
-<p>33. à 42. Dix articles qui présentent des domaines de recherche en mathématiques.</p>
+<p>33. Grand théorème de Fermat</p>
+  
+<p>34. Percolation</p>
+
+<p>35. Indécidabilité</p>
+
+<p>36. Équations de Navier-Stokes</p>
+
+<p>37. Conjecture de Hodge</p>
+
+<p>38. Conjecture de Poincaré</p>
+
+<p>39. Hypothèse de Riemann</p>
+
+<p>40. Équation de KPZ</p>
+
+<p>41. Conjecture de Birch et Swinnerton-Dyer</p>
+
+<p>42. Équations de Yang-Mills</p>
 </div>
 
 | Calendrier de publication : | 
@@ -91,7 +109,10 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 | 2020 : 12 – 18 | 
 | 2021 : 19 – 25 | 
 | 2022 : 26 – 32 | 
-| J'espère avoir fini d'ici 2025. |
+| 2024 : 33 - 35 |
+| 2026 : 36 - 38 |
+| 2028 : 39 - 41 |
+| 2030 : 42 |
 
 J'espère que les articles de mathématiques vous plairont !
 
