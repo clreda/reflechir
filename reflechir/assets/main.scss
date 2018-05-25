@@ -19,6 +19,11 @@ img.preview  {
   max-height: 100px;
 }
 
+.post-content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
 
 table {

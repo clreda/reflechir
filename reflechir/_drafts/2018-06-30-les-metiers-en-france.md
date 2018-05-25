@@ -1,10 +1,10 @@
 ---
 title: "(Glossaire) Les métiers en France : état, évolution, prévisions"
 date: 2018-06-30
-bitlink: XXX
+bitlink: https://tinyurl.com/yaw356ud
 ---
 
-Le but de cet article est de rassembler des chiffres sur l'état de l'emploi en France (au sens large : cela comprend aussi les chiffres du chômage, et de la retraite), dans le but d'avoir une meilleure idée des pourcentages et de la répartition de l'emploi à l'échelle nationale. L'analyse poussée des résultats est volontairement omise. Si vous êtes intéressé.e par cet aspect, il est recommandé de lire les analyses proposées dans les sources de cet article, qui proviennent de l'INSEE et de la Direction de l'animation de la recherche, des études et des statistiques (Dares), en coopération avec le ministère du Travail. Par souci de concision, beaucoup d'aspects du marché du travail ne sont pas abordés ici (par exemple, les écarts entre la métropole et les départements d'Outre-Mer, la fonction publique versus le secteur privé, ...). Ils pourront faire l'objet de futurs articles dans cette catégorie.
+Le but de cet article est de rassembler quelques chiffres sur l'état de l'emploi en France (au sens large : cela comprend aussi les chiffres du chômage, et de la retraite), dans le but d'avoir une meilleure idée des pourcentages et de la répartition de l'emploi à l'échelle nationale. L'analyse poussée des résultats est volontairement omise. Si vous êtes intéressé.e par cet aspect, il est recommandé de lire les analyses proposées dans les sources de cet article, qui proviennent de l'INSEE et de la Direction de l'animation de la recherche, des études et des statistiques (Dares), en coopération avec le ministère du Travail. Par souci de concision, beaucoup d'aspects du marché du travail ne sont pas abordés ici (par exemple, les écarts entre la métropole et les départements d'Outre-Mer, fonction publique versus secteur privé, comparaison avec le reste de l'Europe, ...). Ils pourront faire l'objet de futurs articles dans cette catégorie.
 
 # Répartition du travail en 2017
 
@@ -40,15 +40,42 @@ Ci-dessous sont affichés les déciles du salaire annuel net français (après r
 |-------------|----------------|------------------|
 |     XX      |      XX        |        XX        |
 
-- les inégalités de salaire sont évaluées via le rapport interdécile (D9/D1) (4), ou par le quotient par le salaire médian (le 5ème décile) (2).
+- Les inégalités de salaire sont évaluées via le rapport interdécile (D9/D1) (4), ou par le quotient par le salaire médian (le 5ème décile) (2).
+
+Définition, et explications (+ examples de valeurs limites)
+
+| Rapport interdécile (chiffres de 2017) |  Quotient par le salaire médian (chiffres de 2017) |
+|----------------------------------------|----------------------------------------------------|
+|                    XX                  |                    XX                              |
 
 - Evolution du pouvoir d'achat/SMIC
 
+Définition du SMIC
+Revalorisation et valeur en janvier 2017
+Pouvoir d'achat
+
 ## Par secteur
 
-Répartition de l'emploi (nombre d'actifs) par secteur (diagramme + chiffres)
+0. Agriculteurs exploitants
+1. Salariés de l’agriculture
+2. Patrons de l’industrie et du commerce
+3. Professions libérales et cadres supérieurs
+4. Cadres moyens
+5. Employés
+6. Ouvriers
+7. Personnels de services
+8. Autres catégories
 
-Répartition du salaire médian de l'emploi par secteur (diagramme + chiffres)
+1. Agriculteurs exploitants
+2. Artisans, commerçants et chefs d’entreprise
+3. Cadres et professions intellectuelles supérieures
+4. Professions Intermédiaires
+5. Employés
+6. Ouvriers
+
+Répartition de l'emploi (nombre d'actifs) par secteur/catégorie socio-professionnelle (diagramme + chiffres)
+
+Répartition du salaire médian de l'emploi par secteur/catégorie socio-professionnelle (diagramme + chiffres)
 
 + code
 
@@ -60,11 +87,34 @@ Répartition de la précarité de l'emploi (partiel, CDD, intérim, etc.) par r�
 
 (Outre-Mer)
 
+Code 	Nom
+FR-ARA 	Auvergne-Rhône-Alpes
+FR-BFC 	Bourgogne-Franche-Comté
+FR-BRE 	Bretagne
+FR-CVL 	Centre-Val de Loire
+FR-COR 	Corse
+FR-GES 	Grand Est
+FR-HDF 	Hauts-de-France
+FR-IDF 	Île-de-France
+FR-NOR 	Normandie
+FR-NAQ 	Nouvelle-Aquitaine
+FR-OCC 	Occitanie
+FR-PDL 	Pays de la Loire
+FR-PAC 	Provence-Alpes-Côte d'Azur
+
+Les cinq régions ultramarines, par ordre alphabétique des codes ISO 3166-2 :
+Code 	Nom 	
+FR-GP 	Guadeloupe 	(voir également les informations de ISO 3166-1:GP)
+FR-GF 	Guyane (française) 	(voir également les informations de ISO 3166-1:GF)
+FR-MQ 	Martinique 	(voir également les informations de ISO 3166-1:MQ)
+FR-RE 	La Réunion 	(voir également les informations de ISO 3166-1:RE)
+FR-YT 	Mayotte 	(voir également les informations de ISO 3166-1:YT)
+
 + code
 
 # Evolution de l'emploi sur la période 1982-2014
 
-- Type d'emploi
+- Evolution par type/secteur/catégorie socio-professionnelle d'emploi
 
 - Caractéristiques de l'emploi (âge, femmes, salaires, diplôme, handicapés)
 
@@ -78,12 +128,12 @@ Répartition de la précarité de l'emploi (partiel, CDD, intérim, etc.) par r�
 
 - Vieillissement de la population
 
-# Références :
+# Sources
 
-(1) http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/tableaux-de-bord/les-portraits-statistiques-des-metiers/article/les-portraits-statistiques-des-metiers-1982-2014 "Portraits statistiques des métiers 1982-2014" (ministère du Travail français, 2014)
-(2) http://dares.travail-emploi.gouv.fr/IMG/pdf/2017-003.pdf "Comment ont évolué les métiers en France depuis 30 ans ?" (DARES, 2014)
-(3) http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/etudes-et-syntheses/synthese-stat-synthese-eval/article/les-metiers-en-2022 "Les métiers en 2022" (2015)
-(4) https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780 "Fiches - Emploi – Emploi, chômage, revenus du travail – Insee Références - Édition 2017"
+(1) ["Portraits statistiques des métiers 1982-2014"](http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/tableaux-de-bord/les-portraits-statistiques-des-metiers/article/les-portraits-statistiques-des-metiers-1982-2014) (ministère du Travail français, 2014) Vu le 25 mai 2018.
+(2) ["Comment ont évolué les métiers en France depuis 30 ans ?"](http://dares.travail-emploi.gouv.fr/IMG/pdf/2017-003.pdf) (Dares, 2014) Vu le 25 mai 2018.
+(3) ["Les métiers en 2022"](http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/etudes-et-syntheses/synthese-stat-synthese-eval/article/les-metiers-en-2022) (Dares, 2015) Vu le 25 mai 2018.
+(4) ["Fiches - Emploi – Emploi, chômage, revenus du travail – Insee Références - Édition 2017"](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780) (Insee, 2017) Vu le 25 mai 2018.
 
 "Depuis  le  début  des  années  1980,  le  nombre  de  personnes  en  emploi  en  France  métropolitaine  a  progressé
 de 3,4 millions, pour atteindre 25,8 millions en moyenne sur la période 2012-2014. Les métiers du tertiaire ont 
