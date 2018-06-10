@@ -6,9 +6,9 @@ bitlink: https://tinyurl.com/ybybtw4r
 
 Le but de cet article est de rassembler quelques chiffres sur l'état de l'emploi en France (au sens large : cela comprend aussi les chiffres du chômage, et de la retraite), dans le but d'avoir une meilleure idée des pourcentages et de la répartition de l'emploi à l'échelle nationale. L'analyse poussée des résultats est volontairement omise. Si vous êtes intéressé.e par cet aspect, il est recommandé de lire les analyses proposées dans les sources de cet article (au bas de la page), qui proviennent de l'INSEE et de la Direction de l'animation de la recherche, des études et des statistiques (Dares), en coopération avec le ministère du Travail. Par souci de concision, beaucoup d'aspects du marché du travail ne sont pas abordés ici (par exemple, les écarts entre la métropole et les départements d'Outre-Mer, fonction publique versus secteur privé, comparaison avec le reste de l'Europe, la proportion d'emplois précaires...). Ils pourront faire l'objet de futurs articles dans cette catégorie.
 
-# Répartition du travail en 2016-2017
+## Répartition du travail en 2016-2017
 
-## Répartition de la population
+# Répartition de la population
 
 - **Population active** : Les personnes (déclarées) travaillant ou en recherche d'emploi, âgées de plus de 15 ans. ([source](https://www.insee.fr/fr/metadonnees/definition/c1663))
 - **Chômage** : (au sens commun) Les personnes de 15 ans et plus, sans emploi et en recherche d'emploi (signalées auprès de Pôle Emploi) ([source](https://www.insee.fr/fr/metadonnees/definition/c1303)). A distinguer du sens régulièrement référencé dans les statistiques de l'Insee, qui est celui "au sens du Bureau International du Travail" (BIT) ([source](https://www.insee.fr/fr/metadonnees/source/s1179)) : un chômeur dans cette définition est une personne de plus de 15 ans qui, lors de la semaine par rapport à laquelle le taux de chômage est calculé : n'a effectué aucune heure de travail; qui est prêt à travailler dans les deux semaines suivantes; et a commencé sa recherche d'emploi dans le mois, ou a trouvé un emploi commençant dans les trois mois suivants.
@@ -23,10 +23,10 @@ En 2016, pour les personnes âgées de 15 à 64 ans :
 
 | % d'actifs  | dont chômeurs  |   Total 15-64 ans   |
 |-------------|----------------|---------------------|
-|  71,4       |       7,2      |        100          |
+|  71,4       |       7,2 (1)  |        100          |
 
-(*) Total de personnes de 15 à 64 ans : (29.6/0.714) = 41,5 millions.
-Pourcentage de chômeurs dans la population de personnes de 15 à 64 ans : 3/(29.6/0.714)*100 = 7,2%
+(1) Total de personnes de 15 à 64 ans : (29.6/0.714) = 41,5 millions.
+Pourcentage de chômeurs dans la population de personnes de 15 à 64 ans : 3/(29.6/0.714)x100 = 7,2%
 
 Le pourcentage de chômeurs en France métropolitaine fin 2016 s'élève à 9,7% (sur l'ensemble de la population active), à 10% pour l'ensemble de la France ([source](https://www.insee.fr/fr/statistiques/2586687)).
 
@@ -34,15 +34,15 @@ Le pourcentage de chômeurs en France métropolitaine fin 2016 s'élève à 9,7%
 
 Ci-dessous sont affichés les déciles du salaire mensuel net français (après retrait des impôts, y compris Cotisation Sociale Généralisée (CSG) et TVA) : pour le ième décile Di (avec i = 1, 2, ..., 10), dont la valeur est notée x (en euros), cela signifie que (i*10)% des Français actifs gagnent moins de x euros mensuels net. La médiane M est la valeur telle que 50% des Français actifs gagnent moins de x euros mensuels net. On remarquera par exemple que le 5ème décile est en fait la médiane.
 
-### Répartition du salaire mensuel en 2015 en France ###
+# Répartition du salaire mensuel en 2015 en France
 
-Pour l'ensemble des salariés du secteur privé et des entreprises publiques, à [équivalent temps plein](https://www.insee.fr/fr/metadonnees/definition/c1729), (donc pas au niveau des ménages, dont la répartition de revenu à la date se trouve [ici](https://www.insee.fr/fr/statistiques/2416647), mais bien des personnes), donc hors travailleurs indépendants, tous sexes, catégories d'âge, etc. confondues ([source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488), chiffres les plus récents pour la France hors Mayotte, hors [salariés agricoles](http://agriculture.gouv.fr/qui-sont-les-salaries-agricoles) et apprentis stagiaires, hors salaires versés par des particuliers employeurs) :
+Pour l'ensemble des salariés du secteur privé et des entreprises publiques, à [équivalent temps plein](https://www.insee.fr/fr/metadonnees/definition/c1729), (donc pas au niveau des ménages, dont la répartition de revenu à la date se trouve [ici](https://www.insee.fr/fr/statistiques/2416647), mais bien des personnes), donc hors travailleurs indépendants, tous sexes, catégories d'âge, etc. confondues ([source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488), chiffres les plus récents pour la France hors Mayotte, hors [salariés agricoles](http://agriculture.gouv.fr/qui-sont-les-salaries-agricoles) et apprentis stagiaires, hors salaires versés par des particuliers employeurs), en euros :
 
 |     D1      |       D2       |        M         |   D7         |  D9         |
 |-------------|----------------|------------------|--------------|-------------|
 |     1 213   |     1 357      |    1 797         |     2 286    |  3 646      | 
 
-### Inégalités de salaire ###
+# Inégalités de salaire
 
 Elles sont quantifiées via le rapport interdécile (D9/D1) ([source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)), ou par le quotient par le salaire médian ([source](http://dares.travail-emploi.gouv.fr/IMG/pdf/2017-003.pdf)).
 
@@ -64,7 +64,7 @@ Pour pouvoir évaluer ces coefficients, l'Organisation de coopération et de dé
 |------------------------------------|---------------|---------------|---------------|
 |   Pays (D9/D1)   | Finlande (3.1)  |France (3.5)   | Pays-Bas (3.4)| Pologne (4.0) |
 
-### Evolution du pouvoir d'achat/SMIC ###
+# Evolution du pouvoir d'achat/SMIC
 
 "Le SMIC (salaire minimum interprofessionnel de croissance) est la rémunération légale minimum que doit recevoir tout travailleur âgé de plus de 18 ans, il varie en fonction du coût de la vie et de l'augmentation des salaires. Il est fixé chaque année par Décret." ([source](https://www.dictionnaire-juridique.com/definition/smic-salaire-minimum-de-croissance.php))
 
@@ -76,31 +76,34 @@ Le pouvoir d'achat est "la quantité de biens et de services que l'on peut achet
 
 |      **Année**                |      2014         |     2015        |  2016      |     2017  |
 |-------------------------------|-------------------|-----------------|------------|-----------|
-| **SMIC (horaire, brut)** (*)    |      9,53         |     9,61        |    9,67    |    9,76 (***)  |
-| **Pouvoir d'achat (% du RBD des ménages)** (**)  |      1,2   |   0,9  |  1,8   | 1,3  | 
+| **SMIC (horaire, brut)** (1)    |      9,53         |     9,61        |    9,67    |    9,76 (3)  |
+| **Pouvoir d'achat (% du RBD des ménages)** (2)  |      1,2   |   0,9  |  1,8   | 1,3  | 
 
-(*) [source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488)
-(**) [source](https://www.insee.fr/fr/statistiques/2896289#tableau-Figure1)
-(***) [source](https://www.service-public.fr/particuliers/actualites/A11216)
+(1) [source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488) (2) [source](https://www.insee.fr/fr/statistiques/2896289#tableau-Figure1) (3) [source](https://www.service-public.fr/particuliers/actualites/A11216)
 
 ![Graphique de l'évolution du SMIC brut horaire et du pouvoir d'achat](/images/ChartGo.png)
+
+*(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 
 Les valeurs du SMIC et du pouvoir d'achat ont été centrées (c'est-à-dire que l'on a soustrait la moyenne des valeurs du SMIC (respectivement du pouvoir d'achat) à chaque valeur). Sachant que les unités sont différentes entre le SMIC et le pouvoir d'achat, il ne faut pas comparer ces valeurs directement entre elles, mais plutôt regarder leurs évolutions respectives au cours du temps.
 
 **Moyenne des valeurs pour le SMIC** : (9.53+9.61+9.67+9.76)/4 = 9.64
+
 **Moyenne des valeurs pour le pouvoir d'achat** : (1.2+0.9+1.8+1.3)/4 = 1.3
 
 Graphique réalisé sur [ce site](https://www.chartgo.com/index_fr.jsp).
 
-## Par secteur d'activité
+**Par secteur d'activité**
 
 Le total d'actifs est 27,3 millions en 2015 ([source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)), qui se répartissent selon le diagramme suivant (p. 83 de [source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)): 
 
 ![Diagramme de la répartition de l'emploi par secteur en 2015](/images/ChartGocamembert1.png)
 
+*(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
+
 Graphique réalisé sur [ce site](https://www.chartgo.com/index_fr.jsp).
 
-E, 2014, pour l'ensemble des salariés du secteur privé et des entreprises publiques, à [équivalent temps plein](https://www.insee.fr/fr/metadonnees/definition/c1729), donc hors travailleurs indépendants, tous sexes, catégories d'âge, etc. confondues ([source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488), chiffres les plus récents pour la France hors Mayotte, hors [salariés agricoles](http://agriculture.gouv.fr/qui-sont-les-salaries-agricoles) et apprentis stagiaires, hors salaires versés par des particuliers employeurs (p. 131 de [source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)), les salaires mensuels nets (en euros) moyens selon la catégorie socio-professionnelle étaient comme suit :
+En 2014, pour l'ensemble des salariés du secteur privé et des entreprises publiques, à [équivalent temps plein](https://www.insee.fr/fr/metadonnees/definition/c1729), donc hors travailleurs indépendants, tous sexes, catégories d'âge, etc. confondues ([source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488), chiffres les plus récents pour la France hors Mayotte, hors [salariés agricoles](http://agriculture.gouv.fr/qui-sont-les-salaries-agricoles) et apprentis stagiaires, hors salaires versés par des particuliers employeurs (p. 131 de [source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)), les salaires mensuels nets (en euros) moyens selon la catégorie socio-professionnelle étaient comme suit :
 
 |Catégorie|Cadres (comprend les chefs d'entreprise salariés) | Professions intermédiaires (*) | Employés | Ouvriers |
 |-------------|----------------|------------------|--------------|-------------|
@@ -108,23 +111,31 @@ E, 2014, pour l'ensemble des salariés du secteur privé et des entreprises publ
 
 (*) Les professions intermédiaires sont des personnes dont l'emploi n'entre pas dans les catégories des cadres, employés ou des ouvriers, ou exerçant dans l'enseignement, la santé et le travail social ([source](https://www.insee.fr/fr/metadonnees/pcs2003/categorieSocioprofessionnelleAgregee/4)).
 
-## Par secteur géographique
+**Par secteur géographique**
 
 L'[Observatoire des territoires](http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/fr/taux-dactivit%C3%A9-0) met à disposition une [carte](http://carto.observatoire-des-territoires.gouv.fr/#s=2014;f=TT;l=fr;i=indic_sex_rp.tx_act1564;v=map56) interactive du taux d'activité (tel que défini précédemment, pour les personnes de 15 à 64 ans) en France par commune (avec les chiffres de l'année 2014), dont vous pouvez avoir un aperçu ci-dessous :
 
 ![Carte du taux d'activité des 15-64 ans par commune en 2014](/images/carte_france.png)
 
+*(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
+
 Plus le lieu est coloré en vert, plus le taux d'activité y est élevé. N/A signifie que les données ne sont pas disponibles.
 
-La carte des taux d'activité par région (en 2014) se trouve sur cette [page](https://www.insee.fr/fr/statistiques/2012710#graphique-TCRD_015_tab1_regions2016) de l'Insee, ainsi que le tableau de valeurs associé.
+La carte des taux d'activité (en %) par région (en 2014) se trouve sur cette [page](https://www.insee.fr/fr/statistiques/2012710#graphique-TCRD_015_tab1_regions2016) de l'Insee, ainsi que le tableau de valeurs associé.
 
 ![Carte du taux d'activité des 15-64 ans par région en 2014](/images/carteregion.png)
+
+*(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 
 # Sources
 
 (1) ["Portraits statistiques des métiers 1982-2014"](http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/tableaux-de-bord/les-portraits-statistiques-des-metiers/article/les-portraits-statistiques-des-metiers-1982-2014) (ministère du Travail français, 2014) Vu le 25 mai 2018.
+
 (2) ["Comment ont évolué les métiers en France depuis 30 ans ?"](http://dares.travail-emploi.gouv.fr/IMG/pdf/2017-003.pdf) (Dares, 2014) Vu le 25 mai 2018.
+
 (3) ["Les métiers en 2022"](http://dares.travail-emploi.gouv.fr/dares-etudes-et-statistiques/etudes-et-syntheses/synthese-stat-synthese-eval/article/les-metiers-en-2022) (Dares, 2015) Vu le 25 mai 2018.
+
 (4) ["Fiches - Emploi – Emploi, chômage, revenus du travail – Insee Références - Édition 2017"](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780) (Insee, 2017) Vu le 25 mai 2018.
+
 (5) ["Tableaux de l'économie française - Édition 2018"](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488) (Insee, 2018) Vu le 27 mai 2018.
 
