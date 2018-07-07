@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+img  {
+  display: table;
+  margin: 0 auto;
+  vertical-align: middle;
+  max-width: 600px;
+  max-height: 300px
+}
+
+img.preview  {
+  display: table;
+  margin: 0 auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.post-content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
+
+table {
+	background-color:transparent;
+	width:80%;
+	max-width:90%;
+	margin-bottom:20px;
+}
+
+th {
+	text-align:left
+}
+
+table>thead>tr>th {
+	padding:8px;
+	line-height:1.4285714;
+	border-top:1px solid #ddd;
+	vertical-align:bottom;
+	border-bottom:2px solid #ddd;
+}
+
+table>thead>tr>td,table>tbody>tr>th,table>tbody>tr>td,table>tfoot>tr>th,table>tfoot>tr>td {
+	padding:8px;
+	line-height:1.4285714;
+	vertical-align:top;
+	border-top:1px solid #ddd;
+	border:1px solid #ddd;
+}
+
+table>caption+thead>tr:first-child>th,table>caption+thead>tr:first-child>td,table>colgroup+thead>tr:first-child>th,table>colgroup+thead>tr:first-child>td,table>thead:first-child>tr:first-child>th,table>thead:first-child>tr:first-child>td {
+	border-top:0;
+}
+
+table>tbody+tbody {
+	border-top:2px solid #ddd;
+}
+
+table table {
+	background-color:#fff;
+}
+
+table>thead>tr>th,table>thead>tr>td {
+	border-bottom-width:2px;
+}
+
+table>tbody>tr:nth-child(odd)>td,table>tbody>tr:nth-child(odd)>th {
+	background-color:#f9f9f9
+}
