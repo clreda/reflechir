@@ -4,7 +4,11 @@ date: 2018-07-08
 bitlink: https://tinyurl.com/yb52ly56
 ---
 
+<<<<<<< HEAD
 ![Lu et approuvé !](/images/lu_et_approuve/Lu_et_approuv.png) 
+=======
+![Lu et approuvé !](/images/lu_et_approuve/Lu_et_approuv.jpg) 
+>>>>>>> bcfae57c6e5e75ab3451206ebb030603e638bc4c
 
 On va ici présenter la deuxième version de ce livre de Paul Krugman, prix Nobel d'économie, qui entre autres explique les origines de la crise des subprimes. La première version de ce livre date de 1999, la deuxième de 2008. 
 
