@@ -9,9 +9,9 @@ Le premier exercice de l'article d'Arithmétique est de montrer que cette défin
 __Déf__ : Soit $n \in \mathbb{N} \setminus \{0,1\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1, \dots, d$ divise $a_n$ et si $c$ divise $a_1, \dots, c$ divise $a_n$ alors $c$ divise $d$.  
 
 Commençons par l'unicité :  
-Si $d_1$ et $d_2$ vérifient les propriétés de pgcd de $a_1,\dots,a_n$ alors, comme $d_1 \ | \ a_1$, \dots, $d_1 \ | \ a_n$ on a $d_1 \ | \ d_2$ et comme $d_2 \ | \ a_1$, \dots, $d_2 \ | \ a_n$ on a $d_2 \ | \ d_1$.  
-Si $d_1 = 0$ alors comme $d_1 \ | \ d_2$ on a $d_2 = 0$. De même, si $d_2 = 0$ alors $d_1 = 0$.\\
-Si $d_1 \neq 0$ et $d_2 \neq 0$ alors on a $d_1 \leq d_2$ et $d_1 \geq d_2$ (car $d_1 \ | \ d_2$ et $d_2 \ | \ d_1$) donc on a $d_1 = d_2$.\\
+Si $d_1$ et $d_2$ vérifient les propriétés de pgcd de $a_1,\dots,a_n$ alors, comme $d_1$ divise $a_1, \dots, d_1$ divise $a_n$ on a $d_1$ divise $d_2$ et comme $d_2$ divise $a_1, \dots, d_2$ divise $a_n$ on a $d_2$ divise $d_1$.  
+Si $d_1 = 0$ alors comme $d_1$ divise $d_2$ on a $d_2 = 0$. De même, si $d_2 = 0$ alors $d_1 = 0$.  
+Si $d_1 \neq 0$ et $d_2 \neq 0$ alors on a $d_1 \leq d_2$ et $d_1 \geq d_2$ (car $d_1$ divise $d_2$ et $d_2$ divise $d_1$) donc on a $d_1 = d_2$.  
 On a prouvé l'unicité du pgcd par disjonction de cas.  
 
 On va prouver l'existence du pgcd par récurrence sur $n$.  
@@ -84,14 +84,14 @@ Il suffit de remarquer que pour tout $m \in \mathbb{N}$ $m^2$ est pair si et seu
 
 On remarque tout d'abord que d'après la question précédente $z$ et $y$ sont impairs (car $x$ est pair) donc $z - y$ et $z + y$ sont pairs (et $z - y \geq 0$ car $z^2 - y^2 = x^2 \geq 0$ et $z$ et $y$ sont des entiers naturels) donc $\frac{z-y}{2}$ et $\frac{z+y}{2}$ sont bien des entiers naturels.  
 Si pgcd$(\frac{z-y}{2},\frac{z+y}{2}) > 1$ alors il existe un nombre premier $p$ qui divise $\frac{z-y}{2}$ et $\frac{z+y}{2}$ (il suffit de prendre $p$ un facteur premier de pgcd$(\frac{z-y}{2},\frac{z+y}{2})$).  
-Il existe donc $a,b \in \mathbb{N}$ tels que $\frac{z-y}{2} = ap$ et $\frac{z+y}{2} = bp$, c'est-à-dire :
-$$z-y = 2ap,\ z+y = 2bp.$$
+Il existe donc $a,b \in \mathbb{N}$ tels que $\frac{z-y}{2} = ap$ et $\frac{z+y}{2} = bp$, c'est-à-dire :  
+$z-y = 2ap,\ z+y = 2bp.$
 En additionnant ces deux égalités on a : $2z = 2p(a+b)$ c'est-à-dire :  
 $z = p(a+b)$. En soustrayant la première égalité à la deuxième on a :  
 $2y = 2p(b-a)$ c'est-à-dire $y = p(b-a)$.  
 Ainsi, $p$ divise $y$ et $z$ donc divise $z^2-y^2 = x^2$ donc divise $x$ (car $p$ est premier), et $x,y,z$ ont un facteur premier en commun, ce qui contredit pgcd$(x,y,z) = 1$.  
-Ainsi, pgcd$(\frac{z-y}{2},\frac{z+y}{2}) = 1$.  
-$$\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right) = \frac{1}{4} (z-y)(z+y) = \frac{1}{4} x^2 = \left(\frac{x}{2}\right)^2$$
+Ainsi, pgcd$(\frac{z-y}{2},\frac{z+y}{2}) = 1$.    
+$\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right) = \frac{1}{4} (z-y)(z+y) = \frac{1}{4} x^2 = \left(\frac{x}{2}\right)^2$
 donc $\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right)$ est un carré d'entier ($x$ est pair donc $\frac{x}{2}$ est un entier).  
 Or $\frac{z-y}{2}$ et $\frac{z+y}{2}$ sont premiers entre eux (on a montré plus haut que leur pgcd est $1$) donc ce sont des carrés d'entiers.  
 En effet, $\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right)$ est un carré d'entier implique que pour tout nombre premier $p$ la valuation $p$-adique de $\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right)$ est paire, or $0 = v_p(1) = v_p($pgcd$(\frac{z-y}{2},\frac{z+y}{2})) =$ min$(v_p(\frac{z-y}{2}),v_p(\frac{z+y}{2}))$ et $v_p(\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right)) = v_p(\frac{z-y}{2}) + v_p(\frac{z+y}{2})$ donc $v_p(\frac{z-y}{2})$ ou $v_p(\frac{z+y}{2})$ est égale à $v_p(\left(\frac{z-y}{2}\right)\left(\frac{z+y}{2}\right))$ qui est paire et l'autre est nulle donc paire. On a montré que pour tout $p$ premier, $v_p(\frac{z-y}{2})$ et $v_p(\frac{z-y}{2})$ sont paires, donc $\frac{z-y}{2}$ et $\frac{z+y}{2}$ sont des carrés d'entiers  
@@ -100,8 +100,8 @@ Il existe donc des entiers naturels $u$ et $v$ tels que $\frac{z-y}{2} = u^2$ et
 Ainsi $z-y = 2u^2$ et $z+y = 2v^2$ et on a, en sommant ces deux égalités et en soustrayant la première égalité à la deuxième égalité :  
 $2z = 2(u^2+v^2)$ et $2y = 2(v^2-u^2)$. En simplifiant par $2$ on a :  
 $z = u^2+v^2$ et $y = v^2-u^2$.  
-De plus on a : $x^2 = z^2 - y^2 = (u^2+v^2)^2 - (v^2-u^2)^2$ donc :
-$$x^2 = u^4 + v^4 + 2u^2v^2 - v^4 - u^4 + 2u^2v^2 = 4u^2v^2 = (2uv)^2$$
+De plus on a : $x^2 = z^2 - y^2 = (u^2+v^2)^2 - (v^2-u^2)^2$ donc :  
+$x^2 = u^4 + v^4 + 2u^2v^2 - v^4 - u^4 + 2u^2v^2 = 4u^2v^2 = (2uv)^2$
 or $x$ et $2uv$ sont positifs donc $x = 2uv$.  
 
 6) Donner tous les triplets pythagoriciens.  
@@ -111,8 +111,8 @@ Avec la question 4) on a que si $(x,y,z)$ est un triplet pythagoricien de pgcd $
 On remarque que dans les deux cas $v \geq u$ (car $x$ et $y$ sont positifs).  
 On remarque aussi que $u \neq 0$, $v \neq 0$ et $v \neq u$ (car $x \neq 0$ et $y \neq 0$).  
 Avec la question 2) on a que tous les triplets pythagoriciens sont de la forme $(cx,cy,cz)$ avec $(x,y,z)$ un triplet pythagoricien de pgcd $1$ et $c \in \mathbb{N} \setminus \{0\}$ donc, avec ce qui précède, de la forme $(2cuv,c(v^2-u^2),c(v^2+u^2))$ ou $(c(v^2-u^2),2cuv,c(v^2+u^2))$ avec $c,u,v \in \mathbb{N} \setminus \{0\}$ et $v > u$.  
-Il nous suffit maintenant de vérifier que si $c,u,v \in \mathbb{N} \setminus \{0\}$ vérifient $v > u$ alors $(2cuv,c(v^2-u^2),c(v^2+u^2))$ et $(c(v^2-u^2),2cuv,c(v^2+u^2))$ sont des triplets pythagoriciens.  
-$$(2cuv)^2 + (c(u^2-v^2))^2 = 4c^2u^2v^2 + c^2u^4 + c^2v^4 - 2c^2u^2v^2 = c^2u^4 + c^2v^4 + 2c^2u^2v^2 = (c(u^2+v^2))^2$$
+Il nous suffit maintenant de vérifier que si $c,u,v \in \mathbb{N} \setminus \{0\}$ vérifient $v > u$ alors $(2cuv,c(v^2-u^2),c(v^2+u^2))$ et $(c(v^2-u^2),2cuv,c(v^2+u^2))$ sont des triplets pythagoriciens.    
+$(2cuv)^2 + (c(u^2-v^2))^2 = 4c^2u^2v^2 + c^2u^4 + c^2v^4 - 2c^2u^2v^2 = c^2u^4 + c^2v^4 + 2c^2u^2v^2 = (c(u^2+v^2))^2$
 et $2cuv, c(v^2-u^2), c(v^2+u^2) \in \mathbb{N} \setminus \{0\}$ donc $(2cuv,c(v^2-u^2),c(v^2+u^2))$ et $(c(v^2-u^2),2cuv,c(v^2+u^2))$ sont bien des triplets pythagoriciens.  
 
 __Exo__ : Si $x,y,z \in \mathbb{Z} \setminus \{0\}$ vérifient $x^2 + y^2 = z^2$, en remplaçant $x$ par $-x$ ou $y$ par $-y$ ou $z$ par $-z$ on a encore $x^2 + y^2 = z^2$ et $x,y,z \in \mathbb{Z} \setminus \{0\}$. En changeant les signes qu'il faut, on se ramène à $x,y,z \in \mathbb{N} \setminus \{0\}$, et l'exercice précédent nous donne donc tous les $x,y,z \in \mathbb{Z} \setminus \{0\}$ qui vérifient $x^2 + y^2 = z^2$ en changeant des signes (explicitez ces solutions).  
