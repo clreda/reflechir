@@ -47,7 +47,7 @@ J'écris ici seulement l'essentiel : /!\ Ne pas utiliser de crochets à part pou
 
 * Ajouter une image : mettre l'image dans le dossier "images" et écrire:
 
-![Texte alternatif invisible](/images/[nom de l'image].[extension])
+![Texte alternatif invisible](/images/[chemin-vers-l'image/nom de l'image].[extension])
 
 * Faire un tableau : voir les liens précédents ou https://www.tablesgenerator.com/markdown_tables, https://help.github.com/articles/organizing-information-with-tables/
 

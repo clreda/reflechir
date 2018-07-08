@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/RnMEqQ
 ---
 
-![Jacques Cheminade](/images/220px-Jacques-Cheminade_2.jpg) 
+![Jacques Cheminade](/images/presidentielle_2017/220px-Jacques-Cheminade_2.jpg) 
 
 Le programme de Jacques Cheminade est disponible [ici](http://www.cheminade2017.fr/-Projet-2017-).
 
@@ -209,4 +209,4 @@ Un permittent est une « personne ne travaillant plus que par intermittence sans
 Cheminade, comme Asselineau, est pour la sortie de l’UE; Dupont-Aignan, Le Pen et Mélenchon sont pour un référendum sur la sortie de l’UE après négociations avec l’UE. Hamon, Fillon et Macron sont pour le maintien dans l’UE.
 Cheminade est aussi pour quitter l’OTAN, comme Asselineau, Dupont-Aignan, Le Pen et Mélenchon et contrairement à Hamon, Fillon et Macron.
 
-L'image est de Julien Lemaître et vient de ce [site](http://jacquescheminade.fr/images2012/Jacques-Cheminade_2.jpg) et est sous [licence](https://creativecommons.org/licenses/by-sa/3.0/).
+L'image est de Julien Lemaître et vient de ce [site](http://jacquescheminade.fr/images/presidentielle_20172012/Jacques-Cheminade_2.jpg) et est sous [licence](https://creativecommons.org/licenses/by-sa/3.0/).

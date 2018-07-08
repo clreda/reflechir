@@ -82,7 +82,7 @@ Le pouvoir d'achat est "la quantité de biens et de services que l'on peut achet
 
 (1) p. 61 de [source](https://www.insee.fr/fr/statistiques/3303384?sommaire=3353488) (2) [source](https://www.insee.fr/fr/statistiques/2896289#tableau-Figure1) (3) [source](https://www.service-public.fr/particuliers/actualites/A11216)
 
-![Graphique de l'évolution du SMIC brut horaire et du pouvoir d'achat](/images/ChartGo.png)
+![Graphique de l'évolution du SMIC brut horaire et du pouvoir d'achat](/images/metiers_en_france/ChartGo.png)
 
 *(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 
@@ -98,7 +98,7 @@ Graphique réalisé sur [ce site](https://www.chartgo.com/index_fr.jsp).
 
 Le total d'actifs en emploi est 27,3 millions en 2015 (p. 82 de [source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)), qui se répartissent selon le diagramme suivant (chiffres de la p. 83 de [source](https://www.insee.fr/fr/statistiques/2891738?sommaire=2891780)): 
 
-![Diagramme de la répartition de l'emploi par secteur en 2015](/images/ChartGocamembert1.png)
+![Diagramme de la répartition de l'emploi par secteur en 2015](/images/metiers_en_france/ChartGocamembert1.png)
 
 *(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 
@@ -118,7 +118,7 @@ En 2014, le [salaire mensuel net](https://www.insee.fr/fr/metadonnees/definition
 
 L'[Observatoire des territoires](http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/fr/taux-dactivit%C3%A9-0) met à disposition une [carte](http://carto.observatoire-des-territoires.gouv.fr/#s=2014;f=TT;l=fr;i=indic_sex_rp.tx_act1564;v=map56) interactive du taux d'activité (tel que défini précédemment, pour les personnes de 15 à 64 ans) en France par commune (avec les chiffres de l'année 2014), dont vous pouvez avoir un aperçu ci-dessous :
 
-![Carte du taux d'activité des 15-64 ans par commune en 2014](/images/carte_france.png)
+![Carte du taux d'activité des 15-64 ans par commune en 2014](/images/metiers_en_france/carte_france.png)
 
 *(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 
@@ -126,7 +126,7 @@ Plus le lieu est coloré en vert, plus le taux d'activité y est élevé. N/A si
 
 La carte des taux d'activité (en %) par région (en 2014) se trouve sur cette [page](https://www.insee.fr/fr/statistiques/2012710#graphique-TCRD_015_tab1_regions2016) de l'Insee, ainsi que le tableau de valeurs associé.
 
-![Carte du taux d'activité des 15-64 ans par région en 2014](/images/carteregion.png)
+![Carte du taux d'activité des 15-64 ans par région en 2014](/images/metiers_en_france/carteregion.png)
 
 *(Pour agrandir l'image : clic droit sur l'image + clic sur "Afficher l'image")*
 

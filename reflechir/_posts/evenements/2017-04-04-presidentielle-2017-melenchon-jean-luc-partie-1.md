@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/y5nQ9w
 ---
 
-![Jean-Luc Mélenchon](/images/Jean-Luc-Melenchon.jpg)
+![Jean-Luc Mélenchon](/images/presidentielle_2017/Jean-Luc-Melenchon.jpg)
 
 Voir les [deuxième]({{ siteurl }}{% post_url /evenements/2017-04-04-presidentielle-2017-melenchon-jean-luc-partie-2 %}) et [troisième]({{ siteurl }}{% post_url /evenements/2017-04-04-presidentielle-2017-melenchon-jean-luc-partie-3 %}) parties. Le programme de Jean-Luc Mélenchon est disponible [ici](https://laec.fr/). Sa version audio est disponible sur cette [page](https://avenirencommun.fr/avenir-en-commun/). Son émission de chiffrage est disponible [ici](https://www.youtube.com/watch?v=T7b67QCjibc).
 

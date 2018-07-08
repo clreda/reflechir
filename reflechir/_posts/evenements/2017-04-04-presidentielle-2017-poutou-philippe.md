@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/XZ6uGZ
 ---
 
-![Philippe Poutou](/images/16.jpg)
+![Philippe Poutou](/images/presidentielle_2017/16.jpg)
 
 Le programme de Philippe Poutou est disponible [ici](https://poutou2017.org/sites/default/files/2017-03/ProgrammePOUTOU-2017_WEB_0.pdf), et est résumé sur cette [page](https://poutou2017.org/sites/default/files/2017-01/4PAGES-Campagne-web.pdf).
 

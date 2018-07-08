@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/8d9RCH
 ---
 
-![François Asselineau](/images/François_ASSELINEAU.jpg) 
+![François Asselineau](/images/presidentielle_2017/François_ASSELINEAU.jpg) 
 
 Le programme de François Asselineau est disponible en format vidéo [ici](https://www.upr.fr/programme-elections-presidentielles-france). Une version PDF du programme de François Asselineau a été publiée fin mars, disponible sur son site Internet. Le présent article n'y fait pas référence.
 

@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/tzC7yb
 ---
 
-<img src="/images/2017-02-11_16-10-22_meeting-lo-belfort_(cropped).jpg"/> 
+<img src="/images/presidentielle_2017/2017-02-11_16-10-22_meeting-lo-belfort_(cropped).jpg"/> 
 
 Le programme de Nathalie Arthaud est disponible [ici](http://www.nathalie-arthaud.info/sites/default/files/documents/faire-entendre-le-camp-des-travailleurs-1702.pdf) et un résumé est disponible sur cette [page](http://www.nathalie-arthaud.info/sites/default/files/documents/4pages_2017.pdf).
 

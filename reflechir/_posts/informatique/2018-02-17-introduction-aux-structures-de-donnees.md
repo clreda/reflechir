@@ -24,7 +24,7 @@ Une structure de données en elle-même est un objet abstrait : les attributs qu
 
 Par exemple, pour le graphe suivant :
 
-![exemple de graphe](/images/2018-02-17-graphe.png)
+![exemple de graphe](/images/info/structures_de_donnees/2018-02-17-graphe.png)
 
 La première méthode donne le tableau suivant :
 
@@ -59,7 +59,7 @@ Dans la suite de cet article, nous allons rencontrer deux autres types de struct
 
 Les listes ici sont plus exactement des **listes simplement chaînées** ici. Elles contiennent des éléments souvent de même nature, selon le langage de programmation utilisé : par exemple, que des entiers, que des nombres réels, etc. Ces éléments sont ordonnés : la liste commence par un élément de **tête**, et finit par un ensemble d'éléments appelés **queue**. La liste est construite de façon récursive : l'élément de tête est relié au premier élément de la queue (qui est lui-même, s'il existe, l'élément de tête de la queue) par un **pointeur**, c'est-à-dire un lien entre deux espaces mémoires de l'ordinateur. Depuis l'élément de tête, on peut accéder à l'élément de tête de la queue de la liste initiale, et depuis ce dernier, on peut à nouveau accéder à l'élément de tête du reste de la liste, etc. Le dernier élément de la liste est relié à un élément "vide", appelé souvent **nil**, qui marque la fin de la liste.
 
-![exemple de liste chaînée (travail de Lasindi, Wikipédia)](/images/408px-Singly-linked-list.svg.png)
+![exemple de liste chaînée (travail de Lasindi, Wikipédia)](/images/info/structures_de_donnees/408px-Singly-linked-list.svg.png)
 Image de l'utilisateur Lasinki, Wikipédia
 
 Le but des listes est de faciliter l'ajout et la suppression d'éléments (de tête) à stocker, au détriment de l'accès à un élément précis de la liste différent de l'élément de tête, par exemple.
@@ -239,7 +239,7 @@ let creer_tableau n valeur = Array.make valeur n;;
 
 + __Exemple 1__ Voir l'article sur les graphes pour les définitions. Un noeud est dit **accessible** depuis un noeud $n$ si et seulement s'il existe une suite d'arêtes ayant un noeud en commun deux à deux qui relie ce noeud à $n$. Par exemple, dans l'exemple ci-dessous : 
 
-![exemple de graphe](/images/2018-02-17-graphe2.png)
+![exemple de graphe](/images/info/structures_de_donnees/2018-02-17-graphe2.png)
 
 A3 et A2 sont accessibles depuis A1, mais seulement A2 est accessible depuis A3. Dans le graphe de l'exemple du dessus, tous les noeuds sont accessibles depuis n'importe quel sommet.
 
