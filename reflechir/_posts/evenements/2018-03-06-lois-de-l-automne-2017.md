@@ -4,7 +4,7 @@ date : 2018-03-06
 bitlink : https://goo.gl/vxAH9K
 ---
 
-![Lois de l'automne 2017](/images/illus_assemblees_parl.jpg)
+![Lois de l'automne 2017](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
 Ceci est le deuxième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le premier tiers de la session ordinaire 2017-2018 (donc en octobre, novembre et décembre 2017).
 

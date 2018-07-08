@@ -4,7 +4,7 @@ date: 2017-04-04
 bitlink: https://goo.gl/m77yBZ
 ---
 
-![Jean Lassalle](/images/jeanlassalle.jpeg)
+![Jean Lassalle](/images/presidentielle_2017/jeanlassalle.jpeg)
 
 Le programme de Jean Lassalle est disponible [ici](http://jeanlassalle2017.fr/le-projet-de-jean-lassalle/).
 
