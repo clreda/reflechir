@@ -6,7 +6,7 @@ bitlink: https://tinyurl.com/ycrjzzz3
 
 Le premier exercice de l'article d'Arithmétique est de montrer que cette définition est correcte :  
 
-__Déf__ : Soit $n \in \mathbb{N} \setminus \{0,1\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1, \dots, d$ divise $a_n$ et si $c$ divise $a_1, \dots, c$ divise $a_n$ alors $c$ divise $d$.  
+__Déf__ : Soit $n \in \mathbb{N} \setminus {0,1}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1, \dots, d$ divise $a_n$ et si $c$ divise $a_1, \dots, c$ divise $a_n$ alors $c$ divise $d$.  
 
 Commençons par l'unicité :  
 Si $d_1$ et $d_2$ vérifient les propriétés de pgcd de $a_1,\dots,a_n$ alors, comme $d_1$ divise $a_1, \dots, d_1$ divise $a_n$ on a $d_1$ divise $d_2$ et comme $d_2$ divise $a_1, \dots, d_2$ divise $a_n$ on a $d_2$ divise $d_1$.  
@@ -18,42 +18,42 @@ On va prouver l'existence du pgcd par récurrence sur $n$.
 On a déjà prouvé l'existence pour $n = 2$.  
 Supposons que le pgcd de $n-1$ nombres existe.  
 On va vérifier que pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) vérifie les conditions de la définition de pgcd$(a_1,\dots,a_n)$.  
-On remarque tout d'abord que c'est bien un entier naturel. pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise $a_n$ (cf. définition du pgcd). Soit $i \in \{1,\dots,{n-1}\}$. pgcd$(a_1,\dots,a_{n-1})$ divise $a_i$ et pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise pgcd$(a_1,\dots,a_{n-1})$ donc pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise $a_i$ (si vous avez le moindre doute, explicitez ce que je viens d'écrire avec la définition de \textquotedblleft diviser\textquotedblright). Soit $c \in \mathbb{N}$ tel que $c \ | \ a_1$, \dots, $c \ | \ a_n$. $c \ | \ a_1$, \dots, $c \ | \ a_{n-1}$ donc $c$ divise pgcd$(a_1,\dots,a_{n-1})$ (cf. la définition du pgcd). De plus, $c$ divise $a_n$, donc $c$ divise pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) (cf. la définition du pgcd).  
+On remarque tout d'abord que c'est bien un entier naturel. pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise $a_n$ (cf. définition du pgcd). Soit $i \in {1,\dots,n-1}$. pgcd$(a_1,\dots,a_{n-1})$ divise $a_i$ et pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise pgcd$(a_1,\dots,a_{n-1})$ donc pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) divise $a_i$ (si vous avez le moindre doute, explicitez ce que je viens d'écrire avec la définition de \textquotedblleft diviser\textquotedblright). Soit $c \in \mathbb{N}$ tel que $c$ divise $a_1, \dots, c$ divise $a_n$. $c$ divise $a_1, \dots, c$ divise $a_{n-1}$ donc $c$ divise pgcd$(a_1,\dots,a_{n-1})$ (cf. la définition du pgcd). De plus, $c$ divise $a_n$, donc $c$ divise pgcd(pgcd$(a_1,\dots,a_{n-1}),a_n$) (cf. la définition du pgcd).  
 
 Le deuxième exercice de l'article d'Arithmétique est de montrer que cette définition est correcte :  
 
-__Déf__ : Soit $n \in \mathbb{N} \setminus \{0,1\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus petit commun multiple de $a_1,\dots,a_n$, noté ppcm$(a_1,\dots,a_n)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a_1$ divise $m, \dots, a_n$ divise $m$ et si $a_1$ divise $c, \dots, a_n$ divise $c$ alors $m$ divise $c$.  
+__Déf__ : Soit $n \in \mathbb{N} \setminus {0,1}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus petit commun multiple de $a_1,\dots,a_n$, noté ppcm$(a_1,\dots,a_n)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a_1$ divise $m, \dots, a_n$ divise $m$ et si $a_1$ divise $c, \dots, a_n$ divise $c$ alors $m$ divise $c$.  
 
 Commençons par l'unicité :  
-Si $m_1$ et $m_2$ vérifient les propriétés de ppcm de $a_1,\dots,a_n$ alors, comme $a_1 \ | \ m_1$,\dots, $a_n \ | \ m_1$ on a $m_2 \ | \ m_1$ et comme $a_1 \ | \ m_2$,\dots, $a_n \ | \ m_2$ on a $m_1 \ | \ m_2$.  
-Si $m_1 = 0$ alors comme $m_1 \ | \ m_2$ on a $m_2 = 0$. De même, si $m_2 = 0$ alors $m_1 = 0$.\\
-Si $m_1 \neq 0$ et $m_2 \neq 0$ alors on a $m_1 \leq m_2$ et $m_1 \geq m_2$ (car $m_1 \ | \ m_2$ et $m_2 \ | \ m_1$) donc on a $m_1 = m_2$.  
+Si $m_1$ et $m_2$ vérifient les propriétés de ppcm de $a_1,\dots,a_n$ alors, comme $a_1$ divise $m_1,\dots, a_n$ divise $m_1$ on a $m_2$ divise $m_1$ et comme $a_1$ divise $m_2,\dots, a_n$ divise $m_2$ on a $m_1$ divise $m_2$.  
+Si $m_1 = 0$ alors comme $m_1$ divise $m_2$ on a $m_2 = 0$. De même, si $m_2 = 0$ alors $m_1 = 0$.  
+Si $m_1 \neq 0$ et $m_2 \neq 0$ alors on a $m_1 \leq m_2$ et $m_1 \geq m_2$ (car $m_1$ divise $m_2$ et $m_2$ divise $m_1$) donc on a $m_1 = m_2$.  
 On a prouvé l'unicité du ppcm par disjonction de cas.  
 
 On va prouver l'existence du ppcm par récurrence sur $n$.  
 On a déjà prouvé l'existence pour $n = 2$.  
 Supposons que le ppcm de $n-1$ nombres existe.  
 On va vérifier que ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) vérifie les conditions de la définition de ppcm$(a_1,\dots,a_n)$.  
-On remarque tout d'abord que c'est bien un entier naturel. $a_n$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) (cf. définition du ppcm). Soit $i \in \{1,\dots,{n-1}\}$. $a_i$ divise ppcm$(a_1,\dots,a_{n-1})$ et ppcm$(a_1,\dots,a_{n-1})$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) donc $a_i$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) (si vous avez le moindre doute, explicitez ce que je viens d'écrire avec la définition de \textquotedblleft diviser\textquotedblright). Soit $c \in \mathbb{N}$ tel que $a_1 \ | \ c$, \dots, $a_n \ | \ c$. $a_1 \ | \ c$, \dots, $a_{n-1} \ | \ c$ donc ppcm$(a_1,\dots,a_{n-1})$ divise $c$ (cf. la définition du pgcd). De plus, $a_n$ divise $c$, donc ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) divise $c$ (cf. la définition du pgcd).  
+On remarque tout d'abord que c'est bien un entier naturel. $a_n$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) (cf. définition du ppcm). Soit $i \in {1,\dots,n-1}$. $a_i$ divise ppcm$(a_1,\dots,a_{n-1})$ et ppcm$(a_1,\dots,a_{n-1})$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) donc $a_i$ divise ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) (si vous avez le moindre doute, explicitez ce que je viens d'écrire avec la définition de "diviser"). Soit $c \in \mathbb{N}$ tel que $a_1$ divise $c, \dots, a_n$ divise $c$. $a_1$ divise $c, \dots, a_{n-1}$ divise $c$ donc ppcm$(a_1,\dots,a_{n-1})$ divise $c$ (cf. la définition du pgcd). De plus, $a_n$ divise $c$, donc ppcm(ppcm$(a_1,\dots,a_{n-1}),a_n$) divise $c$ (cf. la définition du pgcd).  
 
 Le troisième exercice de l'article d'Arithmétique est de démontrer le lemme suivant :  
 
-Lemme : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus \{0\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Si $p$ divise $a_1 \times \dots \times a_n$ alors $p$ divise $a_1$ ou $\dots \ $ ou $p$ divise $a_n$.  
+Lemme : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus {0}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Si $p$ divise $a_1 \times \dots \times a_n$ alors $p$ divise $a_1$ ou $\dots \ $ ou $p$ divise $a_n$.  
 
 On fait un raisonnement par récurrence sur $n$.  
 
-Le cas $n = 1$ est évident (c'est $p \ | \ a_1$ implique $p \ | \ a_1$).  
+Le cas $n = 1$ est évident (c'est $p$ divise $a_1$ implique $p$ divise $a_1$).  
 
 On démontre aussi le cas $n = 2$ parce qu'on va en avoir besoin dans la phase d'hérédité.  
 Commençons par remarquer que comme $p$ est premier, pour tout $a \in \mathbb{N}$ pgcd$(p,a) = 1$ ou $p$ (en effet les seuls diviseurs de $p$ sont $1$ et $p$).  
-Soient $a_1,a_2 \in \mathbb{N}$ tels que $p \ | \ a_1 \times a_2$.  
+Soient $a_1,a_2 \in \mathbb{N}$ tels que $p$ divise $a_1 \times a_2$.  
 Si $p$ ne divise pas $a_1$ alors pgcd$(p,a_1) = 1$ (car ce ne peut pas être $p$ puisque $p$ ne divise pas $a_1$) donc, par le lemme de Gauss, $p$ divise $a_2$.  
 Ainsi, $p$ divise $a_1$ ou $p$ divise $a_2$.  
 
-Supposons que pour tous nombres naturels $b_1,\dots,b_{n-1}$ on a $p \ | \ b_1 \times \dots \times b_{n-1}$ implique $p \ | \ b_1$ ou \dots \ ou $p \ | \ b_{n-1}$.  
-Soient $a_1,\dots,a_n \in \mathbb{N}$ tels que $p \ | \ a_1 \times \dots \times a_n$.  
-D'après la phase d'initialisation, si $p$ ne divise pas $a_n$ alors $p$ divise $a_1 \times \dots \times a_{n-1}$ donc, d'après l'hypothèse de récurrence, $p \ | \ a_1$ ou \dots \ ou $p \ | \ a_{n-1}$.  
-Ainsi, $p \ | \ a_1$ ou \dots \ ou $p \ | \ a_n$.  
+Supposons que pour tous nombres naturels $b_1,\dots,b_{n-1}$ on a $p$ divise $b_1 \times \dots \times b_{n-1}$ implique $p$ divise $b_1$ ou $\dots \ $ ou $p$ divise $b_{n-1}$.  
+Soient $a_1,\dots,a_n \in \mathbb{N}$ tels que $p$ divise $a_1 \times \dots \times a_n$.  
+D'après la phase d'initialisation, si $p$ ne divise pas $a_n$ alors $p$ divise $a_1 \times \dots \times a_{n-1}$ donc, d'après l'hypothèse de récurrence, $p$ divise $a_1$ ou $\dots \ $ ou $p$ divise $a_{n-1}$.  
+Ainsi, $p$ divise $a_1$ ou $\dots \ $ ou $p$ divise $a_n$.  
 
 __Exo__ : Résolution de l'équation de Pythagore $x^2 + y^2 = z^2$ avec $x,y,z \in \mathbb{N} \setminus \{0\}$.  
 
