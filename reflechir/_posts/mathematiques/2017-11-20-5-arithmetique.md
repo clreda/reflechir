@@ -14,7 +14,7 @@ Certains manuels scolaires désignent des énoncés comme étant des "propriét�
 
 Commençons par un lemme très important.
 
-_Lemme_ : Toute partie non vide de $\mathbb{N}$ admet un plus petit élément (c'est-à-dire que si $A \subset \mathbb{N}$ n'est pas vide alors il existe $n \in A$ tel que pour tout $a \in A$ $n \leq a$).
+__Lemme__ : Toute partie non vide de $\mathbb{N}$ admet un plus petit élément (c'est-à-dire que si $A \subset \mathbb{N}$ n'est pas vide alors il existe $n \in A$ tel que pour tout $a \in A$ $n \leq a$).
 
 _Dém_ : Soit $A \subset \mathbb{N}$. On veut montrer que si $A$ est non vide alors $A$ admet un plus petit élément.
 Démontrons la contraposée (cf. article 3) :
@@ -25,15 +25,15 @@ Supposons que pour tout $l \leq k$ $l \not \in A$.
 Pour tout $m \in A$ $k+1 \leq m$ (car sinon $m \in${$0,\dots,k$}) donc $k+1 \not \in A$.
 Ainsi, pour tout $k \in \mathbb{N}$, $k \not \in A$, donc $A$ est vide. 
 
-_Remarque_ : Le plus petit élément est unique, car si $a_1$ et $a_2$ sont des plus petits éléments de $A$ alors $a_1 \leq a_2$ (car $a_1$ plus petit élément de $A$ et $a_2 \in A$) et $a_2 \leq a_1$ (car $a_2$ plus petit élément de $A$ et $a_1 \in A$) donc $a_1 = a_2$.
+__Remarque__ : Le plus petit élément est unique, car si $a_1$ et $a_2$ sont des plus petits éléments de $A$ alors $a_1 \leq a_2$ (car $a_1$ plus petit élément de $A$ et $a_2 \in A$) et $a_2 \leq a_1$ (car $a_2$ plus petit élément de $A$ et $a_1 \in A$) donc $a_1 = a_2$.
 
- _Déf_ : $a \in \mathbb{N}$ est divisible par $b \in \mathbb{N}$ s'il existe $c \in \mathbb{N}$ tel que $a = b \times c$. On dit aussi que $a$ est un multiple de $b$ ou que $b$ divise $a$.
+ __Déf__ : $a \in \mathbb{N}$ est divisible par $b \in \mathbb{N}$ s'il existe $c \in \mathbb{N}$ tel que $a = b \times c$. On dit aussi que $a$ est un multiple de $b$ ou que $b$ divise $a$.
 
-_Remarques_ : Si $b$ divise $a$ et si $a \neq 0$ alors $b \leq a$. En effet on a alors $a = b \times c$ avec $c \geq 1$ (on est simplement en train de dire que $b, 2b, 3b$ etc sont supérieurs à $b$).  
+__Remarques__ : Si $b$ divise $a$ et si $a \neq 0$ alors $b \leq a$. En effet on a alors $a = b \times c$ avec $c \geq 1$ (on est simplement en train de dire que $b, 2b, 3b$ etc sont supérieurs à $b$).  
 Le seul entier divisible par $0$ est $0$ et $0$ est divisible par tous les entiers (car pour tout $c \in \mathbb{N} \ 0 \times c = 0$).  
 Tous les entiers sont divisibles par $1$ (car pour tout $c \in \mathbb{N} \ 1 \times c = c$) et $1$ n'est divisible que par $1$.
 
-_Thm_ : Soient $a \in \mathbb{N}$ et $b \in \mathbb{N} \setminus${$0$}. Il existe un unique couple d'entiers naturels $(q,r)$ tel que $0 \leq r < b$ et $a = qb + r$ (division euclidienne de $a$ par $b$).
+__Thm__ : Soient $a \in \mathbb{N}$ et $b \in \mathbb{N} \setminus${$0$}. Il existe un unique couple d'entiers naturels $(q,r)$ tel que $0 \leq r < b$ et $a = qb + r$ (division euclidienne de $a$ par $b$).
 
 _Dém_ : Démontrons tout d'abord l'unicité : si $(q,r)$ et $(p,s)$ conviennent, alors $qb + r = pb + s$ et $0 \leq r < b$, $0 \leq s < b$, donc $(q-p)b = s-r$ donc $s-r$ est un multiple de $b$ donc $s-r = 0$ ou $b \leq s-r$ or $s-r \leq s < b$ (voir inégalités ci-dessus) donc $s-r = 0$ donc $(q-p)b = 0$ or $b \neq 0$ donc $q-p = 0$ : ainsi $r = s$ et $q = p$.
 
@@ -41,7 +41,7 @@ Si $a < b$ alors $q = 0$ et $r = a$ conviennent. Sinon, $a - b \geq 0$ donc $0 \
 
 On peut désormais définir le plus grand commun diviseur de deux entiers :
 
-_Déf_ : Le plus grand commun diviseur de $a \in \mathbb{N}$ et de $b \in \mathbb{N}$, noté pgcd$(a,b)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a$, $d$ divise $b$ et si $c$ divise $a$ et $c$ divise $b$ alors $c$ divise $d$.
+__Déf__ : Le plus grand commun diviseur de $a \in \mathbb{N}$ et de $b \in \mathbb{N}$, noté pgcd$(a,b)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a$, $d$ divise $b$ et si $c$ divise $a$ et $c$ divise $b$ alors $c$ divise $d$.
 
 Pour que cette définition soit correcte, il faut et il suffit qu'il existe un unique entier $d$ vérifiant ces propriétés (s'il n'y en a pas on est en train de donner un nom à quelque chose qui n'existe pas et s'il y en a plusieurs notre définition est ambigüe car elle désigne plusieurs entiers et pas un seul).
 
@@ -70,14 +70,14 @@ Si on a déjà construit $(q_0,r_0),\dots,(q_n,r_n)$ alors on construit $(q_{n+1
 En appliquant le lemme montré plus haut à l'ensemble des $r_n$ non nuls (qui est non vide car on a supposé que $r_0$ est non nul) on obtient qu'il existe $m \in \mathbb{N}$ tel que $r_m$ est non nul et pour tout $r_n$ non nul, $r_m < r_n$. $r_{m+1}$ est donc nul (car avec la construction faite plus haut si $r_{m+1}$ est non nul alors $r_{m+1} < r_m$ ce qui contredit $r_m < r_{m+1}$).  
 En faisant les mêmes raisonnements que plus haut, on a que si $r_m$ existe alors $r_m =$ pgcd$(r_{m+1},r_m) =$ pgcd$(r_m,r_{m-1}) = \dots =$ pgcd$(r_1,r_0) =$ pgcd$(r_0,a) =$ pgcd$(a,b)$. Or $r_m$ existe donc pgcd$(a,b)$ existe.  
 
-_Déf_ : Soit $n \in \mathbb{N} \setminus${$0,1$}. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1$,..., $d$ divise $a_n$ et si $c$ divise $a_1$,..., $c$ divise $a_n$ alors $c$ divise $d$.
+__Déf__ : Soit $n \in \mathbb{N} \setminus${$0,1$}. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1$,..., $d$ divise $a_n$ et si $c$ divise $a_1$,..., $c$ divise $a_n$ alors $c$ divise $d$.
 
 _Exercice_ : Montrer que cette définition est correcte.  
 Pour l'existence pour $n > 2$ on pourra vérifier que pgcd(pgcd$(a_1,...,a_{n-1}),a_n$) vérifie les hypothèses de pgcd$(a_1,...,a_n)$.
 
 Démontrons à présent une proposition bien utile.
 
-_Prop_ : Soient $a,b \in \mathbb{N}$. Soit $c \in \mathbb{N} \setminus${$0$}. pgcd$(ca,cb) =$ $c$ pgcd$(a,b)$.
+__Prop__ : Soient $a,b \in \mathbb{N}$. Soit $c \in \mathbb{N} \setminus${$0$}. pgcd$(ca,cb) =$ $c$ pgcd$(a,b)$.
 
 _Dém_ : Notons $d =$ pgcd$(a,b)$. $d$ divise $a$ et $d$ divise $b$ donc $cd$ divise $ca$ et $cd$ divise $cb$.
 Ainsi, $cd$ divise pgcd$(ca,cb)$. $c$ divise $ca$ et $c$ divise $cb$ donc $c$ divise pgcd$(ca,cb)$. Soit $e \in \mathbb{N}$ tel que pgcd$(ca,cb) = ce$.
@@ -88,7 +88,7 @@ Ainsi pgcd$(ca,cb) = ce$ divise $cd$ or on avait $cd$ divise pgcd$(ca,cb)$ d'où
 
 Définissons à présent le plus petit commun multiple de deux entiers.  
 
-_Déf_ : Le plus petit commun multiple de $a \in \mathbb{N}$ et de $b \in \mathbb{N}$, noté ppcm$(a,b)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a$ divise $m$, $b$ divise $m$ et si $a$ divise $c$ et $b$ divise $c$ alors $m$ divise $c$.  
+__Déf__ : Le plus petit commun multiple de $a \in \mathbb{N}$ et de $b \in \mathbb{N}$, noté ppcm$(a,b)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a$ divise $m$, $b$ divise $m$ et si $a$ divise $c$ et $b$ divise $c$ alors $m$ divise $c$.  
 
 Montrons que cette définition est correcte.  
 
@@ -108,34 +108,34 @@ Si $a$ divise $e$ et $b$ divise $e$ alors $cb$ divise $ce$ et $cb = da$ divise $
 $cb$ divise pgcd$(ce,de) = e$ pgcd$(c,d) = e$ car pgcd$(c,d) = 1$ car pgcd$(a,b) =$ pgcd$(c$pgcd$(a,b)$,$d$pgcd$(a,b)) =$ pgcd$(a,b)$ pgcd$(c,d)$ donc pgcd$(c,d) = 0$ ou $1$ et pgcd$(c,d) \neq 0$ car $c \neq 0$ (car $a \neq 0$).  
 On a donc $cb =$ ppcm$(a,b)$.  
 
-_Remarque_ : On a montré que ppcm$(a,b) = \frac{ab}{\text{pgcd}(a,b)}$.  
+__Remarque__ : On a montré que ppcm$(a,b) = \frac{ab}{\text{pgcd}(a,b)}$.  
 
-_Déf_ : Soit $n \in \mathbb{N} \setminus \{0,1\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus petit commun multiple de $a_1,\dots,a_n$, noté ppcm$(a_1,\dots,a_n)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a_1$ divise $m$,$\dots$, $a_n$ divise $m$ et si $a_1$ divise $c$,$\dots$, $a_n$ divise $c$ alors $m$ divise $c$.  
+__Déf__ : Soit $n \in \mathbb{N} \setminus \{0,1\}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus petit commun multiple de $a_1,\dots,a_n$, noté ppcm$(a_1,\dots,a_n)$, est l'entier $m \in \mathbb{N}$ qui vérifie $a_1$ divise $m$,$\dots$, $a_n$ divise $m$ et si $a_1$ divise $c$,$\dots$, $a_n$ divise $c$ alors $m$ divise $c$.  
 
 _Exercice_ : Montrer que cette définition est correcte.  
 Pour l'existence pour $n > 2$ on pourra vérifier que ppcm(ppcm$(a_1,...,a_{n-1}),a_n$) vérifie les hypothèses de ppcm$(a_1,...,a_n)$.  
 
 Démontrons une proposition analogue à celle démontrée plus haut.  
 
-_Prop_ : Soient $a,b \in \mathbb{N}$. Soit $c \in \mathbb{N} \setminus \{0\}$. ppcm$(ca,cb) =$ $c$ ppcm$(a,b)$.  
+__Prop__ : Soient $a,b \in \mathbb{N}$. Soit $c \in \mathbb{N} \setminus \{0\}$. ppcm$(ca,cb) =$ $c$ ppcm$(a,b)$.  
 
 _Dém_ : ppcm$(ca,cb) = \frac{cacb}{\text{pgcd}(ca,cb)} =  \frac{cacb}{c\text{pgcd}(a,b)} = c\frac{ab}{\text{pgcd}(a,b)} =$ $c$ppcm$(a,b)$.  
 
 ## II) Lemme de Gauss et théorème d'unicité de la décomposition en facteurs premiers. ##
 
-_Déf_ : Soit $n \in \mathbb{N} \setminus${$0,1$}. On dit que $a_1,\dots, a_n$ sont premiers entre eux si pgcd$(a_1,\dots, a_n) = 1$.
+__Déf__ : Soit $n \in \mathbb{N} \setminus${$0,1$}. On dit que $a_1,\dots, a_n$ sont premiers entre eux si pgcd$(a_1,\dots, a_n) = 1$.
 
 Démontrons le lemme de Gauss (mathématicien de la première moitié du XIXe siècle) puis deux autres lemmes qui en découlent.
 
-_Lemme de Gauss_ : Si $a$ et $b$ sont premiers entre eux et si $a$ divise $bc$ alors $a$ divise $c$. 
+__Lemme de Gauss__ : Si $a$ et $b$ sont premiers entre eux et si $a$ divise $bc$ alors $a$ divise $c$. 
 
 _Dém_ : $a$ divise $ac$ et $a$ divise $bc$ donc $a$ divise pgcd$(ac,bc) =$ pgcd$(a,b)c = c$ car pgcd$(a,b) = 1$ (on a utilisé la proposition précédente et $ca = ac$ etc).
 
-_Lemme_ : Si $a$ et $b$ sont premiers entre eux tels que $a$ divise $c$ et $b$ divise $c$ alors $ab$ divise $c$.
+__Lemme__ : Si $a$ et $b$ sont premiers entre eux tels que $a$ divise $c$ et $b$ divise $c$ alors $ab$ divise $c$.
 
 _Dém_ : $b$ divise $c$ donc il existe $d \in \mathbb{N}$ tel que $c = bd$. $a$ divise $c = bd$ et $a$ et $b$ sont premiers entre eux donc, avec le lemme précédent, $a$ divise $d$ donc il existe $e \in \mathbb{N}$ tel que $d = ae$ donc $c = bd = bae = abe$ donc $ab$ divise $c$.  
 
-_Lemme_ : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus${$0$}. Soient $a_1,\dots,a_n \in \mathbb{N}$. Si $p$ divise $a_1 \times \dots \times a_n$ alors $p$ divise $a_1$ ou ... ou $p$ divise $a_n$.
+__Lemme__ : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus${$0$}. Soient $a_1,\dots,a_n \in \mathbb{N}$. Si $p$ divise $a_1 \times \dots \times a_n$ alors $p$ divise $a_1$ ou ... ou $p$ divise $a_n$.
 
 _Exercice_ : Démontrer ce lemme en utilisant le lemme de Gauss et le fait que si $p$ est un nombre premier et $c \in \mathbb{N}$ alors pgcd$(p,c) = 1$ ou $p$ (cette dernière affirmation se démontre aisément avec la définition de nombre premier (voir article 2)).
 
@@ -143,7 +143,7 @@ _Notation_ : On note min$(x_1,\dots,x_n)$ le minimum des entiers $x_1,\dots,x_n$
 
 Dans l'article 2 on avait montré l'existence de la décomposition en facteurs premiers; montrons-en à présent l'unicité.  
 
-_Thm_ : Soient $m,n \in \mathbb{N} \setminus${$0$}. Soient $p_1 \leq \dots \leq p_m, \, q_1 \leq \dots \leq q_n$ des nombres premiers. Si $p_1 \times \dots \times p_m = q_1 \times \dots \times q_n$ alors $m = n$, $p_1 = q_1, \dots, p_m = q_m$. C'est l'unicité de la décomposition en facteurs premiers.
+__Thm__ : Soient $m,n \in \mathbb{N} \setminus${$0$}. Soient $p_1 \leq \dots \leq p_m, \, q_1 \leq \dots \leq q_n$ des nombres premiers. Si $p_1 \times \dots \times p_m = q_1 \times \dots \times q_n$ alors $m = n$, $p_1 = q_1, \dots, p_m = q_m$. C'est l'unicité de la décomposition en facteurs premiers.
 
 _Dém_ : Raisonnons par récurrence sur le maximum de $m$ et de $n$, noté max$(m,n)$ (max$(m,n) = m$ si $m \geq n$ et $n$ sinon).
 
@@ -161,14 +161,14 @@ $x^n$ se prononce "$x$ puissance $n$" (et on dit souvent "$x$ au carré" plutôt
 
 Puisqu'on a établi l'unicité de la décomposition en facteurs premiers, on peut définir correctement la valuation $p$-adique d'un entier naturel non nul :  
 
-_Déf_ : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus \{0,1\}$. La valuation $p$-adique de $n$ est la puissance à laquelle apparaît $p$ dans la décomposition en facteurs premiers de $n$, c'est-à-dire que si $n = p_1^{a_1} \times \dots \times p_m^{a_m}$ avec $p_1, \dots, p_m$ des nombres premiers distincts (c'est-à-dire tous différents les uns des autres), alors si $p = p_i$ la valuation $p$-adique de $n$ est $a_i$ et si $p \not \in \{p_1,\dots,p_m\}$ (c'est-à-dire $p$ différent de tous les $p_i$) alors la valuation $p$-adique de $n$ est nulle (car $p^0 = 1$).  La valuation $p$-adique de $1$ est nulle. La valuation $p$-adique de $n$ est notée $v_p(n)$.  
+__Déf__ : Soit $p$ un nombre premier. Soit $n \in \mathbb{N} \setminus \{0,1\}$. La valuation $p$-adique de $n$ est la puissance à laquelle apparaît $p$ dans la décomposition en facteurs premiers de $n$, c'est-à-dire que si $n = p_1^{a_1} \times \dots \times p_m^{a_m}$ avec $p_1, \dots, p_m$ des nombres premiers distincts (c'est-à-dire tous différents les uns des autres), alors si $p = p_i$ la valuation $p$-adique de $n$ est $a_i$ et si $p \not \in \{p_1,\dots,p_m\}$ (c'est-à-dire $p$ différent de tous les $p_i$) alors la valuation $p$-adique de $n$ est nulle (car $p^0 = 1$).  La valuation $p$-adique de $1$ est nulle. La valuation $p$-adique de $n$ est notée $v_p(n)$.  
 
 _Exemples_ : $v_2(2) = 1$ et pour tout $p$ premier différent de $2, v_2(p) = 0$.  
 $12 = 2^2 \times 3$ donc $v_2(12) = 2, v_3(12) = 1$ et pour tout $p$ premier différent de $2$ et de $3$, $v_p(12) = 0$.  
 
-_Remarque_ : Si pour tous les nombres premiers $p$ $v_p(n) = v_p(m)$ alors $n = m$ (cf. la décomposition en facteurs premiers).  
+__Remarque__ : Si pour tous les nombres premiers $p$ $v_p(n) = v_p(m)$ alors $n = m$ (cf. la décomposition en facteurs premiers).  
 
-_Prop_ : Soient $a,b \in \mathbb{N} \setminus \{0\}$. Soit $p$ premier. $v_p(ab) = v_p(a) + v_p(b)$.  
+__Prop__ : Soient $a,b \in \mathbb{N} \setminus \{0\}$. Soit $p$ premier. $v_p(ab) = v_p(a) + v_p(b)$.  
 
 _Dém_ : Si $a = 1$ alors $v_p(a) = 0$ et on a bien $v_p(ab) = v_p(b) = v_p(a) + v_p(b)$.  
 Si $b = 1$ alors $v_p(b) = 0$ et on a bien $v_p(ab) = v_p(a) = v_p(a) + v_p(b)$.  
@@ -177,7 +177,7 @@ $a = p_1^{v_{p_1}(a)} \times \dots \times p_m^{v_{p_m}(a)}$ et $b = p_1^{v_{p_1}
 $ab = p_1^{v_{p_1}(a)} \times p_1^{v_{p_1}(b)} \times \dots \times p_m^{v_{p_m}(a)} \times p_m^{v_{p_m}(b)} = p_1^{v_{p_1}(a) + v_{p_1}(b)} \times \dots \times p_m^{v_{p_m}(a) + v_{p_m}(b)}$  
 donc $v_{p_1}(ab) = v_{p_1}(a) + v_{p_1}(b), \dots, v_{p_m}(ab) = v_{p_m}(a) + v_{p_m}(b)$, et pour tout $p$ premier qui n'appartient pas à $\{p_1,\dots,p_m\}$ on a : $v_p(ab) = 0 = 0 + 0 = v_p(a) + v_p(b)$.  
  
-_Prop_ : Soient $a,b \in \mathbb{N} \setminus \{0\}$. $a$ divise $b$ si et seulement si pour tout nombre premier $p$ $v_p(a) \leq v_p(b)$.  
+__Prop__ : Soient $a,b \in \mathbb{N} \setminus \{0\}$. $a$ divise $b$ si et seulement si pour tout nombre premier $p$ $v_p(a) \leq v_p(b)$.  
 
 _Dém_ : Supposons que $a$ divise $b$.  
 Il existe $c \in \mathbb{N} \setminus \{0\}$ tel que $b = ac$. Soit $p$ premier.  
@@ -189,21 +189,21 @@ $b = a \times p_1^{v_{p_1}(b) - v_{p_1}(a)} \times \dots \times p_m^{v_{p_m}(b) 
 (cf. les décompositions en facteurs premiers de $a$ et de $b$)  
 donc $a$ divise $b$.  
 
-_Prop_ : Soient $x_1,\dots,x_n \in \mathbb{N}$. Soit $p$ premier. $v_p$(pgcd$(x_1,\dots,x_n)$) = min$(v_p(x_1),\dots,v_p(x_n))$.  
+__Prop__ : Soient $x_1,\dots,x_n \in \mathbb{N}$. Soit $p$ premier. $v_p$(pgcd$(x_1,\dots,x_n)$) = min$(v_p(x_1),\dots,v_p(x_n))$.  
 
 _Dém_ : Soit $d$ le nombre tel que pour tout $p$ premier $v_p(d) =$ min$(v_p(x_1),\dots,v_p(x_n))$ (un tel nombre existe car il n'y a qu'un nombre fini de $p$ pour lesquels $v_p(x_1) \neq 0$ et si $v_p(x_1) = 0$ alors min$(v_p(x_1),\dots,v_p(x_n)) = 0$). D'après la proposition précédente, $d$ divise $x_1,\dots, d$ divise $x_n$.  
 Soit $c$ tel que $c$ divise $x_1,\dots, c$ divise $x_n$. D'après la proposition précédente, pour tout $p$ premier : $v_p(c) \leq v_p(x_1),\dots, v_p(c) \leq v_p(x_n)$ donc $v_p(c) \leq$ min$(v_p(x_1),\dots,v_p(x_n)) = v_p(d)$.  
 D'après la proposition précédente, on a donc $c$ divise $d$.  
 $d$ est donc le plus grand commun diviseur de $x_1,\dots,x_n$.  
 
-_Prop_ : Soient $x_1,\dots,x_n \in \mathbb{N}$. Soit $p$ premier. $v_p$(ppcm$(x_1,\dots,x_n)$) = max$(v_p(x_1),\dots,v_p(x_n))$.  
+__Prop__ : Soient $x_1,\dots,x_n \in \mathbb{N}$. Soit $p$ premier. $v_p$(ppcm$(x_1,\dots,x_n)$) = max$(v_p(x_1),\dots,v_p(x_n))$.  
 
 _Dém_ : Soit $m$ le nombre tel que pour tout $p$ premier $v_p(m) =$ max$(v_p(x_1),\dots,v_p(x_n))$ (un tel nombre existe car il n'y a qu'un nombre fini de $p$ pour lesquels $v_p(x_1) \neq 0$ ou $\dots$ ou $v_p(x_n) \neq 0$ et si $v_p(x_1) = 0,\dots,v_p(x_n) = 0$ alors max$(v_p(x_1),\dots,v_p(x_n)) = 0$). D'après une proposition plus haut, $x_1$ divise $m,\dots, x_n$ divise $m$.  
 Soit $c$ tel que $x_1$ divise $c,\dots, x_n$ divise $c$. D'après une proposition plus haut, pour tout $p$ premier : $v_p(x_1) \leq v_p(c),\dots, v_p(x_n) \leq v_p(c)$ donc $v_p(c) \geq$ max$(v_p(x_1),\dots,v_p(x_n)) = v_p(m)$.  
 D'après une proposition plus haut, on a donc $m$ divise $c$.  
 $m$ est donc le plus petit commun multiple de $x_1,\dots,x_n$.  
 
-_Prop_ : Soient $x_1,\dots,x_n,a_1,\dots,a_n \in \mathbb{N}$. Si pgcd$(x_1,\dots,x_n) = 1$ alors pgcd$(x_1^{a_1},\dots,x_n^{a_n}) = 1$.  
+__Prop__ : Soient $x_1,\dots,x_n,a_1,\dots,a_n \in \mathbb{N}$. Si pgcd$(x_1,\dots,x_n) = 1$ alors pgcd$(x_1^{a_1},\dots,x_n^{a_n}) = 1$.  
 
 _Dém_ : D'après la remarque plus haut, il suffit de montrer que pour tout nombre premier $p$, $v_p($pgcd$(x_1^{a_1},\dots,x_n^{a_n})) = 0$.  
 Soit $p$ un nombre premier. D'après une proposition plus haut :  
@@ -229,7 +229,7 @@ En géométrie, le théorème de Pythagore stipule que si $x,y,z$ sont les longu
 
 Cet exercice et les suivants seront corrigés dans l'article 5 bis. Si vous bloquez sur une question n'hésitez pas à la sauter pour faire les autres questions (quitte à réessayer plus tard, souvent la nuit porte conseil).
 
-_Remarque_ : Si $x,y,z \in \mathbb{Z} \setminus \{0\}$ vérifient $x^2 + y^2 = z^2$, en remplaçant $x$ par $-x$ ou $y$ par $-y$ ou $z$ par $-z$ on a encore $x^2 + y^2 = z^2$ et $x,y,z \in \mathbb{Z} \setminus \{0\}$. En changeant les signes qu'il faut, on se ramène à $x,y,z \in \mathbb{N} \setminus \{0\}$, et l'exercice précédent nous donne donc tous les $x,y,z \in \mathbb{Z} \setminus \{0\}$ qui vérifient $x^2 + y^2 = z^2$ en changeant des signes (explicitez ces solutions).  
+__Remarque__ : Si $x,y,z \in \mathbb{Z} \setminus \{0\}$ vérifient $x^2 + y^2 = z^2$, en remplaçant $x$ par $-x$ ou $y$ par $-y$ ou $z$ par $-z$ on a encore $x^2 + y^2 = z^2$ et $x,y,z \in \mathbb{Z} \setminus \{0\}$. En changeant les signes qu'il faut, on se ramène à $x,y,z \in \mathbb{N} \setminus \{0\}$, et l'exercice précédent nous donne donc tous les $x,y,z \in \mathbb{Z} \setminus \{0\}$ qui vérifient $x^2 + y^2 = z^2$ en changeant des signes (explicitez ces solutions).  
 
 Une question que l'on peut naturellement se poser est de savoir s'il existe $x,y,z \in \mathbb{N} \setminus${$0$} tels que $x^3 + y^3 = z^3$ ou $x^4 + y^4 = z^4$ etc. Pierre de Fermat (1601-1665) a énoncé la conjecture suivante (appelée grand théorème de Fermat ou dernier théorème de Fermat) : pour tout $n \geq 3$, il n'existe pas $x,y,z \in \mathbb{N} \setminus${$0$} tels que $x^n + y^n = z^n$. Andrew Wiles (1953-) l'a démontrée en 1995 grâce à des mathématiques très sophistiquées (le documentaire [Fermat's Last Theorem](http://topdocumentaryfilms.com/fermats-last-theorem/) présente l'aventure de la preuve au grand public). Les cas $n = 3$ et $n = 4$ sont faciles à montrer et font l'objet des exercices suivants. Ensuite il suffit de montrer le résultat pour $n \geq 5$ premier (prouvez-le ! ce sera corrigé dans l'article 5 bis, tout comme les exercices suivants), c'est ce qu'a fait Wiles (je dis "il suffit" mais c'est très difficile (sinon le grand théorème de Fermat n'aurait pas attendu plus de 300 ans avant d'être prouvé)).  
 
