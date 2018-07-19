@@ -1,7 +1,7 @@
 title:                  Réfléchir
 image:                  "http://reflechir.ml/images/Lu_et_approuv.png"
 description:            "Ce site s'adresse à tous et a pour but de susciter la réflexion, autant par l'analyse des actualités que par la découverte des sciences et des sciences humaines."
-url:                    http://reflechir-test.tk 
+url:                    http://reflechir.ml 
 email:                  sitereflechir@gmail.com
 lang:                   "fr"
 categories:             [actualités,sciences, sciences humaines,évènements,fact-checking,opinions,mathématiques,informatique,biologie, physique,dossiers,lu et approuvé,vu et approuvé]
@@ -13,10 +13,10 @@ a_venir:                [["Mathématiques", ["Théorie des ensembles", "Géomét
 header_colors:          [["sciences", "#ffff80"], ["sciences humaines", "#e6b3ff"], ["actualités", "#90ebff"]]
 link_colors:            ["#adad85", "#000000"]
 
-google_analyticsML:       'UA-'
-google_analyticsCF:       'UA-'
+google_analyticsML:       'UA-109489888-1'
+google_analyticsCF:       'UA-109489888-2'
 
-environment:            "development"
+environment:            "production"
 
 images:                 "images/"
 pdfs:                   "pdfs/"
