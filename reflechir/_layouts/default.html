@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "fr" }}">
-<script>
-var isMobile = function() {
-   console.log("Navigator: " + navigator.userAgent);
-   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
-};
-if (isMobile() && (window.location.hostname == "www.reflechir.ml" || window.location.hostname == "reflechir.ml")) {
-	window.location.replace('http://www.reflechir.cf' + window.location.pathname);
-}
+<script type="text/javascript">
+	var isMobile = function() {
+	   console.log("Navigator: " + navigator.userAgent);
+	   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
+	};
+	window.onload = function () {
+		if (isMobile()) {
+			document.getElementByTagName("a").target = "_self";
+		};
+	};
 </script>
 
 {% include head.html %}
