@@ -2,6 +2,16 @@
 title: "Présidentielle 2017 : Benoît Hamon (deuxième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/nw55P8
+image: "/images/presidentielle_2017/180px-BHamon2012.jpg"
+excerpt: "Voir les première et troisième parties. Le programme de Benoît Hamon est disponible sur cette page.
+
+IV) Mesures écologiques
+
+Je lancerai un plan de 100 milliards d’euros sur cinq ans pour la rénovation urbaine et thermique
+
+Au moins 50% de repas bio ou issus des circuits courts seront servis dans la restauration collective
+
+Ajout : J’appliquerai un taux..."
 ---
 
 ![Benoît Hamon](/images/presidentielle_2017/180px-BHamon2012.jpg) 

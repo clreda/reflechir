@@ -2,6 +2,7 @@
 title: "Eros+Massacre, de Yoshishige Yoshida (1969)"
 date: 2017-12-16
 bitlink: https://goo.gl/9UuXwY
+excerpt: "Eros+Massacre (エロス＋虐殺, Erosu purasu Gyakusatsu) est un film japonais de la fin des années 1960, qui décrit la quête de deux jeunes étudiants sur les traces d'un couple emblématique de l'anarchie japonaise du début du vingtième siècle, Sakae Osugi et Noe Ito, de leur rencontre jusqu'à leur assassinat par la police..."
 --- 
 
 ![Eros+Massacre](/images/vu_et_approuve/eros+massacre/eros-plus-massacre-1.jpg)

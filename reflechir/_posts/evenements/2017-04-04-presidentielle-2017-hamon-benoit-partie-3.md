@@ -2,6 +2,14 @@
 title: "Présidentielle 2017 : Benoît Hamon (troisième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/KX1mgM
+image: "/images/presidentielle_2017/180px-BHamon2012.jpg"
+excerpt: "Voir les première et deuxième parties. Le programme de Benoît Hamon est disponible sur cette page.
+
+X) Mesures institutionnelles
+
+Convocation dès l'été [2017] d'un débat parlementaire sur l'état d'urgence
+
+D’après  (source), à l’origine l’état d’urgence n’est prévu que pour douze jours, et n’est extensible que par la loi. Or l’état d‘urgence actuellement (la loi date en fait..."
 ---
 
 ![Benoît Hamon](/images/presidentielle_2017/180px-BHamon2012.jpg) 

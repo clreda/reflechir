@@ -2,6 +2,18 @@
 title: "Présidentielle 2017 : Nicolas Dupont-Aignan (deuxième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/C3GZgm
+image: "/images/presidentielle_2017/NDA_en_2014.jpg"
+excerpt: "Voir les première et troisième parties. Le programme de Nicolas Dupont-Aignan est disponible ici.
+
+IV) Mesures écologiques
+
+Lancer de vastes plans d’équipement d’isolations phonique et thermique
+
+But : [...] protéger les occupants du bruit et de faire baisser leur facture de chauffage
+
+Remplacer les 10 millions de véhicules les plus énergivores en 10 ans, par le biais d’un bonus pour l’acquisition d’un véhicule consommant moins de 3l/100 km. L’Etat investira 1 milliard d’€ par an pour cette mesure. La prime ne serait pas renouvelée pour une nouvelle acquisition.
+
+Le coût annoncé serait raisonnable par rapport au budget du ministère de l'Environnement en 2017 source..."
 ---
 
 ![Nicolas Dupont-Aignan](/images/presidentielle_2017/NDA_en_2014.jpg) 

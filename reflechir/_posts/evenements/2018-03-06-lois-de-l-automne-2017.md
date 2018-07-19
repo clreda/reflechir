@@ -2,6 +2,10 @@
 title : "Lois de l'automne 2017"
 date : 2018-03-06
 bitlink : https://goo.gl/vxAH9K
+image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
+excerpt: "Ceci est le deuxième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le premier tiers de la session ordinaire 2017-2018 (donc en octobre, novembre et décembre 2017).
+
+La loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations était une proposition de Marc Fesneau, président du groupe Modem..."
 ---
 
 ![Lois de l'automne 2017](/images/articles_de_loi/illus_assemblees_parl.jpg)
@@ -141,7 +145,7 @@ Il en va de même pour certaines cotisations à la charge de l'employeur :
 
 **Article 9** "Les cotisations à la charge de l'employeur dues au titre des assurances sociales et des allocations familiales, les cotisations dues au titre des accidents du travail et des maladies professionnelles, [...] les cotisations à la charge de l'employeur dues au titre des régimes de retraite complémentaire [...] et les contributions à la charge de l'employeur dues au titre de l'assurance chômage [...] qui sont [basées] sur les rémunérations ou gains inférieurs au salaire minimum de croissance [note: SMIC] majoré de 60 % [note : les rémunérations sont donc comparées avec le montant actuel du SMIC fois 1,6] font l'objet d'une réduction dégressive."
 
-Enfin, d'ici fin 2020, le paquet de cigarettes atteindra 10 euros (voir article 17 du texte). L'article 18 traite de la hausse de l'impôt sur l'essence. L'article 19 met en place la taxe "soda", qui augmente le prix des produits sucrés pour lutter conte l'obésité ([source](http://www.rtl.fr/actu/societe-faits-divers/budget-de-la-securite-sociale-ce-qui-va-changer-en-2018-7790751564)). L'article 49 ajoute huit vaccinations obligatoires pour les enfants nés en 2018.
+Enfin, d'ici fin 2020, le paquet de cigarettes atteindra 10 euros (voir article 17 du texte). L'article 18 traite de la hausse de l'impôt sur l'essence. L'article 19 met en place la taxe "soda", qui augmente le prix des produits sucrés pour lutter contre l'obésité ([source](http://www.rtl.fr/actu/societe-faits-divers/budget-de-la-securite-sociale-ce-qui-va-changer-en-2018-7790751564)). L'article 49 ajoute huit vaccinations obligatoires pour les enfants nés en 2018.
 
 #### Loi de finances pour 2018 (Assemblée 21 novembre, 15 et 21 décembre, Sénat 12 décembre puis rejet le 19 décembre, JO 31 décembre 2017). ####
 

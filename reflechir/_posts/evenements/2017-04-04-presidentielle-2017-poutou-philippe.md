@@ -2,6 +2,14 @@
 title: "Présidentielle 2017 : Philippe Poutou"
 date: 2017-04-04
 bitlink: https://goo.gl/XZ6uGZ
+image: "/images/presidentielle_2017/16.jpg"
+excerpt: "Le programme de Philippe Poutou est disponible ici, et est résumé sur cette page.
+
+Contexte
+
+Philippe Poutou est le candidat à l'élection présidentielle de 2017 issu du Nouveau Parti Anticapitaliste. Il est ouvrier et responsable syndical de la CGT. Il a été candidat à l'élection présidentielle en 2012 et en 2017 (source).
+
+Aucune affaire judiciaire où il serait..."
 ---
 
 ![Philippe Poutou](/images/presidentielle_2017/16.jpg)

@@ -2,6 +2,11 @@
 title: "3. Le raisonnement par contraposition"
 date: 2017-01-01
 bitlink: https://goo.gl/gpz3gd
+excerpt: "Pour comprendre le raisonnement par contraposition, il est utile de préciser ce que l'on entend par Si A alors B (A représentant les hypothèses de l'énoncé et B ses conclusions).
+
+Pour cela, on va définir ou, et, non par des tables de vérité. A est vrai si A est évalué à 1 et A est faux si A est évalué à 0.
+
+La première table ci-dessous correspond bien à l'utilisation habituelle du ou : A ou B est vrai si et seulement si au moins l'un des deux..."
 ---
 
 Pour comprendre le raisonnement par contraposition, il est utile de préciser ce que l'on entend par "Si A alors B" (A représentant les hypothèses de l'énoncé et B ses conclusions).

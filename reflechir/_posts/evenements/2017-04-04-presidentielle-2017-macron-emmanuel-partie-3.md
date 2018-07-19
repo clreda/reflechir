@@ -2,6 +2,12 @@
 title: "Présidentielle 2017 : Emmanuel Macron (troisième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/LHDzgX
+image: "/images/presidentielle_2017/21e61bb6f3f978d3d1c96e89c9d9f.jpeg"
+excerpt: "Voir les première et deuxième parties. Le programme d'Emmanuel Macron est disponible sur cette page. Synthèse : ici
+
+X) Mesures institutionnelles
+
+Des cibles d’économie seront fixées pour chaque ministère et un ministre ne parvenant pas à réaliser ses économies programmées se verra..."
 ---
 
 ![Emmanuel Macron](/images/presidentielle_2017/21e61bb6f3f978d3d1c96e89c9d9f.jpeg)

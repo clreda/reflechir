@@ -2,6 +2,14 @@
 title: "Présidentielle 2017 : Emmanuel Macron (première partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/jQFFwS
+image: "/images/presidentielle_2017/21e61bb6f3f978d3d1c96e89c9d9f.jpeg"
+excerpt: "Voir les deuxième et troisième parties. Le programme d'Emmanuel Macron est disponible sur cette page. Synthèse : ici
+
+Contexte
+
+Ancien élève de la classe préparatoire B/L du lycée Henri IV, il obtient un DEA de philosophie à l’université de Nanterre avant d’intégrer un master de Sciences Po puis l'ENA en 2002.
+
+Il a occupé les postes..."
 ---
 
 ![Emmanuel Macron](/images/presidentielle_2017/21e61bb6f3f978d3d1c96e89c9d9f.jpeg)

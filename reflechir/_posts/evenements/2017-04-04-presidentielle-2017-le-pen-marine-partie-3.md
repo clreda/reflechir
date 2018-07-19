@@ -2,6 +2,14 @@
 title: "Présidentielle 2017 : Marine Le Pen (troisième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/ZuHnCe
+image: "/images/presidentielle_2017/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg"
+excerpt: "Voir les première et deuxième parties. Le programme de Marine Le Pen est disponible ici.
+
+X) Mesures institutionnelles
+
+Organiser un référendum en vue de réviser la Constitution et conditionner toute révision future de la Constitution à un référendum. Élargir le champ d’application de l’article 11 de la Constitution. (2)
+
+Permettre la représentation de tous les Français par le scrutin proportionnel à toutes les élections. À l’Assemblée nationale... "
 ---
 
 ![Marine Le Pen](/images/presidentielle_2017/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg)

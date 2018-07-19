@@ -4,24 +4,355 @@
 
 @import "minima";
 
-img  {
-  display: table;
-  margin: 0 auto;
-  vertical-align: middle;
-  max-width: 600px;
-  max-height: 300px
+$color-out: #fff;
+$color-shadow: #e6e6e6;
+
+.newsletter-form-group {
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+	text-align: center;
+	background-color: $color-out;
+	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	border: 1px solid #ccc;
+	padding: 13px;
+	margin-right: 10px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
 }
 
-img.preview  {
-  display: table;
-  margin: 0 auto;
-  max-width: 100px;
-  max-height: 100px;
+.a-venir-content {
+	font-size: 1em;
+	text-align: left;
+	
+	width: 100%;
+	height: 100%;
+
+	background-color: $color-out;
+	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	border: 1px solid #ccc;
+	padding: 0;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.site-header {
+	background-color: $color-out;
+
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 305px;
+	width: 100%;
+
+	display: inline-block;
+	position: relative;
+
+	-webkit-box-shadow: px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	-webkit-border-radius: 0 0 40px 40px;
+	-moz-border-radius: 0 0 40px 40px;
+	border-radius: 0 0 40px 40px;
+
+	clear: both;
+	overflow: hidden;
+
+	-webkit-transition: box-shadow 0.3s ease-in-out;
+	-moz-transition: box-shadow 0.3s ease-in-out;
+	-o-transition: box-shadow 0.3s ease-in-out;
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body {
+	color: #000000;
+	background-color: #f2f2f2;
+
+	line-height: 1.2;
+	font-size: calc(0.2vw + 1.6vh);
+}
+
+.header-wrapper {
+	font-size: 1.3em;
+	font-family: 'Merriweather', serif;
+	text-shadow: 0px 1px #cccccc;
+
+	width: 100%;
+	height: 100%;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	text-align: center;
+}
+
+.header-title {
+	font-size: 3em;
+}
+
+.header-description {
+	font-size: 1.2em;
+	padding-top: 20px;
+	padding-left: 180px;
+	padding-right: 180px;
+	padding-bottom: 0;
+}
+
+.header-menu {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	padding-bottom: 20px;
+}
+
+.post-link {
+	font-size: 2em;
+}
+
+.header-sections {
+	text-align: left;
+}
+
+.header-subsections {
+	text-align: left;
+}
+
+a:active {
+	color: #007acc;
+	text-decoration: none;
+}
+
+a, a:hover {
+	color: #007acc;
+	text-decoration: none;
+}
+
+a:hover {
+	text-shadow: 2px 0px #cccccc;
+}
+
+.back-home-container {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.back-to-home {
+	position: relative;
+	text-align: center;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+	background-color: $color-out;
+
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+
+	padding-top: 2px;
+	padding-bottom: 2px;
+
+	width: 28%;
+	height: 70%;
+}
+
+.page-content {
+	font-size: 1.3em;
+
+	padding-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+div.card {
+	background-color: #fff;
+ 	width: 100%;
+	display: table;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
+	text-align: justify;
+	padding-bottom: 10px;
+}
+
+div.card-header {
+	width: 100%;
+	line-height: 50px;
+	font-size: 1em;
+	text-align: center;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.card-container {
+	line-height: 1.2em;
+
+	width: 90%;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	font-size: 1.1em;
+}
+
+div.card-date {
+	font-size: 0.9em;
+	margin: 15px;
+}
+
+h5 {
+	margin: 0;
+}
+
+#column1 {
+	float:left;
+	margin:0;
+	width:75%;
+}
+
+#column2 {
+	float:right;
+	margin:0;
+	width:23%;
+}
+
+.post-container {
+	background-color: #fff;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+
+	text-align: justify;
+	padding: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.title-container {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.post-title {
+	font-size: 2em;
+}
+
+.post-date {
+	margin: 20px;
 }
 
 .post-content {
-    text-align: justify;
-    text-justify: inter-word;
+	font-size: 1em;
+	line-height: 1.5em;
+
+	width: 95%;
+	margin: 5px;
+}
+
+.a-venir {
+	margin: 0;
+}
+
+.share-buttons {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	align-items: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+img  {
+	display: table;
+	margin: 0 auto;
+	vertical-align: middle;
+	max-height: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+img.preview  {
+	display: table;
+	margin: 0 auto;
+	vertical-align: middle;
+	max-height: 200px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.post-content {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.side-menu {
+	text-align: justify;
+}
+
+.side-wrapper {
+
+	margin-top: 20px;
+	margin-right: 20px;
+	font-size: 1em;
+}
+
+.copyright {
+	text-align: left;
+	color: #000;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.email-container {
+	text-align: center;
+	font-size: 1.1em;
+	width: 100%;
+	height: 100%;
+	background-color: #f2f2f2;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+}
+
+.newsletter-container {
+	text-align: justify;
+	display: table;
+	width: 92%;
+	height: 80%;
+}
+
+li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.a-venir-header {
+	margin: 10px;
+	font-size: 1.2em;
 }
 
 @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';

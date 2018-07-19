@@ -2,6 +2,16 @@
 title: "Présidentielle 2017 : François Fillon (deuxième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/ssePCG
+image: "/images/presidentielle_2017/François_Fillon_2010.jpg"
+excerpt: "Voir les première et troisième parties. Le programme de François Fillon est disponible ici.
+
+IV) Mesures écologiques
+
+Éliminer les énergies fossiles de la production d’électricité. Avec un prix plancher de la tonne de carbone de 30 euros
+
+Moderniser le parc nucléaire
+
+François Fillon compte principalement sur son programme sur le nucléaire pour fournir l'énergie nécessaire. Il compte sur la rénovation... "
 ---
 
 ![François Fillon](/images/presidentielle_2017/François_Fillon_2010.jpg) 

@@ -2,6 +2,9 @@
 title: "5 bis. Arithmétique : corrigés"
 date: 2018-07-08
 bitlink: https://tinyurl.com/ycrjzzz3
+excerpt: "Le premier exercice de l'article d'Arithmétique est de montrer que cette définition est correcte :
+
+Déf : Soit n in N - 0,1. Soient a1,... , an in N. Le plus grand commun diviseur de a1,... ,an , noté pgcd(a1,... , an), est l'entier d in N qui vérifie d divise..."
 ---
 
 Le premier exercice de l'article d'Arithmétique est de montrer que cette définition est correcte :  

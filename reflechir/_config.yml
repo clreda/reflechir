@@ -1,19 +1,22 @@
 title:                  Réfléchir
 image:                  "http://reflechir.ml/images/Lu_et_approuv.png"
 description:            "Ce site s'adresse à tous et a pour but de susciter la réflexion, autant par l'analyse des actualités que par la découverte des sciences et des sciences humaines."
-url:                    http://reflechir.ml 
+url:                    http://reflechir-test.tk 
 email:                  sitereflechir@gmail.com
 lang:                   "fr"
 categories:             [actualités,sciences, sciences humaines,évènements,fact-checking,opinions,mathématiques,informatique,biologie, physique,dossiers,lu et approuvé,vu et approuvé]
 sections:               [actualités, sciences, sciences humaines]
 antichrono:             [actualités, sciences, sciences humaines,dossiers,évènements,fact-checking,opinions,vu et approuvé]
-pagenames:              ["Actualités","Sciences","Sciences humaines","Évènements","Dossiers","Fact Checking","Opinions","Mathématiques","Informatique","Biologie","Physique","Lu et approuvé","vu et approuvé"]
+pagenames:              ["Actualités","Sciences","Sciences humaines","Évènements","Dossiers","Fact Checking","Opinions","Mathématiques","Informatique","Biologie","Physique","Lu et approuvé","Vu et approuvé"]
 sectionnames:           ["Actualités","Sciences","Sciences humaines"]
+a_venir:                [["Mathématiques", ["Théorie des ensembles", "Géométrie"]], ["Évènements", ["Lois du printemps 2018"]], ["Informatique", ["Introduction aux structures Union-Find", "Introduction aux structures Union-Find (corrigé)"]], ["Lu et approuvé", ["Le monde de Sophie, de Jostein Gaarder"]], ["Opinions", ["Éducation"]]]
+header_colors:          [["sciences", "#ffff80"], ["sciences humaines", "#e6b3ff"], ["actualités", "#90ebff"]]
+link_colors:            ["#adad85", "#000000"]
 
-google_analyticsML:       'UA-109489888-1'
-google_analyticsCF:       'UA-109489888-2'
+google_analyticsML:       'UA-'
+google_analyticsCF:       'UA-'
 
-environment:            "production"
+environment:            "development"
 
 images:                 "images/"
 pdfs:                   "pdfs/"
@@ -106,7 +109,7 @@ defaults:
     scope:
       path:             "_posts/vuetapprouve"
     values:
-      title:            "vu et approuvé"
+      title:            "Vu et approuvé"
       category:         [vu et approuvé,sciences humaines]
 
 images:                 "images/"

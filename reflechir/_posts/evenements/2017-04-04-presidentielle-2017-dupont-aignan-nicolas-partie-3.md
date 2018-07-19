@@ -2,6 +2,20 @@
 title: "Présidentielle 2017 : Nicolas Dupont-Aignan (troisième partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/q3pRrA
+image: "/images/presidentielle_2017/NDA_en_2014.jpg"
+excerpt: "Voir les première et deuxième parties. Le programme de Nicolas Dupont-Aignan est disponible ici.
+
+X) Mesures institutionnelles
+
+Exiger pour tout candidat à un mandat électif un casier judiciaire vierge
+
+Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire : s’il est majoritaire, le scrutin est reporté et les candidats battus ne peuvent pas se représenter
+
+Nicolas Dupont-Aignan ne précise pas quels sont les candidats battus.
+
+Supprimer le cumul des rémunérations pour les élus : un salaire pour un mandat, aucun autre avantage
+
+Diminuer le nombre de parlementaires..."
 ---
 
 ![Nicolas Dupont-Aignan](/images/presidentielle_2017/NDA_en_2014.jpg) 

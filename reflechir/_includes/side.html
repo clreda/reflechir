@@ -1,32 +1,56 @@
-  <div id="side" class="wrapper">
+<script type="text/javascript">
+	var isMobile = function() {
+	   console.log("Navigator: " + navigator.userAgent);
+	   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
+	};
+	window.onload = function () {
+		if (isMobile()) {
+			document.getElementById("email-site").innerHTML = "email";
+		}
+		else {
+			document.getElementById("email-site").innerHTML = "{{ site.email }}";
+		};
+	};
+</script>
 
-    <br></br>
+<div class="side-wrapper">
 
-    <center><h4>
-             Nous contacter : <a href="mailto:{{ site.email }}">{{ site.email | escape }}</a>
-    </h4></center>
+<div class="email-container">
+	<p>Nous contacter :</p>
+	<p><center>
+	<a id="email-site" href="mailto:{{ site.email }}"><br></a>
+	<center></p>
+</div>
 
-<p>Inscrivez-vous pour être averti de la sortie de nouveaux articles</p>
-<div class="form-group">
-    <form style="text-align: center; background-color: whitesmoke; border:1px solid #ccc;padding:3px;text-align:center" action="https://tinyletter.com/reflechir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reflechir', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-        <p><label for="tlemail">Écrire votre adresse mail</label></p>
-        <p><input type="text" style="width:140px" name="email" id="tlemail"></p>
-        <input type="hidden" value="1" name="embed"><input type="submit" value="S'inscrire" class="btn btn-warning">
-    </form>
+<div class="newsletter-container">
+	<p>Inscrivez-vous pour être averti.e de la sortie de nouveaux articles</p>
+	<div class="newsletter-form-group">
+		<form action="https://tinyletter.com/reflechir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reflechir', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+		<p><label for="tlemail"><b>Écrire votre adresse mail</b></label></p>
+		<p><input type="text" style="width:140px" name="email" id="tlemail"></p>
+		<input type="hidden" value="1" name="embed"><input type="submit" value="S'inscrire" class="btn btn-warning">
+		</form>
+	</div>
 </div> 
 
-<br></br>
+<br>
 
-          <h3><b>Articles à venir :</b></h3>
-          <h5><p class="indent2"><em>[Mathématiques] Théorie des ensembles</em></p></h5>
-          <h5><p class="indent2"><em>[Mathématiques] Géométrie</em></p></h5>
-          <h5><p class="indent2"><em>[Évènements] Lois du printemps 2018</em></p></h5>
-          <h5><p class="indent2"><em>[Informatique] Introduction aux structures Union-Find</em></p></h5>
-          <h5><p class="indent2"><em>[Informatique] Introduction aux structures Union-Find (corrigé)</em></p></h5>
-          <h5><p class="indent2"><em>[Lu et approuvé] Le monde de Sophie, de Jostein Gaarder</em></p></h5>
-	  <h5><p class="indent2"><em>[Opinions] Éducation</em></p></h5>
+<div class="a-venir">
+	<div class="a-venir-content">
+		<div class="a-venir-header">
+          	<b>Articles à venir :</b>
+		</div>
+		{% for section in site.a_venir %}
+		<ul>
+			<li><b>{{ section.first }}</b></li>
+			{% for article in section.last %}
+			<li>{{ article }}</li>
+			{% endfor %}
+		</ul>
+		{% endfor %}
+	</div>
+</div>
 
-   </div>
+{% include footer.html %}
 
-<h5><b><p>© 2018</p>
-<p>Le contenu de ce site est sous licence MIT.</p></b></h5>
+</div>

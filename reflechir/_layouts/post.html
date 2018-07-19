@@ -14,27 +14,37 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <p><center><a href="{{ site.baseurl }}" style="color: #000000">Retourner à l'accueil du site</a></center></p>
+<div class="back-home-container">
+	<div class="back-to-home">
+	<a href="{{ site.baseurl }}" style="color: #000" target="_self">Retourner à l'accueil du site</a>
+	</div>
+</div>
 
-    <h2>
-     <b>
-        {{ page.title | escape }}
-     </b>
-    </h2>
-    {% include page_date.html %}
+<div class="post-container">
+	<div class="title-container">
+		<div class="post-title"><b>{{ page.title | escape }}</b></div>
+		<div class="post-date">{% include page_date.html %}</div>
+	</div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-  <div id="share-buttons">
-          <h3>Partager cet article : </h3>
-          <a href="http://www.facebook.com/sharer.php?url=" + {{ page.bitlink }} + ";" target="_blank">
-            <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
-          </a>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-          <a href="https://twitter.com/share?url=" + {{ page.bitlink }} + ";" target="_blank">
-            <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
-          </a>
-    </div>
+	<div class="post-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+
+	<div class="share-buttons">
+		<p><h2><b>
+		Partager cet article :
+		</b></h2>
+		</p>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<a href="http://www.facebook.com/sharer.php?url=" + {{ page.bitlink }} + ";" target="_blank">
+		<img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+		</a>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<a href="https://twitter.com/share?url=" + {{ page.bitlink }} + ";" target="_blank">
+		<img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+		</a>
+	</div>
+
+</div>
 
 </article>

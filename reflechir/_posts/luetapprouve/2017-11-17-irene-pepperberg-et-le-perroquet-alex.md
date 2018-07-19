@@ -2,6 +2,10 @@
 title: "Irene Pepperberg et le perroquet Alex"
 date: 2017-11-17
 bitlink: https://goo.gl/i1SmRu
+image: "/images/lu_et_approuve/Lu_et_approuv.jpg"
+excerpt: "Alex & Me : how a scientist and a parrot discovered a hidden world of animal intelligence — and formed a deep bond in the process (2008) d'Irene Pepperberg est un livre de vulgarisation qui décrit les expériences scientifiques sur le langage et la pensée que Pepperberg a menées avec le perroquet Alex ainsi que leur vie quotidienne pendant les trente années qu'ils ont vécues ensemble (Alex est mort le 6 septembre 2007 à 31 ans).
+
+En 1977, la communauté..."
 ---
 
 ![Lu et approuvé !](/images/lu_et_approuve/Lu_et_approuv.jpg)

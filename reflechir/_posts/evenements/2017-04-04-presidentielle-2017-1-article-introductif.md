@@ -2,6 +2,11 @@
 title: "Présidentielle 2017 : Article introductif"
 date: 2017-04-04
 bitink: https://goo.gl/rTbHc5
+image: "/images/presidentielle_2017/2017-03-18t105333z_1912742804_rc1acb0a48b0_rtrmadp_3_france-election-candidates_2.jpg"
+excerpt: "Cet article introductif présente les différentes parties des articles sur les candidats.
+Pour des raisons de lisibilité, les articles sur Dupont-Aignan, Fillon, Hamon, Le Pen, Macron, et Mélenchon ont été scindés en trois chacun.
+
+La découpe a lieu..."
 ---
 
 ![Article introductif](/images/presidentielle_2017/2017-03-18t105333z_1912742804_rc1acb0a48b0_rtrmadp_3_france-election-candidates_2.jpg)

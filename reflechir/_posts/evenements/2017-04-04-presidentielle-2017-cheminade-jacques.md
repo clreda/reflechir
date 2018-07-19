@@ -2,6 +2,17 @@
 title: "Présidentielle 2017 : Jacques Cheminade"
 date: 2017-04-04
 bitlink: https://goo.gl/RnMEqQ
+image: "/images/presidentielle_2017/220px-Jacques-Cheminade_2.jpg"
+excerpt: "Le programme de Jacques Cheminade est disponible ici.
+
+Contexte
+
+Jacques Cheminade est le candidat à l'élection présidentielle issu du parti Solidarité et progrès.
+Il est diplômé de HEC Paris (1963), a obtenu une licence en droit en 1965 et est sorti de l'ENA en 1969. Il a été fonctionnaire à la Direction des relations économiques extérieures (DREE) du Ministère de l'Economie, des Finances et de l'Industrie (1969-1981). Il a été candidat aux élections présidentielles de 1995, de 2012 et de 2017.source
+
+Aucune affaire judiciaire où il serait impliqué n'est connue à ce jour.
+
+Toutes les mesures décrites ici sont exclusivement..."
 ---
 
 ![Jacques Cheminade](/images/presidentielle_2017/220px-Jacques-Cheminade_2.jpg) 

@@ -2,6 +2,12 @@
 title: "Présidentielle 2017 : Marine Le Pen (première partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/sK4DeR
+image: "/images/presidentielle_2017/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg"
+excerpt: "Voir les deuxième et troisième parties. Le programme de Marine Le Pen est disponible ici.
+
+Contexte
+
+Marion Anne Perrine Le Pen, dite Marine Le Pen, est la candidate à l’élection présidentielle de 2017 issue du Front national. Elle a eu une maîtrise en droit en 1990 (Paris II-Assas), un DEA de droit pénal en 1991 (Paris II-Assas) et un Certificat d'aptitude à la profession d'avocat (CAPA) en 1992 (Ecole de formation professionnelle des..."
 ---
 
 ![Marine Le Pen](/images/presidentielle_2017/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg) 

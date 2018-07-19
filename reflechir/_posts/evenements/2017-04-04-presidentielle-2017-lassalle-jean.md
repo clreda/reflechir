@@ -2,6 +2,14 @@
 title: "Présidentielle 2017 : Jean Lassalle"
 date: 2017-04-04
 bitlink: https://goo.gl/m77yBZ
+image: "/images/presidentielle_2017/jeanlassalle.jpeg"
+excerpt: "Le programme de Jean Lassalle est disponible ici.
+
+Contexte
+
+Jean Lassalle est le candidat à la présidence de la République Française pour 2017 issu du Mouvement Démocrate. Il est technicien agricole.(source)
+
+Il a été affecté aux postes suivants durant sa carrière..."
 ---
 
 ![Jean Lassalle](/images/presidentielle_2017/jeanlassalle.jpeg)

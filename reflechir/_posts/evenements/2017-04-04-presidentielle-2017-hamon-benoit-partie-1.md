@@ -2,6 +2,12 @@
 title: "Présidentielle 2017 : Benoît Hamon (première partie)"
 date: 2017-04-04
 bitlink: https://goo.gl/QYjzDD
+image: "/images/presidentielle_2017/180px-BHamon2012.jpg"
+excerpt: "Voir les deuxième et troisième parties. Le programme de Benoît Hamon est disponible sur cette page.
+
+Contexte
+
+Benoît Hamon est le candidat à la présidence de la République Française pour 2017 issu du parti socialiste. Il est titulaire... "
 ---
 
 ![Benoît Hamon](/images/presidentielle_2017/180px-BHamon2012.jpg) 
