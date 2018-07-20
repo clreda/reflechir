@@ -12,11 +12,51 @@ layout: page
 {% if site.categories[page.category] %}
 {% if site.antichrono contains page.category %}
 {% for post in site.categories[page.category] %}
-        {% include thumb_post.html %}
+<div class="card">
+	{% for color_hash in site.header_colors %}
+	  {% if color_hash.first == post.category.last %}
+	 <div class="card-header" style="background-color: {{ color_hash.last }}; font-size: 0.8em">
+              <a class="post-link" href="{{ post.url | relative_url }}" style="color: #000000">
+                 <b>{{ post.title | truncate:62 | escape }}</b>
+              </a>
+	</div>
+	<div class="card-container">
+        	<div class="card-date">
+		{% include post_date.html %}
+		</div>
+	   {% if post.image %}
+	   <img src="{{ post.image }}" alt="{{ post.title }}" class="preview">
+	   {% endif %}
+           {{ post.excerpt }}
+	</div>
+	  {% endif %}
+	{% endfor %}
+</div>
+<br>
 {% endfor %}
 {% else %}
 {% for post in site.categories[page.category] reversed %}
-        {% include thumb_post.html %}
+<div class="card">
+	{% for color_hash in site.header_colors %}
+	  {% if color_hash.first == post.category.last %}
+	 <div class="card-header" style="background-color: {{ color_hash.last }}; font-size: 0.8em">
+              <a class="post-link" href="{{ post.url | relative_url }}" style="color: #000000">
+                 <b>{{ post.title | truncate:62 | escape }}</b>
+              </a>
+	</div>
+	<div class="card-container">
+        	<div class="card-date">
+		{% include post_date.html %}
+		</div>
+	   {% if post.image %}
+	   <img src="{{ post.image }}" alt="{{ post.title }}" class="preview">
+	   {% endif %}
+           {{ post.excerpt }}
+	</div>
+	  {% endif %}
+	{% endfor %}
+</div>
+<br>
 {% endfor %}
 {% endif %}
 {% else %}
