@@ -8,6 +8,7 @@ layout: page
 	</div>
 </div>
 
+<div class="home">
 {% if site.categories[page.category] %}
 {% if site.antichrono contains page.category %}
 {% for post in site.categories[page.category] %}
@@ -25,3 +26,4 @@ layout: page
      </b>
   </h3>
 {% endif %}
+</div>
