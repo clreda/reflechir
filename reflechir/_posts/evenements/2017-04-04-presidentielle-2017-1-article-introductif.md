@@ -92,4 +92,4 @@ Cette partie porte sur les mesures concernant les forces de l'ordre.
 
 Cette partie permet de souligner des points de convergence et des points de divergence entre le programme du candidat et ceux des autres candidats.
 
-L'image vient du site http://www.rfi.fr/france/20170323-presidentielle-francaise-2017-candidats-ont-publie-leur-patrimoine 
+L'image vient de cette [page](http://www.rfi.fr/france/20170323-presidentielle-francaise-2017-candidats-ont-publie-leur-patrimoine).
