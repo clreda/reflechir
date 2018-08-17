@@ -7,42 +7,6 @@
 $color-out: #fff;
 $color-shadow: #e6e6e6;
 
-.newsletter-form-group {
-	position: relative;
-	width: 100%;
-	height: 100%;
-
-	text-align: center;
-	background-color: $color-out;
-	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-
-	border: 1px solid #ccc;
-	padding: 13px;
-	margin-right: 10px;
-
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
-
-.a-venir-content {
-	text-align: left;
-
-	background-color: $color-out;
-	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-
-	border: 1px solid #ccc;
-	padding: 0;
-
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
-
 .site-header {
 	background-color: $color-out;
 
@@ -186,6 +150,13 @@ a:hover {
 }
 
 .page-content {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	padding-top: 10px;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -198,7 +169,7 @@ div.card {
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
 	text-align: justify;
 	padding-bottom: 10px;
-	margin: 10px;
+	margin: 2px;
 }
 
 div.card-header {
@@ -224,18 +195,6 @@ div.card-date {
 
 h5 {
 	margin: 0;
-}
-
-#column1 {
-	float:left;
-	margin:0;
-	width:75%;
-}
-
-#column2 {
-	float:right;
-	margin:0;
-	width:23%;
 }
 
 .post-container {
@@ -273,8 +232,45 @@ h5 {
 	margin: 5px;
 }
 
-.a-venir {
+.a-venir-header {
+	margin-bottom: 5px;
+	font-size: 1.2em;
+}
+
+.a-venir-content {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	text-align: left;
+
+	background-color: $color-out;
+	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	border: 1px solid #ccc;
 	margin: 0;
+	padding: 8px;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.a-venir-list {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	align-items: center;
+	flex-direction: row;
 }
 
 .share-buttons {
@@ -311,50 +307,62 @@ img.preview  {
 	text-justify: inter-word;
 }
 
-.side-menu {
-	text-align: justify;
-	font-size: 1.4em;
-}
-
 .side-wrapper {
-	margin-top: 20px;
-	margin-right: 20px;
+	font-size: 1.4em;
+	margin-bottom: 10px;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: row;
+	align-items: left;
+	justify-items: center;
 }
 
 .copyright {
 	text-align: left;
 	color: #000;
-	margin-top: 20px;
-	margin-bottom: 10px;
+	margin-top: 5px;
 }
 
 .email-container {
 	text-align: center;
-	width: 100%;
-	height: 100%;
-	background-color: #f2f2f2;
-	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	border-radius: 25px;
+	vertical-align: middle;
+	padding-top: 80px;
+	width: 80%;
 }
 
 .newsletter-container {
 	text-align: justify;
 	display: table;
-	width: 92%;
-	height: 80%;
+	padding: 10px;
 }
+
+.newsletter-form-group {
+	position: relative;
+
+	text-align: center;
+	background-color: $color-out;
+	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
+
+	border: 1px solid #ccc;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	height: 150px;
+	width: 200px;
+	padding-top: 10px;
+}
+
 
 li {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
-}
-
-.a-venir-header {
-	margin: 10px;
-	font-size: 1.2em;
 }
 
 @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
