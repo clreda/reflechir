@@ -28,11 +28,7 @@ $color-shadow: #e6e6e6;
 }
 
 .a-venir-content {
-	font-size: 1em;
 	text-align: left;
-	
-	width: 100%;
-	height: 100%;
 
 	background-color: $color-out;
 	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
@@ -87,9 +83,9 @@ body {
 }
 
 .header-wrapper {
-	font-size: 1.3em;
 	font-family: 'Merriweather', serif;
 	text-shadow: 0px 1px #cccccc;
+	font-size: 1.3em;
 
 	width: 100%;
 	height: 100%;
@@ -136,7 +132,6 @@ body {
 }
 
 .post-link {
-	font-size: 1.5em;
 }
 
 .header-sections {
@@ -177,6 +172,7 @@ a:hover {
 	text-align: center;
 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
 	background-color: $color-out;
+	font-size: 1.4em;
 
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -185,13 +181,11 @@ a:hover {
 	padding-top: 2px;
 	padding-bottom: 2px;
 
-	width: 28%;
-	height: 70%;
+	width: 45%;
+	height: 75%;
 }
 
 .page-content {
-	font-size: 1.3em;
-
 	padding-top: 10px;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -204,27 +198,27 @@ div.card {
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
 	text-align: justify;
 	padding-bottom: 10px;
+	margin: 10px;
 }
 
 div.card-header {
 	width: 100%;
 	line-height: 50px;
-	font-size: 1em;
 	text-align: center;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.19);
+	font-size: 1.5em;
 }
 
 div.card-container {
-	line-height: 1.2em;
-
+	line-height: 1.5em;
+	font-size: 1.4em;
 	width: 90%;
 	padding-left: 20px;
 	padding-bottom: 20px;
-	font-size: 1.1em;
 }
 
 div.card-date {
-	font-size: 0.9em;
+	font-size: 1em;
 	margin: 15px;
 }
 
@@ -263,15 +257,16 @@ h5 {
 }
 
 .post-title {
-	font-size: 2em;
+	font-size: 2.5em;
 }
 
 .post-date {
 	margin: 20px;
+	font-size: 1.5em;
 }
 
 .post-content {
-	font-size: 1em;
+	font-size: 1.4em;
 	line-height: 1.5em;
 
 	width: 95%;
@@ -318,13 +313,12 @@ img.preview  {
 
 .side-menu {
 	text-align: justify;
+	font-size: 1.4em;
 }
 
 .side-wrapper {
-
 	margin-top: 20px;
 	margin-right: 20px;
-	font-size: 1em;
 }
 
 .copyright {
@@ -336,7 +330,6 @@ img.preview  {
 
 .email-container {
 	text-align: center;
-	font-size: 1.1em;
 	width: 100%;
 	height: 100%;
 	background-color: #f2f2f2;

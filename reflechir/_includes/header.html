@@ -12,58 +12,58 @@
 		{% endif %}
 	</div>
 
-		<div class="header-description">
-			<div class="header-description2"></div>
-			<div class="header-description1">
-			     {% if page.description %}
-			     {{ page.description | escape }}
-			     {% else %}
-			     {{ site.description | escape }}
-			     {% endif %}
-			</div>
-			<div class="header-description3"></div>
+	<div class="header-description">
+		<div class="header-description2"></div>
+		<div class="header-description1">
+		     {% if page.description %}
+		     {{ page.description | escape }}
+		     {% else %}
+		     {{ site.description | escape }}
+		     {% endif %}
 		</div>
+		<div class="header-description3"></div>
+	</div>
 
 	{% if page_paths %}
 	<div class="header-menu">
-	<div class="header-sections">
-	{% assign sorted_pages = site.pages | sort:"order" %}
-	{% for node in sorted_pages %}
-		{% if node.title != null %}
-			{% if page.url == node.url %}
-			{% assign font = site.link_colors.first %}
-			{% else %}
-			{% assign font = site.link_colors.last %}
+		<div class="header-sections">
+		{% assign sorted_pages = site.pages | sort:"order" %}
+		{% for node in sorted_pages %}
+			{% if node.title != null %}
+				{% if page.url == node.url %}
+				{% assign font = site.link_colors.first %}
+				{% else %}
+				{% assign font = site.link_colors.last %}
+				{% endif %}
+				{% if site.sectionnames contains node.title %}
+				<br><br>
+				<a href="{{ node.url | relative_url }}" target="_self">
+				<font color={{font}}><b>{{ node.title | escape }} &raquo;</b></font>
+				</a>
+				{% endif %}
 			{% endif %}
-			{% if site.sectionnames contains node.title %}
-			<br><br>
-			<a href="{{ node.url | relative_url }}" target="_self">
-			<font color={{font}}><b>{{ node.title | escape }} &raquo;</b></font>
-			</a>
+		{% endfor %}
+		</div>
+		<div class="header-subsections">
+		{% assign sorted_pages = site.pages | sort:"order" %}
+		{% for node in sorted_pages %}
+			{% if node.title != null %}
+				{% if page.url == node.url %}
+				{% assign font = site.link_colors.first %}
+				{% else %}
+				{% assign font = site.link_colors.last %}
+				{% endif %}
+				{% if site.sectionnames contains node.title %}
+				<br><br>
+				{% else %}
+				<a href="{{ node.url | relative_url }}" target="_self">
+				<font color={{font}}>{{ node.title | escape }}</font>
+				</a>
+				{% endif %}
+				&emsp;
 			{% endif %}
-		{% endif %}
-	{% endfor %}
-	</div>
-	<div class="header-subsections">
-	{% assign sorted_pages = site.pages | sort:"order" %}
-	{% for node in sorted_pages %}
-		{% if node.title != null %}
-			{% if page.url == node.url %}
-			{% assign font = site.link_colors.first %}
-			{% else %}
-			{% assign font = site.link_colors.last %}
-			{% endif %}
-			{% if site.sectionnames contains node.title %}
-			<br><br>
-			{% else %}
-			<a href="{{ node.url | relative_url }}" target="_self">
-			<font color={{font}}>{{ node.title | escape }}</font>
-			</a>
-			{% endif %}
-			&emsp;
-		{% endif %}
-	{% endfor %}
-	</div>
+		{% endfor %}
+		</div>
 	</div>
 
 	<nav class="site-nav">
