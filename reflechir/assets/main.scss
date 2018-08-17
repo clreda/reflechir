@@ -107,6 +107,18 @@ body {
 }
 
 .header-description {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.header-description1 {
+	width: 50%;
 	font-size: 1.2em;
 	padding-top: 20px;
 }
