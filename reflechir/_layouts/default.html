@@ -5,11 +5,6 @@
 	   console.log("Navigator: " + navigator.userAgent);
 	   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
 	};
-	window.onload = function () {
-		if (isMobile()) {
-			window.location.replace('http://www.reflechir.ml/404.html');
-		};
-	};
 </script>
 
 {% include head.html %}

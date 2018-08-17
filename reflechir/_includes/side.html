@@ -1,18 +1,3 @@
-<script type="text/javascript">
-	var isMobile = function() {
-	   console.log("Navigator: " + navigator.userAgent);
-	   return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
-	};
-	window.onload = function () {
-		if (isMobile()) {
-			document.getElementById("email-site").innerHTML = "email";
-		}
-		else {
-			document.getElementById("email-site").innerHTML = "{{ site.email }}";
-		};
-	};
-</script>
-
 <div class="side-wrapper">
 
 <div class="email-container">
