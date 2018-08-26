@@ -288,8 +288,14 @@ img.preview  {
 	margin-top: 5px;
 }
 
+.post {
+	display: flex;
+	align-items: center;
+	width: 80%;
+}
+
 .newsletter-intro {
-	line-height: 1em;
+	line-height: 1.1em;
 	width: 30%;
 }
 
