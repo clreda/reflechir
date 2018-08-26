@@ -291,11 +291,11 @@ img.preview  {
 .post {
 	display: flex;
 	align-items: center;
-	width: 80%;
+	flex-direction: column;
+	width: 95%;
 }
 
 .newsletter-intro {
-	line-height: 1.1em;
 	width: 30%;
 }
 
