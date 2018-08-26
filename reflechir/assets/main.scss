@@ -38,13 +38,26 @@ $color-shadow: #e6e6e6;
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
+.vertical-separator {
+	margin-left: 20px;
+}
+
+.post-footer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
 body {
 	color: #000000;
 	background-color: #f2f2f2;
 
 	line-height: 1.2;
 	font-size: calc(0.2vw + 1.6vh);
+	margin-top: 10px;
 	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .header-wrapper {
@@ -233,53 +246,14 @@ h5 {
 	margin: 5px;
 }
 
-.a-venir-header {
-	margin-bottom: 5px;
-	font-size: 1.2em;
-}
-
-.a-venir-content {
-	display: -webkit-box;
-	display: -moz-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
-	flex-direction: column;
-	align-items: left;
-	text-align: left;
-
-	background-color: $color-out;
-	-webkit-box-shadow: px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	-moz-box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-	box-shadow: 0px 0px 30px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-
-	border: 1px solid #ccc;
-	margin: 0;
-	padding: 8px;
-
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
-
-.a-venir-list {
-	display: -webkit-box;
-	display: -moz-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-	align-items: center;
-	flex-direction: row;
-}
-
 .share-buttons {
 	display: -webkit-box;
 	display: -moz-box;
 	display: -ms-flexbox;
 	display: -webkit-flex;
 	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 	align-items: left;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -308,35 +282,21 @@ img.preview  {
 	text-justify: inter-word;
 }
 
-.side-wrapper {
-	font-size: 1.4em;
-	margin-bottom: 10px;
-	display: -webkit-box;
-	display: -moz-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
-	flex-direction: row;
-	align-items: left;
-	justify-items: center;
-}
-
 .copyright {
 	text-align: left;
 	color: #000;
 	margin-top: 5px;
 }
 
-.email-container {
-	text-align: center;
-	vertical-align: middle;
-	padding-top: 80px;
-	width: 80%;
+.newsletter-intro {
+	line-height: 0.8em;
 }
 
 .newsletter-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
 	text-align: justify;
-	display: table;
 	padding: 10px;
 }
 

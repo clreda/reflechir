@@ -29,20 +29,54 @@ layout: default
 	<div class="post-content" itemprop="articleBody">
 		{{ content }}
 	</div>
+	
+	<div class="vertical-separator"></div>
+	
+	<div class="post-footer">
 
-	<div class="share-buttons">
-		<p><h2><b>
-		Partager cet article :
-		</b></h2>
-		</p>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		<a href="http://www.facebook.com/sharer.php?url=" + {{ page.bitlink }} + ";" target="_blank">
-		<img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
-		</a>
-		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		<a href="https://twitter.com/share?url=" + {{ page.bitlink }} + ";" target="_blank">
-		<img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
-		</a>
+		<div class="vertical-separator"></div>
+
+		<div class="share-buttons">
+			<p>
+				<h2><b>
+				Partager cet article :
+				</b></h2>
+			</p>
+
+			<div class="vertical-separator"></div>
+
+			<a href="http://www.facebook.com/sharer.php?url=" + {{ page.bitlink }} + ";" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+			</a>
+			
+			<div class="vertical-separator"></div>
+
+			<a href="https://twitter.com/share?url=" + {{ page.bitlink }} + ";" target="_blank">
+				<img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+			</a>
+		</div>
+
+		<div class="newsletter-container">
+			<div class="newsletter-intro">
+				<h2><b>
+				<p>Inscrivez-vous pour être</p>
+				<p>averti.e de la sortie de</p>
+				<p> nouveaux articles :</p>
+				</b></h2>
+			</div>
+
+			<div class="vertical-separator"></div>
+
+			<div class="newsletter-form-group">
+				<form action="https://tinyletter.com/reflechir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reflechir', 'popupwindow', 'scrollbars=yes,width=200,height=250');return true">
+				<p><label for="tlemail"><h3><b>Écrire votre adresse mail</b><h3></label></p>
+				<p><input type="text" style="width:140px" name="email" id="tlemail"></p>
+				<input type="hidden" value="1" name="embed"><input type="submit" value="S'inscrire" class="btn btn-warning">
+				</form>
+			</div>
+		</div>
+
+		<div class="vertical-separator"></div>
 	</div>
 
 </div>

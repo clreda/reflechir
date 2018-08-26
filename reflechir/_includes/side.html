@@ -1,13 +1,5 @@
 <div class="side-wrapper">
 
-<div class="email-container">
-	<p>Nous contacter :</p>
-	<p><center>
-	<a id="email-site" href="mailto:{{ site.email }}">{{ site.email }}<br></a>
-	<center></p>
-	<p>Inscrivez-vous pour être averti.e de la sortie de nouveaux articles :</p>
-</div>
-
 <div class="newsletter-container">
 	<div class="newsletter-form-group">
 		<form action="https://tinyletter.com/reflechir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/reflechir', 'popupwindow', 'scrollbars=yes,width=200,height=300');return true">
@@ -15,22 +7,6 @@
 		<p><input type="text" style="width:140px" name="email" id="tlemail"></p>
 		<input type="hidden" value="1" name="embed"><input type="submit" value="S'inscrire" class="btn btn-warning">
 		</form>
-	</div>
-</div>
-
-<div class="a-venir-content">
-	<div class="a-venir-header">
-		<b>Articles à venir :</b>
-	</div>
-	<div class="a-venir-list">
-		{% for section in site.a_venir %}
-		<ul>
-			<li><b>{{ section.first }}</b></li>
-			{% for article in section.last %}
-			<li>{{ article }}</li>
-			{% endfor %}
-		</ul>
-		{% endfor %}
 	</div>
 </div>
 
