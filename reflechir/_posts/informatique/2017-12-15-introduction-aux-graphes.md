@@ -105,3 +105,11 @@ Le graphe $K_4$ est-il planaire ? $K_5$ est-il planaire ? (Indice : il y a un ou
 **Une autre famille de graphes particulière : les graphes connexes** Un graphe connexe est un graphe tel que, pour tous sommets i et j distincts, il existe un chemin, c'est-à-dire une suite d'arêtes, dans le graphe de i vers j (et de j vers i, si le graphe est non orienté). Par exemple, $K_3$ est connexe. Donnez un exemple de graphe non connexe, et justifiez sa non-connexité (On exhibera donc un couple de sommets qui ne respecte pas la condition ci-dessus).
 
 **Une autre famille de graphes particulière : les graphes bipartis** Le graphe $G_{i,j}$ est le graphe constitué de deux ensembles de sommets distincts $G_i$ (contenant i sommets) et $G_j$ (contenant j sommets), tels que toute arête/arc soit une interaction de la forme (a, b) où soit a appartient à $G_i$ et b appartient à $G_j$, soit a appartient à $G_j$ et b appartient à $G_i$. Vérifiez que le graphe présentant l'instance du problème de l'article est un graphe biparti, et exhibez les parties de l'ensemble de sommets correspondantes. Il existe un théorème qui montre qu'un graphe a un nombre chromatique inférieur à 2 si et seulement s'il est biparti. Prouvez ce théorème.
+
+**Modifications du 18/12/2017 :** Changements mineurs dans les notations.
+
+**Modifications du 21/12/2017 :** Ajout de détails pour expliquer pourquoi une couleur peut être représentée par un entier.
+
+**Modifications du 30/12/2017 :** Correction de quelques tournures de phrases; ajout d'un exemple pour les sommets sortants/entrants.
+
+**Modifications du 14/09/2018 :** Ajout de la propriété de **correction** d'un algorithme. Entête avant la démonstration m=2 pour l'instance de graphe présentée dans l'article. Ajout du contre-exemple de Johnson dans l'exercice de programmation.

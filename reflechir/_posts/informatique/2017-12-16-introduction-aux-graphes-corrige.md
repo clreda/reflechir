@@ -176,4 +176,8 @@ Supposons que le graphe a un nombre chromatique inférieur à 2, donc égal à 1
 
 **Bonus :** Pour dessiner les graphes, on peut utiliser __GraphViz__ (ce qui a été utilisé pour cet article). Voir cette [référence](https://fr.wikipedia.org/wiki/DOT_(langage)) pour une première approche.
 
-**Note :** Merci à Clémentine Lemarié-Rieusset pour la démonstration de l'exercice 3.
+**Modifications du 30/12/2017 :** Correction de quelques tournures de phrases; commentaire de l'algorithme en Python. Modification de la démonstration de l'exercice 3 (merci à Clémentine Lemarié-Rieusset).
+
+**Modifications du 22/01/2018 :** Correction du commentaire de l'algorithme (le cas "len(A) == 0" s'applique aussi à un ensemble de sommets isolés de taille arbitraire). Correction d'une tournure de phrase. Ajout du résultat d'existence d'une coloration minimale retournée par l'algorithme.
+
+**Modifications du 15/09/2018 :** Ajout du contre-exemple de Johnson dans l'exercice de programmation.
