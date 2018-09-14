@@ -140,7 +140,7 @@ unpublished:            false
 
 whitelist:              []
 plugins:                ["jekyll-feed", "jekyll-paginate",
-                        "jekyll-gist", "github-pages"]
+                        "jekyll-gist", "github-pages", "jekyll-seo-tag"]
 
 markdown:               kramdown
 highlighter:            rouge
