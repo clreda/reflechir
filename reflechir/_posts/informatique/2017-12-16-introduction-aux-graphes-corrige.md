@@ -124,17 +124,23 @@ L'algorithme retourne bien m=2 sur cette instance. Si on choisit de retourner au
 
 Pour tester le contre-exemple donné :
 
-![contre-exemple Johnson](/images/info/graphes/2017-12-16-contre-exemple.png)
 
 ```python
 ## Ordre donnant m = 2 ##
 S=["a", "b", "c", "d", "e", "f"]
 A=[["a", "e"], ["a", "f"], ["b", "d"], ["b", "f"], ["c", "d"], ["c", "e"]]
 print(trouver_coloration_naif(S, A))
+```
+
+![contre-exemple Johnson](/images/info/graphes/2017-12-16-contre-exemple.png)
+
+```python
 ## Ordre donnant m = 3 ##
 S=["a", "d", "b", "e", "c", "f"]
 print(trouver_coloration_naif(S, A))
 ```
+
+![contre-exemple Johnson](/images/info/graphes/2017-12-16-contre-exemple2.png)
 
 De manière générale, le graphe de noeuds (1, 2, 3, ..., $n$) pour un entier $n$ pair strictement supérieur à 2, et d'arêtes (1, $\frac{n}{2}+2$), ..., (1, $n$), (2, $\frac{n}{2}+1$), (2, $\frac{n}{2}+3$), ..., ($\frac{n}{2}$, $\frac{n}{2}+1$), ($\frac{n}{2}$, $\frac{n}{2}+2$), ..., ($\frac{n}{2}$, $n-1$) s'appelle un graphe couronne d'ordre $n$ (on met les noeuds 1 à $\frac{n}{2}$ à gauche en colonne, les noeuds $\frac{n}{2}+1$ à $n$ à droite en colonne, et pour un noeud donné à gauche, on le relie à tous les noeuds à droite sauf à celui qui lui fait face). Ce contre-exemple est attribué à D. S. Johnson, dans son article de 1974 appelé "Worst-case behavior of graph coloring algorithms" ("Comportement dans le pire des cas des algorithmes de coloration de graphe").
 
