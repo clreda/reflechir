@@ -1,7 +1,7 @@
 ---
 title: "(Glossaire) Le processus législatif"
 date: 2018-09-16
-bitlink: https://tinyurl.com/ybk675n3
+bitlink: https://tinyurl.com/y8njk8tw
 excerpt: "Cet article présente quelques définitions et le processus de création, de vote/modification et d'application d'un texte de loi."
 ---
 
