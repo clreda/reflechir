@@ -11,13 +11,13 @@ excerpt: "Ceci est le quatrième article d'une série visant à présenter toute
 Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en avril, mai et juin 2018.
 
 Une seule des lois votées était une proposition de loi :
-- La loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat, proposée par Françoise Gatel du groupe Union Centriste au Sénat.
+- La loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat, proposée par Mme Françoise Gatel du groupe Union Centriste au Sénat.
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-#### Proposition de loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat (Sénat 21 février, Assemblée 29 mars, JO 14 avril). ####
+#### Loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat (Sénat 21 février, Assemblée 29 mars, JO 14 avril). ####
 
 La proposition de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/13/MENX1805338L/jo/texte), et comporte quatre articles.
 
@@ -32,7 +32,7 @@ L'article détaille également les pièces nécessaires du dossier de déclarati
 
 Le deuxième article porte sur le contrôle annuel de tels établissements, qui, s'ils bénéficient d'une plus grande liberté sur leurs programmes et emplois du temps, doivent assurer à leurs étudiants le socle requis de connaissances pour leur niveau, et ne pas porter préjudice à la moralité et à l'ordre public ([source](http://www.education.gouv.fr/cid251/les-etablissements-d-enseignement-scolaire-prives.html)). En particulier, l'Etat s'assure que les directeurs et enseignants possèdent les diplômes requis pour exercer leur métier, et contrôle le respect de "[...] l'obligation scolaire, [...] l'instruction obligatoire, [...] l'ordre public, [...] la prévention sanitaire et sociale et [de] la protection de l'enfance et de la jeunesse."
 
-#### Projet de loi pour un nouveau pacte ferroviaire (Assemblée 17 avril et 13 juin, Sénat 5 juin et 14 juin, JO 28 juin). ####
+#### Loi pour un nouveau pacte ferroviaire (Assemblée 17 avril et 13 juin, Sénat 5 juin et 14 juin, JO 28 juin). ####
 
 Le projet de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/loi/2018/6/27/TRAT1805471L/jo/texte). Ce projet de refonte de la SNCF a fait beaucoup d'émules au niveau national ([source](https://www.lemonde.fr/les-decodeurs/article/2018/03/21/comprendre-la-reforme-de-la-sncf-en-neuf-points_5274316_4355770.html)), et a fait l'objet d'une procédure accélérée de la part du gouvernement (avec notamment la convocation d'une Commission mixte paritaire ([source](http://www.senat.fr/espace_presse/actualites/201803/reforme_ferroviaire.html))). Malgré la mobilisation importante des syndicats de cheminots et des usagers ([source](https://www.lemonde.fr/economie/article/2018/03/14/sncf-le-gouvernement-lance-sa-reforme-par-ordonnances_5270622_3234.html)), notamment due à la perte du statut particulier de cheminot (décrit en partie [ici](http://www.leparisien.fr/economie/reforme-de-la-sncf-edouard-philippe-devoile-le-programme-26-02-2018-7579650.php)), aux réformes critiquées du réseau ferroviaire dans d'autres pays européens ([source](https://www.lemonde.fr/les-decodeurs/article/2018/03/21/comprendre-la-reforme-de-la-sncf-en-neuf-points_5274316_4355770.html)), et à la préconisation de la fermeture de 9 000 km de petites lignes jugées non rentables ([source](http://lvsl.fr/reforme-de-la-sncf)), ce projet a finalement été adopté.
 
@@ -45,7 +45,7 @@ Ce projet de loi acte :
 - la disparition du statut de cheminots pour les nouveaux embauchés à partir de fin 2019, mais la non-atteinte du statut de cheminot pour les personnes embauchées avant 2020.
 - son ouverture progressive à la concurrence (et notamment la transition des cheminots d'une entreprise ferroviaire à sa concurrente : les droits des personnes embauchées au statut de cheminot, et leur niveau de rémunération seront conservées). ([source](https://www.lemonde.fr/les-decodeurs/article/2018/06/05/ou-en-est-la-reforme-de-la-sncf_5309990_4355770.html)) La concurrence sur les lignes régionales et TGV commencera à l'horizon 2020, sauf au niveau de l'Ile-de-France, où elle sera prévue entre 2023 et 2039 ([source](https://www.lemonde.fr/les-decodeurs/article/2018/03/21/comprendre-la-reforme-de-la-sncf-en-neuf-points_5274316_4355770.html)).
 
-#### Projet de loi organique relatif à l'organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie (Sénat 20 février, Assemblée 20 mars, JO 20 avril). ####
+#### Loi organique relatif à l'organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie (Sénat 20 février, Assemblée 20 mars, JO 20 avril). ####
 
 Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000036819029&dateTexte=20180908).
 
@@ -53,7 +53,7 @@ Contrairement à une loi ordinaire, une loi organique est chargée de préciser 
 
 En particulier, ce texte de loi prévoit l'inscription d'office sur le corps électoral général de toutes les personnes ayant leur domicile ou habitant depuis plus de six mois en Nouvelle Calédonie ([source](http://www.senat.fr/dossier-legislatif/pjl17-152.html)), et l'inscription d'office sur le corps électoral qui votera lors du référendum (qui exclut les personnes arrivées sur le territoire après 1994 ([source](https://lejournal.cnrs.fr/articles/nouvelle-caledonie-165-ans-dune-histoire-mouvementee))). Ce texte porte également sur différents aspects de la consultation (notamment, le recours au vite par procuration qui sera particulèrement encadré ([source](http://www.senat.fr/espace_presse/actualites/201802/accession_a_la_pleine_souverainete_de_la_nouvelle_caledonie.html)), ainsi que le paiement par l'Etat des frais engagés pour la consultation par les divers partis politiques) ([source](http://www.vie-publique.fr/actualite/panorama/texte-vote/projet-loi-organique-relatif-organisation-consultation-accession-pleine-souverainete-nouvelle-caledonie.html)).
 
-#### Projet de loi relatif à l'élection des représentants au Parlement européen (Assemblée 20 février et 14 mai, Sénat 11 avril et 23 mai, JO 26 juin). ####
+#### Loi relatif à l'élection des représentants au Parlement européen (Assemblée 20 février et 14 mai, Sénat 11 avril et 23 mai, JO 26 juin). ####
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/6/25/INTX1733825L/jo/texte), a été examiné en procédure accélérée ([source](https://www.senat.fr/espace_presse/actualites/201803/election_des_representants_au_parlement_europeen.html)), et a requis la formation d'une Commission mixte paritaire. Il comporte neuf articles.
 
@@ -63,7 +63,7 @@ Le deuxième article vise à légisférer sur les temps de présence de chaque l
 
 L'article 6 indique la nécessité pour les élus européens français d'adresser une déclaration d'intérêts à la Haute autorité pour la transparence de la vie publique (HATVP) ([source](http://www.senat.fr/dossier-legislatif/pjl17-314.html)).
 
-#### Projet de loi relatif à la protection des données personnelles (Assemblée 13 février, 12 avril et 14 mai, Sénat 21 mars et 19 avril, JO 21 juin). ####
+#### Loi relatif à la protection des données personnelles (Assemblée 13 février, 12 avril et 14 mai, Sénat 21 mars et 19 avril, JO 21 juin). ####
 
 Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=401F166468E88C490F91E7F79E08BE51.tplgfr22s_1?cidTexte=JORFTEXT000037085952&categorieLien=id), et a bénéficié d'une procédure accélérée, et d'une réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi par plus de soixante sénateurs, notamment pour l'article 13 qui sera décrit ci-dessous, et dont une partie a été jugée non constitutionnelle ([source](http://www.senat.fr/espace_presse/actualites/201803/protection_des_donnees_personnelles.html)).
 
@@ -78,7 +78,7 @@ La deuxième partie du texte acte :
 - l'article 13, contesté par certains sénateurs, qui porte sur le traitement des données personnelles dans le cadre de condamnations pénales, d'infractions, ou de mesures de sécurité. A l'origine, ces traitements devaient être supervisés par "[...] l'autorité publique" ([source](http://www.senat.fr/espace_presse/actualites/201803/protection_des_donnees_personnelles.html)). Or, cette autorité et ses objectifs n'ayant pas été définis précisément, le Conseil constitutionnel a jugé que cet article pouvait porter atteinte aux garanties fondamentales individuelles pour l'exercice des libertés publiques. La mention de ces mots a donc été retirée du texte de loi.
 - les modalités de recours pour une personne à une association ou une organisation afin d'effectuer en son nom une réclamation auprès de la CNIL (article 16).
 
-#### Projet de loi ratifiant l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (Sénat 17 octobre 2017, 1er février 2018 et 11 avril, Assemblée 11 décembre 2017, 15 février 2018 et 22 mars, JO 21 avril). ####
+#### Loi ratifiant l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (Sénat 17 octobre 2017, 1er février 2018 et 11 avril, Assemblée 11 décembre 2017, 15 février 2018 et 22 mars, JO 21 avril). ####
 
 Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=CC55A5FE55EACA06DEB934653998AA24.tplgfr22s_1?cidTexte=JORFTEXT000036825602&categorieLien=id).
 
@@ -86,42 +86,45 @@ Ce texte a âprement été discuté, et a nécessité la réunion d'une Commissi
 
 Le contenu de la loi demeurant toutefois extrêmement technique, la lecture d'un article plus détaillé (tel que [celui-ci](https://www.village-justice.com/articles/les-deputes-modifient-projet-loi-ratification-ordonnance-fevrier-2016-portant,26987.html)), ainsi que de l'exposé des motifs présenté à l'Assemblée nationale ([source](http://www.assemblee-nationale.fr/14/projets/pl3928.asp)) sera utile.
 
-#### Projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre concernant l'amélioration de la viabilité des routes nationales 20, 320 et 22 entre Tarascon-sur-Ariège et la frontière franco-andorrane. ####
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre concernant l'amélioration de la viabilité des routes nationales 20, 320 et 22 entre Tarascon-sur-Ariège et la frontière franco-andorrane. ####
 
 Ce texte est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/27/2018-305/jo/texte).
 
-#### Projet de loi autorisant la ratification du protocole n° 16 à la convention de sauvegarde des droits de l'homme et des libertés fondamentales. ####
+#### Loi autorisant la ratification du protocole n° 16 à la convention de sauvegarde des droits de l'homme et des libertés fondamentales. ####
 
 Ce texte est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/3/2018-237/jo/texte). Le protocole n° 16 à la convention de sauvegarde des droits de l'homme et des libertés fondamentales a été signé à Strasbourg le 2 octobre 2013, et entre donc en vigueur cette année. "[Selon] le Gouvernement, il instaure un mécanisme permettant aux plus hautes juridictions nationales de saisir, à l'occasion d'un litige, la Cour européenne des droits de l'homme pour avis sur des questions de principe relatives à l'interprétation ou à l'application des droits et libertés définis par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou ses protocoles" ([source](http://www.senat.fr/dossier-legislatif/pjl17-304.html), [source](https://www.coe.int/fr/web/human-rights-rule-of-law/-/entry-into-force-of-the-protocol-no-16-to-the-european-convention-of-human-rights)). Un article détaillé sur ce protocole est disponible sur cette [page](https://www.dalloz-actualite.fr/flash/france-sur-voie-de-ratification-du-protocole-n-16-convention-europeenne).
 
-#### Projet de loi autorisant l'approbation de la convention d'extradition signée le 2 mai 2007 entre le Gouvernement de la République française et le Gouvernement de l'État des Émirats arabes unis. ####
+#### Loi autorisant l'approbation de la convention d'extradition signée le 2 mai 2007 entre le Gouvernement de la République française et le Gouvernement de l'État des Émirats arabes unis. ####
 
 Ce texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/3/15/EAEJ1501724L/jo/texte).
 
-#### Projet de loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de l'Union des Comores. ####
+#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de l'Union des Comores. ####
 
 Ce texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/3/16/2018-185/jo/texte).
 
-#### Projet de loi autorisant l'approbation du protocole additionnel à l'accord du 9 octobre 1997 entre le Gouvernement de la République française et le Gouvernement de la République fédérale d'Allemagne relatif à la coopération dans leurs zones frontalières entre les autorités de police et les autorités douanières concernant l'emploi transfrontalier d'aéronefs. ####
+#### Loi autorisant l'approbation du protocole additionnel à l'accord du 9 octobre 1997 entre le Gouvernement de la République française et le Gouvernement de la République fédérale d'Allemagne relatif à la coopération dans leurs zones frontalières entre les autorités de police et les autorités douanières concernant l'emploi transfrontalier d'aéronefs. ####
 
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/decret/2018/10/16/EAEJ1826742D/jo/texte).
 
-#### Projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement fédéral autrichien relatif à la réadmission des personnes en situation irrégulière. ####
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement fédéral autrichien relatif à la réadmission des personnes en situation irrégulière. ####
 
 Le projet de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/8/3/EAEJ1510183L/jo/texte).
 
-#### Projet de loi autorisant l'approbation du protocole entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine portant sur l'application de l'accord du 18 septembre 2007 entre la Communauté européenne et la Bosnie-Herzégovine concernant la réadmission des personnes en séjour irrégulier. ####
+#### Loi autorisant l'approbation du protocole entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine portant sur l'application de l'accord du 18 septembre 2007 entre la Communauté européenne et la Bosnie-Herzégovine concernant la réadmission des personnes en séjour irrégulier. ####
 
 Ce projet de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037501230).
 
-#### Projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes ####
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes ####
 
 Un exposé des motifs de la loi est disponible [ici](http://www.assemblee-nationale.fr/15/projets/pl0322.asp). Une étude d'impact est disponible [ici](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ei.pdf).
 
-#### Projet de loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie. ####
+#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie. ####
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/EAEJ1709797L/jo/texte)
 
-#### Projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Chili relatif à l'emploi rémunéré des personnes à charge des agents des missions officielles de chaque Etat dans l'autre et de l'accord entre le Gouvernement de la République française et le Gouvernement de l'Etat plurinational de Bolivie relatif à l'emploi salarié des membres des familles des agents des missions officielles de chaque Etat dans l'autre. ####
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Chili relatif à l'emploi rémunéré des personnes à charge des agents des missions officielles de chaque Etat dans l'autre et de l'accord entre le Gouvernement de la République française et le Gouvernement de l'Etat plurinational de Bolivie relatif à l'emploi salarié des membres des familles des agents des missions officielles de chaque Etat dans l'autre. ####
 
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/2018-581/jo/texte).
+
+
+**Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "loi" (ces lois ayant été votées et étant actuellement en vigueur).
