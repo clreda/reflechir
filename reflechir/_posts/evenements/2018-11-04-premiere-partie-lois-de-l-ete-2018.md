@@ -1,7 +1,7 @@
 ---
-title : "(Première partie) Lois de l'été 2018"
+title : "Lois de l'été 2018 (première partie)"
 date : 2018-11-04
-bitlink : https://tinyurl.com/y8kzokwy
+bitlink : https://tinyurl.com/y9dnlncm
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
 ---

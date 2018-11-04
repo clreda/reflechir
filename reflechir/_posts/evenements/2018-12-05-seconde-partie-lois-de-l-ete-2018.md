@@ -1,14 +1,14 @@
 ---
-title : "Lois de l'été 2018 (deuxième partie)"
+title : "Lois de l'été 2018 (seconde partie)"
 date : 2018-12-05
-bitlink : https://tinyurl.com/y9okxc7j
+bitlink : https://tinyurl.com/ycq9dkfs
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
 ---
 
 ![Lois de l'été 2018 (deuxième partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre 2018. Il fait suite à la première partie disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-lois-de-l-ete-2018-1 %}).
+Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre 2018. Il fait suite à la première partie disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-premiere-partie-lois-de-l-ete-2018 %}).
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
