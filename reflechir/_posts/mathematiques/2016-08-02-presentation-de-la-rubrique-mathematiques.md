@@ -4,7 +4,7 @@ date: 2016-08-02
 bitlink: https://goo.gl/yNojnE
 excerpt: "Les articles sont rédigés de telle manière à ce que l'on puisse s'arrêter à n'importe quel moment (après avoir lu le premier article , ou les quatre premiers, les onze premiers, etc articles) en ayant pu profiter de ses lectures (et exercices !) pour s'amuser, découvrir le monde des mathématiques et enrichir sa réflexion.
 
-Normalement on peut comprendre les 42 articles sans jamais avoir fait de mathématiques avant; par contre un article peut reprendre des..."
+Normalement on peut comprendre les 42 articles sans jamais avoir fait de mathématiques avant; par contre un article peut reprendre des notations et des idées des articles précédents (il est donc conseillé de lire les articles dans l'ordre)..."
 ---
 
 Les articles sont rédigés de telle manière à ce que l'on puisse s'arrêter à n'importe quel moment (après avoir lu le premier article , ou les quatre premiers, les onze premiers, etc articles) en ayant pu profiter de ses lectures (et exercices !) pour s'amuser, découvrir le monde des mathématiques et enrichir sa réflexion.
@@ -107,15 +107,15 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 | Calendrier de publication : | 
 |-----------------------------|
-| 2018 : 6 et 7 | 
-| 2019 : 8 – 11 | 
-| 2020 : 12 – 18 | 
-| 2021 : 19 – 25 | 
-| 2022 : 26 – 32 | 
-| 2024 : 33 - 35 |
-| 2026 : 36 - 38 |
-| 2028 : 39 - 41 |
-| 2030 : 42 |
+| 2019 : 6 - 8 | 
+| 2020 : 9 – 14 | 
+| 2021 : 15 – 21 | 
+| 2022 : 22 – 25 | 
+| 2023 : 26 – 32 | 
+| 2027 : 33 - 35 |
+| 2030 : 36 - 38 |
+| 2033 : 39 - 41 |
+| 2035 : 42 |
 
 J'espère que les articles de mathématiques vous plairont !
 
