@@ -6,6 +6,8 @@ image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
 ---
 
+Le reste des lois est disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-seconde-partie-lois-de-l-ete-2018.md %}).
+
 ![Lois de l'été 2018 (deuxième partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
 Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre 2018. Il fait suite à la première partie disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-premiere-partie-lois-de-l-ete-2018 %}).
@@ -22,11 +24,13 @@ Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.
 
 #### Projet de loi renforçant la lutte contre les violences sexuelles et sexistes ####
 
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037284450&categorieLien=id).
+
 [...]
 
 #### Projet de loi pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous ####
 
-[...]
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037547946&categorieLien=id) [...]
 
 #### Projet de loi portant évolution du logement, de l'aménagement et du numérique ####
 

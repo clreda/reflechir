@@ -8,7 +8,7 @@ excerpt: "Ceci est le cinquième article d'une série visant à présenter toute
 
 ![Lois de l'été 2018 (première partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées une partie des lois votées en juillet, août et septembre 2018. Le reste des lois est disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-seconde-partie-lois-de-l-ete-2018.md %}).
+Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées une partie des lois votées en juillet, août et septembre 2018. Le reste des lois sera disponible dans un prochain article.
 
 Neuf des lois votées étaient des propositions de loi :
 - La loi portant transposition de la directive (UE) 2016/943 du Parlement européen et du Conseil du 8 juin 2016 sur la protection des savoir-faire et des informations commerciales non divulgués contre l'obtention, l'utilisation et la divulgation illicites, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
