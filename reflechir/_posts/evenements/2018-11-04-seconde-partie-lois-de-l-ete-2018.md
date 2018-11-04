@@ -16,7 +16,7 @@ Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](http
 
 #### Loi pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie (Assemblée 21 février, 4 et 31 juillet, Sénat 24 avril, 27 juillet, JO 11 septembre) ####
 
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=1AAA4E4897C56685657A1B9D50465F0B.tplgfr43s_2?cidTexte=JORFTEXT000037381808&categorieLien=id). Il a bénéficié d'une procédure accélérée, a requis la réunion d'une Commission mixte paritaire, et le Conseil constitutionnel a été
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=1AAA4E4897C56685657A1B9D50465F0B.tplgfr43s_2?cidTexte=JORFTEXT000037381808&categorieLien=id). Il a bénéficié d'une procédure accélérée, a requis la réunion d'une Commission mixte paritaire, et le Conseil constitutionnel a été saisi 
 
 #### Projet de loi renforçant la lutte contre les violences sexuelles et sexistes ####
 

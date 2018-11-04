@@ -107,4 +107,5 @@ L'article 33 "allège les obligations déclaratives pesant sur les entreprises e
 
 Ce texte de loi autorise aussi le gouvernement à prendre des ordonnances pour certaines modifications précises du code de la défense, de la sécurité intérieure, de l'environnement ([source](http://www.assemblee-nationale.fr/15/projets/pl0659.asp)), pour des raisons de confidentialité liées aux documents d'ordre militaire. 
 
-**Modifications 04/11/2018** : Correction de fautes d'orthographe.
+
+**Modifications du 04/11/2018** : Correction de fautes d'orthographe.
