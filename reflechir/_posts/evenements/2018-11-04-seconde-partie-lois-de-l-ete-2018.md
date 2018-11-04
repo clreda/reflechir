@@ -22,33 +22,49 @@ Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.
 
 [...]
 
-#### Projet de loi renforçant la lutte contre les violences sexuelles et sexistes ####
+#### Loi renforçant la lutte contre les violences sexuelles et sexistes (Assemblée 21 mars, Sénat 17 mai, JO 5 août) ####
 
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037284450&categorieLien=id).
-
-[...]
-
-#### Projet de loi pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous ####
-
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037547946&categorieLien=id) [...]
-
-#### Projet de loi portant évolution du logement, de l'aménagement et du numérique ####
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037284450&categorieLien=id). Il a bénéficié d'une procédure accélérée, a requis la réunion d'une Commission mixte paritaire.
 
 [...]
 
-#### Projet de loi pour la liberté de choisir son avenir professionnel ####
+#### Loi pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous (Assemblée 1er février, 3 juillet, 14 septembre, Sénat 30 mai, 15 septembre, JO 30 octobre) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037547946&categorieLien=id). Il a bénéficié d'une procédure accélérée, a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi.
+
+https://www.conseil-constitutionnel.fr/decision/2018/2018771DC.htm
 
 [...]
 
-#### Projet de loi de règlement du budget et d'approbation des comptes de l'année 2017 ####
+#### Projet de loi portant évolution du logement, de l'aménagement et du numérique (ELAN) (Assemblée 4 avril, Sénat 13 juin, JO ?) ####
+
+Ce texte n'a pas été adopté et son texte original est disponible [ici](https://www.legifrance.gouv.fr/affichLoiPreparation.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?idDocument=JORFDOLE000036769798&type=contenu&id=2&typeLoi=proj&legislature=15). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi, et est en cours de délibération.
 
 [...]
 
-#### Projet de loi pour un Etat au service d'une société de confiance ####
+#### Loi pour la liberté de choisir son avenir professionnel (Assemblée 27 avril, 16 juillet, 25 juillet, Sénat 20 juin, 25 juillet, JO 6 septembre) ####
+
+Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037367660&categorieLien=id). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi ([source](https://www.conseil-constitutionnel.fr/decision/2018/2018769DC.htm)).
 
 [...]
 
-#### Projet de loi relatif aux contrôles et aux sanctions en matière de concurrence en Polynésie française et en Nouvelle-Calédonie ####
+#### Loi de règlement du budget et d'approbation des comptes de l'année 2017 (Assemblée 23 mai, Sénat 21 juin, JO 26 juillet) ####
+
+Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035328894&categorieLien=id).
+
+Définir loi de règlement du budget et d'approbation des comptes
+
+[...]
+
+#### Projet de loi pour un Etat au service d'une société de confiance (Assemblée 27 novembre 2017, 21 mars 2018, 26 juin, Sénat 31 janvier, 27 juin, JO 11 août) ####
+
+Ce texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037307624&categorieLien=id). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire.
+
+[...]
+
+#### Loi relative aux contrôles et aux sanctions en matière de concurrence en Polynésie française et en Nouvelle-Calédonie (Sénat 28 février, Assmblée 10 avril, JO 24 juillet) ####
+
+Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037240537&dateTexte=20181009). Il a requis la réunion d'une Commission mixte paritaire.
 
 [...]
 
