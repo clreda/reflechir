@@ -18,6 +18,8 @@ Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](http
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=1AAA4E4897C56685657A1B9D50465F0B.tplgfr43s_2?cidTexte=JORFTEXT000037381808&categorieLien=id). Il a bénéficié d'une procédure accélérée, a requis la réunion d'une Commission mixte paritaire, et le Conseil constitutionnel a été saisi 
 
+[...]
+
 #### Projet de loi renforçant la lutte contre les violences sexuelles et sexistes ####
 
 [...]
