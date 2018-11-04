@@ -1,12 +1,9 @@
 ---
 title : "Lois de l'été 2018 (seconde partie)"
-date : 2018-12-04
-bitlink : https://tinyurl.com/ycq9dkfs
+date : 2018-11-05
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
 ---
-
-Le reste des lois est disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-seconde-partie-lois-de-l-ete-2018.md %}).
 
 ![Lois de l'été 2018 (deuxième partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 

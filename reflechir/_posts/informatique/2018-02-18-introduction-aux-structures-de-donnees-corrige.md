@@ -1,7 +1,6 @@
 ---
 title: "Introduction aux structures de données (corrigé)"
 date: 2018-02-18
-bitlink: https://goo.gl/vPYAtj
 excerpt: "Exercice de programmation
 
 En OCaml, les listes et les tableaux sont évidemment présents, et ces deux structures sont implémentées de façon différente (contrairement à Python, par exemple). (Re)programmez les primitives de ces deux structures de données : initialisation d'un objet sans données, suppression d'un élément à une position donnée (sans erreur, donc en particulier en vérifiant que l'objet contient effectivement au moins un élément !), ajout d'un élément à une position donnée, retour de la valeur Vrai (true en OCaml) d'un élément dans l'objet..."

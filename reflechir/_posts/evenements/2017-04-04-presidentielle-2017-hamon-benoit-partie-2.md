@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Benoît Hamon (deuxième partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/nw55P8
 image: "/images/presidentielle_2017/180px-BHamon2012.jpg"
 excerpt: "Voir les première et troisième parties. Le programme de Benoît Hamon est disponible sur cette page.
 

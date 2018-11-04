@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Nicolas Dupont-Aignan (deuxième partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/C3GZgm
 image: "/images/presidentielle_2017/NDA_en_2014.jpg"
 excerpt: "Voir les première et troisième parties. Le programme de Nicolas Dupont-Aignan est disponible ici.
 

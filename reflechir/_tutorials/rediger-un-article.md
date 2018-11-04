@@ -11,15 +11,12 @@ Pour les "véritables" posts, le titre doit nécessairement être "AAAA-MM-DD-ti
 
 "
 ---
-title: Example
-date: AAAA-MM-DD
-bitlink: [lien obtenu avec un "link shortener"(*)]
+title: Example [obligatoire]
+date: AAAA-MM-DD [obligatoire : ne doit pas être une date dans le futur, sinon l'article ne sera pas publié]
+excerpt: [entête de l'article]
+image: [chemin vers l'image à afficher en début d'article, commençant par "/images/"]
 ---
 "
-
-(*) Par exemple : Goo.gl, TinyURL.com, Ow.ly, Is.gd, Buff.ly, ou un autre disponible ici: https://www.lifewire.com/shortening-long-links-3486603. Bitly ne marche pas.
-
-Pour obtenir le lien avec "bitlink", il suffit d'écrire dans la boîte de dialogue Bitly le lien suivant : http://www.reflechir.ml/lu et approuvé/sciences humaines/2017/08/24/le-theatre-de-shaw/ pour l'article "Le théâtre de Shaw", et de manière générale : http://www.reflechir.ml/[sous-section]/[section]/AAAA/MM/DD/titre-avec-tirets/
 
 ## Petit guide des choses utiles        ##
 

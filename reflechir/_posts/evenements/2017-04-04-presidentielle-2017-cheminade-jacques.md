@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Jacques Cheminade"
 date: 2017-04-04
-bitlink: https://goo.gl/RnMEqQ
 image: "/images/presidentielle_2017/220px-Jacques-Cheminade_2.jpg"
 excerpt: "Le programme de Jacques Cheminade est disponible ici.
 

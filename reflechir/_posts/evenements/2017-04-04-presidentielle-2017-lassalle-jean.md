@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Jean Lassalle"
 date: 2017-04-04
-bitlink: https://goo.gl/m77yBZ
 image: "/images/presidentielle_2017/jeanlassalle.jpeg"
 excerpt: "Le programme de Jean Lassalle est disponible ici.
 

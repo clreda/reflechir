@@ -1,7 +1,6 @@
 ---
 title : "Lois du printemps 2018"
 date : 2018-11-04
-bitlink : https://tinyurl.com/ybt7ldkm
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en avril, mai..."
 ---

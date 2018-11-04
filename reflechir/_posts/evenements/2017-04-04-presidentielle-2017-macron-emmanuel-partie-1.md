@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Emmanuel Macron (première partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/jQFFwS
 image: "/images/presidentielle_2017/21e61bb6f3f978d3d1c96e89c9d9f.jpeg"
 excerpt: "Voir les deuxième et troisième parties. Le programme d'Emmanuel Macron est disponible sur cette page. Synthèse : ici
 

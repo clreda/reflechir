@@ -1,7 +1,6 @@
 --- 
 title: "Présidentielle 2017 : Jean-Luc Mélenchon (troisième partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/ffsjHf
 image: "/images/presidentielle_2017/Jean-Luc-Melenchon.jpg"
 excerpt: "Voir les première et deuxième parties. Le programme de Jean-Luc Mélenchon est disponible ici. Sa version audio est disponible sur cette page. Son émission de chiffrage est disponible ici.
 

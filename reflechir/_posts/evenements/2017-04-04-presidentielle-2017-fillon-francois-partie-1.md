@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : François Fillon (première partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/uRr4za
 image: "/images/presidentielle_2017/François_Fillon_2010.jpg"
 excerpt: "Voir les deuxième et troisième parties. Le programme de François Fillon est disponible sur cette page.
 

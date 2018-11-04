@@ -1,7 +1,6 @@
 ---
 title: "The Euro and its threat to the future of Europe (2016)"
 date: 2018-08-24
-bitlink: https://tinyurl.com/y99fqqf7
 image: "/images/lu_et_approuve/Lu_et_approuv.jpg"
 excerpt: "Ce livre de Joseph Stiglitz, prix Nobel d'économie, explique en quoi la gestion de la zone euro a empiré la crise en Europe qui provenait de la crise mondiale de 2008 (ce qui à partir de 2010 a donné lieu à l'expression « crise de l'euro » ou « crise de la zone euro ») et propose des solutions pour que les pays de la zone euro puissent prospérer.
 

@@ -1,7 +1,6 @@
 ---
 title: "Introduction aux graphes"
 date: 2017-12-15
-bitlink: https://goo.gl/4Qi1w1
 excerpt: "Un graphe est un objet mathématique qui permet, notamment, de représenter une communauté et ses interactions : par exemple, un groupe de profils Facebook avec les ajouts en ami, un ensemble de villes et les routes qui les relient entre elles, un ensemble de gènes et leurs liens de régulation, ... Il s'agit dans cet article d'introduire les définitions basiques portant sur les graphes pour résoudre un problème simple : étant donné des emplois du temps scolaires dans une école, compter le nombre de salles nécessaires à réserver pour que tous les cours soient mis en place. Le problème majeur est que plusieurs cours peuvent..."
 ---
 

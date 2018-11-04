@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Marine Le Pen (première partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/sK4DeR
 image: "/images/presidentielle_2017/marine-le-pen-new-york-mais-pas-pour-voir-donald-trump.jpg"
 excerpt: "Voir les deuxième et troisième parties. Le programme de Marine Le Pen est disponible ici.
 

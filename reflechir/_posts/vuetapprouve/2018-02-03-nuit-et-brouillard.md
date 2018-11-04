@@ -1,7 +1,6 @@
 ---
 title: "Nuit et Brouillard d'Alain Resnais (1956)"
 date: 2018-02-03
-bitlink: https://goo.gl/oKEVVe
 image: "/images/vu_et_approuve/nuit_et_brouillard/nuit-et-brouillard-photo.png"
 excerpt: "Nuit et Brouillard (1956) est un film documentaire français réalisé par Alain Resnais, d'une durée de 32 minutes, sur les camps d'extermination nazis. C'est un film très sobre, qui donne à voir, par des images d'archive, le quotidien dans ces camps.  
 

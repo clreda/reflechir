@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : François Fillon (troisième partie)"
 date: 2017-04-04
-bitlink: https://goo.gl/Km6zY7
 image: "/images/presidentielle_2017/François_Fillon_2010.jpg"
 excerpt: "Voir les première et deuxième parties. Le programme de François Fillon est disponible ici.
 

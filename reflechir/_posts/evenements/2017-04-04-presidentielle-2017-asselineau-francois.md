@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : François Asselineau"
 date: 2017-04-04
-bitlink: https://goo.gl/8d9RCH
 image: "/images/presidentielle_2017/François_ASSELINEAU.jpg"
 excerpt: "Le programme de François Asselineau est disponible en format vidéo ici. Une version PDF du programme de François Asselineau a été publiée fin mars, disponible sur son site Internet. Le présent article n'y fait pas ..."
 ---

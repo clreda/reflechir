@@ -1,7 +1,6 @@
 ---
 title: "Introduction aux graphes (corrigé)"
 date: 2017-12-16
-bitlink: https://goo.gl/NjjKPq
 excerpt: "Exercices de compréhension
 
 Exercice 1 : Dites combien vaut chi(G) (le nombre chromatique de G) quand G a trois sommets 0, 1 et 2, et trois arêtes, une reliant 0 à 1, une reliant 1 à 2, et l'autre reliant 2 à 0.

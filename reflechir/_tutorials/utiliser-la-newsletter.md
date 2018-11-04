@@ -25,7 +25,7 @@ Puis pour chaque article "Titre", "Résumé", "bitlink" :
 
 "Titre" (choisir Titre 5 et sélectionner l'icône "puce à numérotation")
 
-"Résumé. Lire l'article" (choisir "Formatted". Sélectionner "Lire l'article" et sélectionner l'icône chaîne pour insérer le lien bitlink comme lien hypertexte)
+"Résumé. Lire l'article" (choisir "Formatted". Sélectionner "Lire l'article" et sélectionner l'icône chaîne pour insérer le lien vers l'article comme lien hypertexte)
 
 Itérer jusqu'à fin de la liste d'articles.
 

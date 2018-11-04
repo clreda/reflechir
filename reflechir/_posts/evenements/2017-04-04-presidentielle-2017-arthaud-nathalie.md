@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Nathalie Arthaud"
 date: 2017-04-04
-bitlink: https://goo.gl/tzC7yb
 image: "/images/presidentielle_2017/2017-02-11_16-10-22_meeting-lo-belfort_(cropped).jpg"
 excerpt: "Nathalie Arthaud est la candidate à l’élection présidentielle de 2017 issue du parti Lutte Ouvrière.
 Agrégée d'économie et de gestion, elle enseigne au lycée Le Corbusier à Aubervilliers (Seine-Saint-Denis). Elle a été conseillère municipale chargée de la jeunesse à Vaulx-en-Velin (Métropole de Lyon), et candidate à l'élection présidentielle en ..."

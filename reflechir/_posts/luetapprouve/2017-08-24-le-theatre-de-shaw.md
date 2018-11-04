@@ -1,7 +1,6 @@
 ---
 title: "Le théâtre de Shaw"
 date: 2017-08-24
-bitlink: https://goo.gl/5y5zZP
 image: "/images/lu_et_approuve/Lu_et_approuv.jpg"
 excerpt: "George Bernard Shaw (1856-1950), connu comme Bernard Shaw, est un dramaturge irlandais considéré par beaucoup comme le second meilleur dramaturge anglophone (après William Shakespeare) (voir notamment la citation du Oxford Encyclopedia of Theatre and Performance sur la page Wikipedia consultée le 31 juillet 2017). Shaw reçut le Prix Nobel de littérature en 1925.
 

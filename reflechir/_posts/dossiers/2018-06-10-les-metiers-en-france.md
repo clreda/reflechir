@@ -1,7 +1,6 @@
 ---
 title: "(Glossaire) Les métiers en France"
 date: 2018-06-10
-bitlink: https://tinyurl.com/y95sv9yx
 excerpt: "Le but de cet article est de rassembler quelques chiffres sur l'état de l'emploi en France (au sens large : cela comprend aussi les chiffres du chômage, et de la retraite), dans le but d'avoir une meilleure idée des pourcentages et de la répartition de l'emploi à l'échelle nationale. L'analyse poussée des résultats est volontairement omise. Si vous êtes intéressé.e par cet aspect, il est recommandé de lire les analyses proposées dans les sources de cet article (au bas de la page), qui proviennent de l'Insee et de la Direction de l'animation de la recherche, des études et des statistiques (Dares), en coopération avec le ministère du Travail. Par souci de concision, beaucoup d'aspects du marché du travail ne sont pas abordés ici (par exemple, les écarts entre la métropole et les départements d'Outre-Mer..."
 ---
 

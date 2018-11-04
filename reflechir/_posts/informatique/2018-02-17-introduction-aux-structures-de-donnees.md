@@ -1,7 +1,6 @@
 ---
 title: "Introduction aux structures de données"
 date: 2018-02-17
-bitlink: https://goo.gl/6ZQQz1
 excerpt: "La programmation est utilisée pour résoudre des problèmes. Ces derniers amènent souvent à analyser, lire, mémoriser des données. Nombre de ces petites opérations, qui effectuent des actions simples, basiques à l'échelle d'un algorithme, sont fréquemment utilisées. Pour réduire le temps de calcul (c'est-à-dire, le temps pour rendre un résultat) et l'espace en mémoire (le nombre d'informations à stocker pour faire les calculs), il est préférable de les organiser, selon le but à atteindre, dans un objet de type structure de données. Dans la majorité des langages, ces objets sont déjà implémentés (c'est-à-dire programmés) et..."
 ---
 

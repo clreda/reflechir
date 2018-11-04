@@ -1,7 +1,6 @@
 ---
 title: "Présidentielle 2017 : Philippe Poutou"
 date: 2017-04-04
-bitlink: https://goo.gl/XZ6uGZ
 image: "/images/presidentielle_2017/16.jpg"
 excerpt: "Le programme de Philippe Poutou est disponible ici, et est résumé sur cette page.
 
