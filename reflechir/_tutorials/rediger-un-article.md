@@ -61,8 +61,9 @@ Exemple :
 
 Pour prévenir les erreurs d'affichage : mettre les tableaux au même endroit, si possible, et mettre au moins 5 lignes entre le début de l'article et le premier tableau (heuristique plus ou moins fiable)
 
-* Ajouter un document PDF : mettre le document dans le dossier "assets/pdfs" et écrire
+* Ajouter un document PDF : mettre le document dans le dossier "assets/" et écrire
 [PDF]({{ "/assets/pdfs/[nom du document].pdf" | absolute_url }})
+[ici]({{ site.baseurl }}/assets/Récurrence.pdf)
 
 * Ajouter une adresse URL vers un post du blog : (le manque d'espace entre les crochets et les parenthèses est important)
 Ecrire : [Je suis un lien URL]({{ siteurl }}{% post_url [sous-dossier/AAAA-MM-DD-title] %}) 
