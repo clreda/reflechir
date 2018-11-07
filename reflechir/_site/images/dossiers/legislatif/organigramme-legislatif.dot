@@ -1,0 +1,27 @@
+digraph {
+node [style=filled shape=box fillcolor=grey]
+A [label="Création d'un texte de loi"];
+B [label="Application du texte"];
+node [style=filled shape=box fillcolor=yellow]
+C [label="1ère lecture par l'AN"];
+D [label="2ème lecture par l'AN"];
+E [label="2ème ou 3ème lecture définitive par l'AN"];
+node [style=filled shape=box fillcolor=lightblue]
+G [label="1ère lecture par le Sénat"];
+H [label="2ème lecture par le Sénat"];
+I [label="2ème ou 3ème lecture par le Sénat"];
+node [style=filled shape=box fillcolor=cyan]
+J [label="Commission mixte paritaire (CMP)"];
+A -> G;
+G -> C;
+C -> B[label="Accord entre Sénat/AN" color=green];
+C -> H[label="Désaccord entre Sénat/AN : normal" color=red];
+H -> D;
+D -> B[label="Accord entre Sénat/AN" color=green];
+D -> J[label="Désaccord entre Sénat/AN" color=red];
+J -> I[label="Accord après CMP" color=green];
+J -> E[label="Désaccord après CMP (*)" color=red];
+I -> E;
+E -> B;
+C -> J[label="Désaccord entre Sénat/AN : procédure accélérée" color=red];
+}
