@@ -4,7 +4,7 @@ date: 2017-03-01
 excerpt: "Le raisonnement par analyse-synthèse est utilisé pour déterminer l'ensemble des solutions à un problème. La phase d'analyse donne des conditions nécessaires pour être solution (elle met en évidence des candidats) et la phase de synthèse vérifie quelles sont les solutions (elle détermine quels candidats sont solutions)..."
 ---
 
-La version PDF de cet article est disponible [ici]({{ "/pdfs/Analyse-Synthèse.pdf" | absolute_url }}).
+La version PDF de cet article est disponible [ici]({{ site.surl }}/assets/Analyse-Synthèse.pdf).
 
 Le raisonnement par analyse-synthèse est utilisé pour déterminer l'ensemble des solutions à un problème. La phase d'analyse donne des conditions nécessaires pour être solution (elle met en évidence des "candidats") et la phase de synthèse vérifie quelles sont les solutions (elle détermine quels "candidats" sont solutions).
 

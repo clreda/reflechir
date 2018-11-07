@@ -62,15 +62,14 @@ Exemple :
 Pour prévenir les erreurs d'affichage : mettre les tableaux au même endroit, si possible, et mettre au moins 5 lignes entre le début de l'article et le premier tableau (heuristique plus ou moins fiable)
 
 * Ajouter un document PDF : mettre le document dans le dossier "assets/" et écrire
-[PDF]({{ "/assets/pdfs/[nom du document].pdf" | absolute_url }})
-[ici]({{ site.baseurl }}/assets/Récurrence.pdf)
+[PDF]({{ site.surl }}/assets/[nom du document].pdf)
 
 * Ajouter une adresse URL vers un post du blog : (le manque d'espace entre les crochets et les parenthèses est important)
 Ecrire : [Je suis un lien URL]({{ siteurl }}{% post_url [sous-dossier/AAAA-MM-DD-title] %}) 
 (ne modifier que les parties entre crochets : 'sous-dossier' est le sous-dossier du dossier '_posts' qui contient le post. Ne pas marquer l'extension ".md")
 
 * Ajouter une adresse URL : (le manque d'espace entre les crochets et les parenthèses est important)
-Ecrire : [Je suis un lien URL](http://www.reflechir.com)
+Ecrire : [Je suis un lien URL](http://www.reflechir.fr)
 
 * Ajouter un passage en LaTeX : 
 La syntaxe est un peu différente de LaTeX, voir ici : http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/
