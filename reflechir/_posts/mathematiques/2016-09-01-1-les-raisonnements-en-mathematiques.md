@@ -4,6 +4,8 @@ date: 2016-09-01
 excerpt: "En mathématiques, savoir démontrer un énoncé est très important. Un énoncé est constitué d'hypothèses et de conclusions. Une démonstration est une suite de déductions qui relie hypothèses et conclusions. Pour que la démonstration d'un énoncé soit correcte, il faut que toutes les déductions de la démonstration le soient..."
 ---
 
+La version PDF de cet article est disponible [ici]({{ "/pdfs/Raisonnements.pdf" | absolute_url }}).
+
 En mathématiques, savoir démontrer un énoncé est très important. Un énoncé est constitué d'hypothèses et de conclusions. Une démonstration est une suite de déductions qui relie hypothèses et conclusions. Pour que la démonstration d'un énoncé soit correcte, il faut que toutes les déductions de la démonstration le soient.
 
 Etudions l'énoncé suivant : La composée de deux fonctions de $\mathbb{R}$ dans $\mathbb{R}$ décroissantes est croissante.

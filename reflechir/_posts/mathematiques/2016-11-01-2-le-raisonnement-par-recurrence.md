@@ -4,6 +4,8 @@ date: 2016-11-01
 excerpt: "Lorsqu'on veut démontrer une propriété qu'ont tous les entiers naturels (c'est-à-dire les entiers positifs, 0, 1, 2 etc) il est parfois pratique d'utiliser un raisonnement par récurrence. Ce type de raisonnement consiste à montrer que la propriété est vérifiée par 0 (initialisation) puis de montrer que si elle est vérifiée par un entier naturel n alors elle est vérifiée par n + 1 (hérédité)..."
 ---
 
+La version PDF de cet article est disponible [ici]({{ "/pdfs/Récurrence.pdf" | absolute_url }}).
+
 Lorsqu'on veut démontrer une propriété qu'ont tous les entiers naturels (c'est-à-dire les entiers positifs, $0, 1, 2$ etc) il est parfois pratique d'utiliser un raisonnement par récurrence. Ce type de raisonnement consiste à montrer que la propriété est vérifiée par $0$ (initialisation) puis de montrer que si elle est vérifiée par un entier naturel $n$ alors elle est vérifiée par $n + 1$ (hérédité). 
 
 Pour une propriété qui n'est vérifiée qu'à partir d'un certain rang, c'est-à-dire pour les entiers supérieurs à un entier fixé $N$, on montre que la propriété est vérifiée par $N$ (initialisation) puis que si elle est vérifiée par un entier naturel $n$ alors elle est vérifiée par $n + 1$ (hérédité).
