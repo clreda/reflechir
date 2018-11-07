@@ -12,7 +12,7 @@ Normalement on peut comprendre les 42 articles sans jamais avoir fait de mathém
 
 A partir de l'article 5 les articles sont plus longs, et il ne faut donc pas hésiter à s'arrêter avant d'avoir fini l'article. Quand on reprend la lecture d'un article, il peut être utile de relire rapidement le début de l'article pour se rafraîchir la mémoire. Il ne faut pas non plus hésiter à relire une partie d'un article précédent qui est utilisée dans l'article qu'on lit.
 
-Les articles de mathématiques seront modifiés au fur et à mesure des remarques des lecteurs, afin d'être toujours plus intéressants et plus accessibles. N'hésitez pas à envoyer des remarques à l'adresse mail indiquée dans la barre à droite du site ! 
+Les articles de mathématiques seront modifiés au fur et à mesure des remarques des lecteurs, afin d'être toujours plus intéressants et plus accessibles. N'hésitez pas à envoyer des remarques à l'adresse mail sitereflechir@gmail.com !
 
 Par ailleurs, cet article est daté du 2 août 2016 afin d'apparaître en premier dans cette rubrique, mais a été publié le 20 janvier 2018. Les modifications de cet article et des autres articles de mathématiques ne seront pas indiquées, contrairement à celles des autres articles du site, afin de ne pas finir par avoir une liste de modifications plus longue que l'article lui-même.
 
@@ -53,7 +53,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>17. Algèbre 2</p>
 
-<p>18. 18 grands mathématiciens</p>
+<p>18. 23 grands mathématiciens</p>
 
 <p>19. Théorie des nombres</p>
 
@@ -67,7 +67,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>24. Algèbre 3</p>
 
-<p>25. Que sont les mathématiques ?</p>
+<p>25. Liens entre les mathématiques et d'autres disciplines</p>
 
 <p>26. Théorie des nombres 2</p>
 
@@ -81,7 +81,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>31. Algèbre 4</p>
 
-<p>32. Où en est la recherche en mathématiques ?</p>
+<p>32. La recherche en mathématiques</p>
 
 <p>33. Grand théorème de Fermat</p>
   
