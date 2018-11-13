@@ -14,7 +14,7 @@ sectionnames:           ["Actualités","Sciences","Sciences humaines"]
 header_colors:          [["sciences", "#ffff80"], ["sciences humaines", "#e6b3ff"], ["actualités", "#90ebff"]]
 link_colors:            ["#adad85", "#000000"]
 
-google_analytics:       'UA-109489888-1'
+google_analytics:       'UA-129121205-1'
 
 environment:            "production"
 
