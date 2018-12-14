@@ -6,6 +6,95 @@
 
 $color-out: #fff;
 $color-shadow: #e6e6e6;
+$color-shadow-nav: #e6e6e6;
+$color-hover-nav: #cecccc;
+$color-background-nav: #fff; 
+$color-shadow-background-nav: #a0a0a0;
+$color-links: #a8a8a8;
+
+.navbar {
+  overflow: hidden;
+  background-color: $color-background-nav;
+  font-family: 'Merriweather', serif;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+        -webkit-box-shadow: 0px 0px 40px $color-shadow-nav inset, 1px 1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 40px $color-shadow-nav inset, 1px 1px 2px rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 40px $color-shadow-nav inset, 1px 1px 2px rgba(0, 0, 0, 0.3);
+
+	-webkit-border-radius: 0 0 40px 40px;
+	-moz-border-radius: 0 0 40px 40px;
+	border-radius: 0 0 40px 40px;
+
+	clear: both;
+	overflow: hidden;
+   margin-top: 10px;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: 'Merriweather', serif;
+  margin-top: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: $color-hover-nav;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: $color-background-nav;
+  min-width: 160px;
+  margin-top: 80px;
+  z-index: 1;
+}
+
+.dropdown-content a, .dropdown-content a:hover {
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.51);
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  top: 10px;
+  text-align: left;
+	color: black;
+	text-decoration: none;
+}
+
+.dropdown-content a:active {
+	color: $color-links;
+	text-decoration: none;
+}
+
+.dropdown-content a:hover {
+	text-shadow: 2px 0px #cccccc;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 
 .site-header {
 	background-color: $color-out;
@@ -22,10 +111,6 @@ $color-shadow: #e6e6e6;
 	-webkit-box-shadow: px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
 	-moz-box-shadow: 0px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
 	box-shadow: 0px 0px 40px $color-shadow inset, 1px 1px 2px rgba(0,0,0,0.3);
-
-	-webkit-border-radius: 0 0 40px 40px;
-	-moz-border-radius: 0 0 40px 40px;
-	border-radius: 0 0 40px 40px;
 
 	clear: both;
 	overflow: hidden;

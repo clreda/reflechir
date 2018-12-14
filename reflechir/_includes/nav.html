@@ -1,0 +1,16 @@
+<div class="navbar">
+	{% for section_arr in site.nav %}
+	<div class="dropdown">
+		{% assign section_name = section_arr[0][0] %}
+		{% assign section_url = section_arr[0][1] %}
+		<a href="{{ site.surl }}/category/{{ section_url }}/"><button class="dropbtn">{{ section_name }}<i class="fa fa-caret-down"></i></button></a>
+		<div class="dropdown-content">
+		{% for subsection_arr in section_arr[1] %}
+			{% assign subsection_name = subsection_arr[0] %}
+			{% assign subsection_url = subsection_arr[1] %}
+			<a href="{{ site.surl }}/category/{{ subsection_url }}/">{{ subsection_name }}</a>
+		{% endfor %}
+		</div>
+	</div> 
+	{% endfor %}
+</div>
