@@ -4,7 +4,7 @@ date: 2017-11-20
 excerpt: "L'arithmétique est la branche des mathématiques qui s'intéresse aux nombres (alpha rho iota theta mu o varsigma ou arithmos en grec signifie nombre). Elle est prolongée par la théorie des nombres (il n'y a pas de consensus sur où s'arrête précisément l'arithmétique et où commence précisément la théorie des nombres, mais en général..."
 ---
 
-La version PDF de cet article est disponible [ici]({{ site.surl }}/assets/Arithmétique.pdf).
+La version PDF de cet article est disponible [ici]({{ site.surl }}/assets/Arithmétique.pdf).
 
 L'arithmétique est la branche des mathématiques qui s'intéresse aux nombres ($\alpha \rho \iota \theta \mu o \varsigma$ ou arithmos en grec signifie nombre). Elle est prolongée par la théorie des nombres (il n'y a pas de consensus sur où s'arrête précisément l'arithmétique et où commence précisément la théorie des nombres, mais en général quand on utilise des outils d'algèbre ou d'analyse (voir articles 9 et 10) on parle de théorie des nombres et sinon on parle d'arithmétique). 
 
@@ -259,6 +259,6 @@ Passons au cas $n = 3$. On a besoin de définir la valeur absolue d'un entier : 
 
 __Prop__ : Il n'y a pas de solution dans $\mathbb{Z} \setminus${$0$} à $x^3+y^3=z^3$.
 
-Je connais deux preuves de cette proposition; l'une n'utilise que des outils arithmétiques mais est assez fastidieuse (voir [ici](http ://fermatslasttheorem.blogspot.com/2005/05/fermats-last-theorem-proof-for-n3.html) pour cette preuve) et l'autre utilise des nombres complexes; cette dernière preuve sera faite dans l'article 19 Théorie des nombres.
+Je connais deux preuves de cette proposition; l'une n'utilise que des outils arithmétiques mais est assez fastidieuse (voir [ici](http://fermatslasttheorem.blogspot.com/2005/05/fermats-last-theorem-proof-for-n3.html) pour cette preuve) et l'autre utilise des nombres complexes; cette dernière preuve sera faite dans l'article 19 Théorie des nombres.
 
 Clémentine Lemarié--Rieusset
