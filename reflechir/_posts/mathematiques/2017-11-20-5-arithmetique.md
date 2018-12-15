@@ -4,6 +4,8 @@ date: 2017-11-20
 excerpt: "L'arithmétique est la branche des mathématiques qui s'intéresse aux nombres (alpha rho iota theta mu o varsigma ou arithmos en grec signifie nombre). Elle est prolongée par la théorie des nombres (il n'y a pas de consensus sur où s'arrête précisément l'arithmétique et où commence précisément la théorie des nombres, mais en général..."
 ---
 
+La version PDF de cet article est disponible [ici]({{ site.surl }}/assets/Arithmétique.pdf).
+
 L'arithmétique est la branche des mathématiques qui s'intéresse aux nombres ($\alpha \rho \iota \theta \mu o \varsigma$ ou arithmos en grec signifie nombre). Elle est prolongée par la théorie des nombres (il n'y a pas de consensus sur où s'arrête précisément l'arithmétique et où commence précisément la théorie des nombres, mais en général quand on utilise des outils d'algèbre ou d'analyse (voir articles 9 et 10) on parle de théorie des nombres et sinon on parle d'arithmétique). 
 
 ## I) Plus grand commun diviseur et plus petit commun multiple. ##
@@ -239,9 +241,11 @@ Il suffit de montrer qu'il n'y a pas de solution dans $\mathbb{N} \setminus \{0\
 
 _Exo_ : Il n'y a pas de solution dans $\mathbb{N} \setminus${$0$} à $x^4+y^4=z^2$.
 
-1) Se ramener à $x^2,y^2,z$ de pgcd 1.
+1) Se ramener à $x,y,z$ de pgcd $1$.
 
-2) Utiliser l'exercice précédent pour avoir une expression de $x^2,y^2,z$.
+Indication : en notant $d$ le pgcd de $x,y,z$, montrer que $\frac{x}{d}, \frac{y}{d}, \frac{z}{d^2}$ sont de pgcd $1$.
+
+2) Vérifier que si $x,y,z$ est solution de $x^4+y^4=z^2$ et de pgcd $1$
 
 3) Vérifier que $y$ et les deux paramètres de la question 2) forment un triplet pythagoricien et en déduire une expression avec deux nouveaux paramètres.
 
