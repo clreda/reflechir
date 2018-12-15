@@ -3,10 +3,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <!-- Equations automatically numbered -->
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script> 
+if ( 'https:' == location.protocol && 'undefined' === typeof(MathJax) ) {
+    var mjs = $('script[src^="https://cdnjs.cloudflare.com"]').remove();
+    if ( mjs.length > 0 ) $.ajax( {
+        dataType: "script", cache: true,
+        url: mjs[0].src.replace('https://cdnjs.cloudflare.com', 'https://c328740.ssl.cf1.rackcdn.com')
+    } );
+}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129121205-1"></script>
 <script>
