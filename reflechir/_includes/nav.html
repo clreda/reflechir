@@ -3,7 +3,7 @@
 	<div class="dropdown">
 		{% assign section_name = section_arr[0][0] %}
 		{% assign section_url = section_arr[0][1] %}
-		<a href="{{ site.url }}/category/{{ section_url }}/"><button class="dropbtn">{{ section_name }}<i class="fa fa-caret-down"></i></button></a>
+		<button class="dropbtn">{{ section_name }}<i class="fa fa-caret-down"></i></button>
 		<div class="dropdown-content">
 		{% for subsection_arr in section_arr[1] %}
 			{% assign subsection_name = subsection_arr[0] %}
