@@ -245,30 +245,20 @@ _Exo_ : Il n'y a pas de solution dans $\mathbb{N} \setminus${$0$} à $x^4+y^4=z^
 
 Indication : en notant $d$ le pgcd de $x,y,z$, montrer que $\frac{x}{d}, \frac{y}{d}, \frac{z}{d^2}$ sont de pgcd $1$.
 
-2) Vérifier que si $x,y,z$ est solution de $x^4+y^4=z^2$ et de pgcd $1$
+2) Vérifier que si $x,y,z$ est solution de $x^4+y^4=z^2$ et de pgcd $1$ alors $(x^2,y^2,z)$ est un triplet pythagoricien de pgcd $1$ et en déduire qu'il existe $u,v \in \mathbb{N} \setminus \{0\}$ de pgcd $1$ tels que $x^2 = 2uv, y^2 = v^2 - u^2, z = v^2 + u^2$ (quitte à échanger $x$ et $y$).
 
-3) Vérifier que $y$ et les deux paramètres de la question 2) forment un triplet pythagoricien et en déduire une expression avec deux nouveaux paramètres.
+Indication : dans la preuve de l'exercice sur les triplets pythagoriciens, vous devriez avoir trouvé de tels $u,v$ mais sans avoir prouvé qu'ils sont de pgcd $1$; en revanche vous devriez avoir prouvé que $u^2 = \frac{z-y}{2}$, $v^2 = \frac{z+y}{2}$ et pgcd$(\frac{z-y}{2},\frac{z+y}{2}) = 1$, et vous devriez pouvoir en déduire que pgcd$(u,v) = 1$.
 
-4) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
+3) Montrer que $v$ est impair et que $u$ est pair puis en déduire que $v$ est un carré d'entier et que $u$ est le produit de $2$ et d'un carré d'entier.
+
+4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
+
+5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
 
 Passons au cas $n = 3$. On a besoin de définir la valeur absolue d'un entier : si $x \in \mathbb{Z}$, sa valeur absolue $abs(x)$ est $x$ si $x \in \mathbb{N}$, $-x$ sinon. On remarque que la valeur absolue d'un entier est toujours positive. On définit le pgcd de $x,y,z \in \mathbb{Z}$ par pgcd$(x,y,z) =$ pgcd$(abs(x),abs(y),abs(z))$.  
 
-_Exo_ : Il n'y a pas de solution dans $\mathbb{Z} \setminus${$0$} à $x^3+y^3=z^3$.
+__Prop__ : Il n'y a pas de solution dans $\mathbb{Z} \setminus${$0$} à $x^3+y^3=z^3$.
 
-1) Se ramener à $x,y,z$ de pgcd 1.  
-
-Supposons qu'il existe $x,y,z \in \mathbb{N} \setminus \{0\}$ de pgcd 1 tels que  $x^3+y^3=z^3$.  
-
-2) Montrer que pgcd$(x,y) = 1$. En déduire $x > y$ ou $x < y$.  
-
-Dans la suite on supposera $x > y$ (si ce n'était pas le cas on n'a qu'à échanger $x$ et $y$ puisqu'ils vérifient les mêmes hypothèses).  
-
-3) Montrer qu'il y a exactement un nombre parmi $x, y$ et $z$ qui est pair.  
-
-4) Dans le cas où $z$ est ce nombre pair, montrer qu'il existe $u,v \in \mathbb{N} \setminus \{0\}$ de pgcd 1 tels que $u$ et $v$ sont de parité opposée (l'un est pair et l'autre est impair) et $2u(u^2+3v^2)$ est un cube d'entier. (Indication : $u = \frac{x+y}{2}$ et $v = \frac{x-y}{2}$)  
-
-5) Montrer que pgcd$(2u,u^2+3v^2) = 1$ ou 3.  
-
-6) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.  
+Je connais deux preuves de cette proposition; l'une n'utilise que des outils arithmétiques mais est assez fastidieuse (voir [ici](http ://fermatslasttheorem.blogspot.com/2005/05/fermats-last-theorem-proof-for-n3.html) pour cette preuve) et l'autre utilise des nombres complexes; cette dernière preuve sera faite dans l'article 19 Théorie des nombres.
 
 Clémentine Lemarié--Rieusset
