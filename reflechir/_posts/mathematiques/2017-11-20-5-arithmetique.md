@@ -253,9 +253,7 @@ Indication : dans la preuve de l'exercice sur les triplets pythagoriciens, vous 
 
 4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
 
-5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
-
-Passons au cas $n = 3$. On a besoin de définir la valeur absolue d'un entier : si $x \in \mathbb{Z}$, sa valeur absolue $abs(x)$ est $x$ si $x \in \mathbb{N}$, $-x$ sinon. On remarque que la valeur absolue d'un entier est toujours positive. On définit le pgcd de $x,y,z \in \mathbb{Z}$ par pgcd$(x,y,z) =$ pgcd$(abs(x),abs(y),abs(z))$.  
+5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure. 
 
 __Prop__ : Il n'y a pas de solution dans $\mathbb{Z} \setminus${$0$} à $x^3+y^3=z^3$.
 
