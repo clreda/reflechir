@@ -132,10 +132,24 @@ En effet, si on avait $x^4 + y^4 = c^4$ avec $x,y,c \in \mathbb{Z} \setminus \{0
 
 __Exo__ : Il n'y a pas de solution dans $\mathbb{N} \setminus \{0\}$ à $x^4+y^4=z^2$.  
 
-Je mets à jour cet article dès que j'ai fini de taper le corrigé de cet exercice.  
+Il suffit de montrer qu'il n'y a pas de solution dans $\mathbb{N} \setminus \{0\}$ car les exposants ($4$,$4$ et $2$) sont pairs (c'est-à-dire divisibles par $2$;  comme dans la remarque plus haut, on peut changer les signes de $x$, $y$, $z$ pour avoir des entiers positifs).  
 
-__Exo__ : Il n'y a pas de solution dans $\mathbb{Z} \setminus \{0\}$ à $x^3+y^3=z^3$.  
+__Exo__ : Il n'y a pas de solution dans $\mathbb{N} \setminus${$0$} à $x^4+y^4=z^2$.
 
-Je mets à jour cet article dès que j'ai fini de taper le corrigé de cet exercice.  
+1) Se ramener à $x,y,z$ de pgcd $1$.
+
+Indication : en notant $d$ le pgcd de $x,y,z$, montrer que $\frac{x}{d}, \frac{y}{d}, \frac{z}{d^2}$ sont de pgcd $1$.
+
+2) Vérifier que si $x,y,z$ est solution de $x^4+y^4=z^2$ et de pgcd $1$ alors $(x^2,y^2,z)$ est un triplet pythagoricien de pgcd $1$ et en déduire qu'il existe $u,v \in \mathbb{N} \setminus \{0\}$ de pgcd $1$ tels que $x^2 = 2uv, y^2 = v^2 - u^2, z = v^2 + u^2$ (quitte à échanger $x$ et $y$).
+
+Indication : dans la preuve de l'exercice sur les triplets pythagoriciens, vous devriez avoir trouvé de tels $u,v$ mais sans avoir prouvé qu'ils sont de pgcd $1$; en revanche vous devriez avoir prouvé que $u^2 = \frac{z-y}{2}$, $v^2 = \frac{z+y}{2}$ et pgcd$(\frac{z-y}{2},\frac{z+y}{2}) = 1$, et vous devriez pouvoir en déduire que pgcd$(u,v) = 1$.
+
+3) Montrer que $v$ est impair et que $u$ est pair puis en déduire que $v$ est un carré d'entier et que $u$ est le produit de $2$ et d'un carré d'entier.
+
+4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
+
+5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
+
+Je mets à jour cet article dès que j'ai fini de taper le corrigé de cet exercice.    
 
 Clémentine Lemarié--Rieusset
