@@ -1,8 +1,7 @@
 title:                  Réfléchir
 image:                  "http://reflechir.fr/images/Lu_et_approuv.png"
 description:            "Ce site s'adresse à tous et a pour but de susciter la réflexion, autant par l'analyse des actualités que par la découverte des sciences et des sciences humaines."
-url:                    http://www.reflechir.fr
-surl:                   http://www.reflechir.fr
+url:                    https://www.reflechir.fr
 baseurl:                ""
 email:                  sitereflechir@gmail.com
 lang:                   "fr"
