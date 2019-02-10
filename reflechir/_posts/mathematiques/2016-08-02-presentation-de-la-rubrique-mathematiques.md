@@ -33,7 +33,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>7. Géométrie</p>
 
-<p>8. Probabilités </p>
+<p>8. Probabilités</p>
 
 <p>9. Analyse</p>
 
@@ -41,19 +41,19 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>11. Sites de mathématiques</p>
 
-<p>12. Arithmétique 2</p>
+<p>12. Arithmétique : congruences</p>
 
 <p>13. Théorie des ensembles 2</p>
 
 <p>14. Géométrie 2</p>
 
-<p>15. Probabilités 2</p>
+<p>15. Intégration</p>
 
-<p>16. Analyse 2</p>
+<p>16. Analyse : dérivée et différentielle</p>
 
 <p>17. Algèbre 2</p>
 
-<p>18. 23 grands mathématiciens</p>
+<p>18. 23 grands mathématicien•ne•s</p>
 
 <p>19. Théorie des nombres</p>
 
@@ -61,9 +61,9 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>21. Topologie</p>
 
-<p>22. Probabilités 3</p>
+<p>22. Probabilités 2</p>
 
-<p>23. Analyse 3</p>
+<p>23. Analyse complexe</p>
 
 <p>24. Algèbre 3</p>
 
@@ -75,9 +75,9 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>28. Topologie 2</p>
 
-<p>29. Probabilités 4</p>
+<p>29. Probabilités 3</p>
 
-<p>30. Analyse 4</p>
+<p>30. Analyse fonctionnelle</p>
 
 <p>31. Algèbre 4</p>
 
