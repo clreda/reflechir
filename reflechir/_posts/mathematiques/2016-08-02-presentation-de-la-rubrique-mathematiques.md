@@ -33,7 +33,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>7. Géométrie</p>
 
-<p>8. Probabilités </p>
+<p>8. Probabilités</p>
 
 <p>9. Analyse</p>
 
@@ -41,19 +41,19 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>11. Sites de mathématiques</p>
 
-<p>12. Arithmétique 2</p>
+<p>12. Arithmétique : congruences</p>
 
 <p>13. Théorie des ensembles 2</p>
 
 <p>14. Géométrie 2</p>
 
-<p>15. Probabilités 2</p>
+<p>15. Intégration</p>
 
-<p>16. Analyse 2</p>
+<p>16. Analyse : dérivée et différentielle</p>
 
 <p>17. Algèbre 2</p>
 
-<p>18. 23 grands mathématiciens</p>
+<p>18. 30 grand•e•s mathématicien•ne•s</p>
 
 <p>19. Théorie des nombres</p>
 
@@ -61,9 +61,9 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>21. Topologie</p>
 
-<p>22. Probabilités 3</p>
+<p>22. Probabilités 2</p>
 
-<p>23. Analyse 3</p>
+<p>23. Analyse complexe</p>
 
 <p>24. Algèbre 3</p>
 
@@ -75,9 +75,9 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>28. Topologie 2</p>
 
-<p>29. Probabilités 4</p>
+<p>29. Probabilités 3</p>
 
-<p>30. Analyse 4</p>
+<p>30. Analyse fonctionnelle</p>
 
 <p>31. Algèbre 4</p>
 
@@ -106,14 +106,20 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 | Calendrier de publication : | 
 |-----------------------------|
-| 2019 : 6 - 8 | 
-| 2020 : 9 – 14 | 
-| 2021 : 15 – 21 | 
-| 2022 : 22 – 25 | 
-| 2023 : 26 – 32 | 
-| 2027 : 33 - 35 |
-| 2030 : 36 - 38 |
-| 2033 : 39 - 41 |
+| 2019 : 6 et 7 | 
+| 2020 : 8 à 11 | 
+| 2021 : 12 à 18 | 
+| 2022 : 19 à 25 | 
+| 2023 : 26 à 32 | 
+| 2025 : 33 |
+| 2027 : 34 |
+| 2028 : 35 |
+| 2029 : 36 |
+| 2030 : 37 |
+| 2031 : 38 |
+| 2032 : 39 |
+| 2033 : 40 |
+| 2034 : 41 |
 | 2035 : 42 |
 
 J'espère que les articles de mathématiques vous plairont !
