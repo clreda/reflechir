@@ -251,7 +251,7 @@ Indication : dans la preuve de l'exercice sur les triplets pythagoriciens, vous 
 
 3) Montrer que $v$ est impair et que $u$ est pair puis en déduire que $v$ est un carré d'entier et que $u$ est le produit de $2$ et d'un carré d'entier.
 
-4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
+4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ de pgcd $1$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
 
 5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure. 
 
