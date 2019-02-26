@@ -6,6 +6,8 @@ excerpt: "Le premier exercice de l'article d'Arithmétique est de montrer que ce
 Déf : Soit n in N - 0,1. Soient a1,... , an in N. Le plus grand commun diviseur de a1,... ,an , noté pgcd(a1,... , an), est l'entier d in N qui vérifie d divise..."
 ---
 
+La version PDF de cet article est disponible [ici]({{ site.surl }}/assets/Arithmétiquebis.pdf).
+
 Le premier exercice de l'article d'Arithmétique est de montrer que cette définition est correcte :  
 
 __Déf__ : Soit $n \in \mathbb{N} \setminus {0,1}$. Soient $a_1,\dots,a_n \in \mathbb{N}$. Le plus grand commun diviseur de $a_1,\dots,a_n$, noté pgcd$(a_1,\dots,a_n)$, est l'entier $d \in \mathbb{N}$ qui vérifie $d$ divise $a_1, \dots, d$ divise $a_n$ et si $c$ divise $a_1, \dots, c$ divise $a_n$ alors $c$ divise $d$.  
@@ -166,14 +168,33 @@ Ainsi $d = \text{pgcd}\displaystyle(x,y,\frac{z}{d})$ et $\text{pgcd}(\displayst
 
 Indication : dans la preuve de l'exercice sur les triplets pythagoriciens, vous devriez avoir trouvé de tels $u,v$ mais sans avoir prouvé qu'ils sont de pgcd $1$; en revanche vous devriez avoir prouvé (avec les notations de l'exercice sur les triplets pythagoriciens) que $u^2 = \frac{z-y}{2}$, $v^2 = \frac{z+y}{2}$ et pgcd$(\frac{z-y}{2},\frac{z+y}{2}) = 1$ (dans les notations ici il faut remplacer $y$ par $y^2$), et vous devriez pouvoir en déduire que pgcd$(u,v) = 1$.
 
+On remarque que $x^4 = (x^2)^2$ et $y^4 = (y^2)^2$ donc si $x^4+y^4=z^2$ alors $(x^2,y^2,z)$ est un triplet pythagoricien. De plus si pgcd$(x,y,z) = 1$ alors pgcd$(x^2,y^2,z) = 1$ (car si un nombre premier $p$ divise $x^2,y^2,z$ alors il divise $x,y,z$ (par le troisième lemme du II) ce qui contredit pgcd$(x,y,z) = 1$) donc si $x,y,z$ est solution de $x^4+y^4=z^2$ et de pgcd $1$ alors $(x^2,y^2,z)$ est un triplet pythagoricien de pgcd $1$.  
 
+Ainsi, d'après ce qu'on a montré dans l'exercice sur les triplets pythagoriciens, quitte à échanger $x$ et $y$ on a alors $u,v \in \mathbb{N} \setminus \{0\}$ tels que $x^2 = 2uv, y^2 = v^2 - u^2$, $z = v^2 + u^2$ et pgcd$(u^2,v^2) = 1$. On remarque que si un nombre premier $p$ divise divise $u$ et $v$ alors il divise $u^2$ et $v^2$ ce qui contredit pgcd$(u^2,v^2) = 1$, donc pgcd$(u,v) = 1$.  
 
 3) Montrer que $v$ est impair et que $u$ est pair puis en déduire que $v$ est un carré d'entier et que $u$ est le produit de $2$ et d'un carré d'entier.
 
+D'après la question précédente, $(x^2,y^2,z)$ est un triplet pythagoricien de pgcd $1$ donc, d'après l'exercice sur les triplets pythagoriciens, $z$ est impair. Or $z = v^2 + u^2$ donc $v^2$ et $u^2$ n'ont pas la même parité (c'est-à-dire que l'un des deux est impair et l'autre est pair).  
+
+Si $u^2$ est impair et $v^2$ pair alors $4$ divise $y^2 + 1$ (car $y^2 = v^2 - u^2$) ce qui est impossible. Explications : on regarde les restes modulo 4 (c'est à dire qu'on considère $r_u, r_v, r_y \in \{0,1,2,3\}$ tels que $u^2$ est égal à un multiple de $4$ plus $r_u$, $v^2$ est égal à un multiple de $4$ plus $r_v$ et $y^2$ est égal à un multiple de $4$ plus $r_y$ (c'est comme regarder la parité d'un nombre mais par rapport à $4$ au lieu de $2$ (et du coup au lieu d'avoir deux possibilités, être pair ou être impair, on a quatre possibilités, être congru à $0$ modulo $4$ (c'est-à-dire être divisible par $4$), être congru à $1$ modulo $4$ (c'est-à-dire que si on nous enlève $1$ alors on est divisible par $4$), être congru à $2$ modulo $4$ (c'est-à-dire que si on nous enlève $2$ alors on est divisible par $4$) ou être congru à $3$ modulo $4$ (c'est-à-dire que si on nous enlève $3$ alors on est divisible par $4$)); si vous avez des difficultés à comprendre ceci, lisez l'article 12 Arithmétique 2 sur les congruences)). On peut vérifier facilement qu'un carré est forcément congru à $0$ ou $1$ modulo $4$ (faites une disjonction de cas selon le reste modulo $4$ du nombre dont vous voulez considérer le carré), donc $r_u, r_v, r_y \in \{0,1\}$; $u^2$ est impair donc ne peut pas être divisible par $4$ (car $4$ est divisible par $2$) donc $r_u = 1$, et $v^2$ est pair donc ne peut pas être congru à $1$ modulo $4$ (car il s'écrirait $4q + 1$ pour un certain $q$, donc $2(2q) + 1$, donc serait impair), donc $r_v = 0$; or $r_y = r_v - r_u$ modulo $4$ (car $y^2 = v^2 - u^2$) donc $r_y = -1 = 3$ modulo $4$ (on a $3 = -1$ modulo $4$ car $4 - 1 = 3$); or $r_y \in \{0,1\}$ d'après ce qui précède, donc on a une contradiction. (Plus haut on avait écrit $4$ divise $y^2 + 1$, c'est une reformulation de $r_y = -1 = 3$ modulo $4$)  
+
+Ainsi $v^2$ est impair et $u^2$ est pair donc $v$ est impair et $u$ est pair (si $2$ divisait $v$ alors il diviserait $v^2$ et pour $u$ on utilise le troisième lemme du II).  
+
+Or $x^2 = 2uv$ et pgcd$(u,v) = 1$ (voir la question précédente) donc $v$ est un carré d'entier et $u$ est le produit de $2$ et d'un carré d'entier. En effet, si $x = p_1^{n_1} \dots p_r^{n_r}$, avec $p_1 < \dots < p_r$ est la décomposition en facteurs premiers de $x$ on a $x^2 = p_1^{2n_1} \dots p_r^{2n_r}$ donc $2uv = p_1^{2n_1} \dots p_r^{2n_r}$ donc $p_1 = 2$ et, comme il est à la puissance $2n_1$, on retrouve $2$ dans $u$ (car $v$ est impair), et si on écrit $u = 2w$ on a $wv = 2^{2n_1-2} p_2^{2n_2} \dots p_r^{2n_r}$ or $w$ et $v$ sont premiers entre eux (car $u$ et $v$ le sont) donc $v_2(w) = 2n_1-2, v_2(v) = 0$ ou $v_2(w) = 0, v_2(v) = 2n_1-2$, et $v_{p_2}(w) = 2n_2, v_{p_2}(v) = 0$ ou $v_{p_2}(w) = 0, v_{p_2}(v) = 2n_2$, et $\dots$ et $v_{p_r}(w) = 2n_r, v_{p_r}(v) = 0$ ou $v_{p_r}(w) = 0, v_{p_r}(v) = 2n_r$, et pour tout $p$ premier n'appartenant pas à $\{2,p_2,\dots,p_r\}$ $v_p(w) = 0, v_p(v) = 0$, donc $w$ et $v$ sont des carrés d'entier (car $2^{2n_1-2} = (2^{n_1-1})^2$, $p_i^{2n_i} = (p_i^{n_i})^2$ et un produit de carrés d'entiers est un carré d'entier).  
+
 4) Vérifier que $(u,y,v)$ est un triplet pythagoricien de pgcd $1$ et, en utilisant les questions précédentes, en déduire qu'il existe $x',y',z' \in \mathbb{N} \setminus \{0\}$ tels que $x'^4 + y'^4 = z'^2$ et $z' < z$. 
 
-5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
+D'après 2) $u$ et $v$ sont premiers entre eux et $u^2 + y^2 = v^2$ donc $(u,y,v)$ est un triplet pythagoricien de pgcd $1$. Il existe donc $a,b \in \mathbb{N} \setminus \{0\}$ de pgcd $1$ tels que $u = 2ab, y = b^2 - a^2$ et $v = b^2 + a^2$ (car $y$ est impair).  
+De plus, comme $u$ est le produit de $2$ et d'un carré d'entier (cf. 3)), il existe $d,e \in \mathbb{N} \setminus \{0\}$ tels que $a = d^2$ et $b = d^2$ (par le même raisonnement qu'à la fin de la question précédente). Et $d$ et $e$ sont premiers entre eux car $a$ et $b$ le sont.  
 
-Je mets à jour cet article dès que j'ai fini de taper le corrigé de cet exercice.    
+On a $e^4 + d^4 = b^2 + a^2 = v = t^2$ pour un certain $t \in \mathbb{N} \setminus \{0\}$ (cf. 3)) et $(e,d,t)$ de pgcd $1$ (car $e$ et $d$ le sont), et $t < z$ (car $t \leq v$ et $v < z$ (car $z = v^2 + u^2$ et $u^2 > 0$)).  
+
+5) Utiliser le fait que toute partie non vide de $\mathbb{N}$ admet un plus petit élément pour conclure.
+   
+Posons $A = \{z \in \mathbb{N} \setminus \{0\}, \text{ il existe } x,y \in \mathbb{N} \setminus \{0\}, x^4 + y^4 = z^2 \text{ et pgcd}(x,y,z) = 1\}$.  
+
+Si $A$ est non vide, alors il admet un plus petit élément $z$. Mais d'après 4) on peut trouver $z' \in A$ tel que $z' < z$, ce qui contredit le fait que $z$ est le plus petit élément de $A$. L'ensemble $A$ est donc vide.  
+
+D'après 1), il n'y a donc pas de $x,y,z \in \mathbb{N} \setminus \{0\}$ tels que $x^4 + y^4 = z^2$.  
 
 Clémentine Lemarié--Rieusset
