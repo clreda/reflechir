@@ -11,11 +11,11 @@ Se connecter à Tinyletter en utilisant les identifiants fournis.
 
 Cliquer sur "Compose" dans le panneau de contrôle à gauche. La norme pour une newsletter est la suivante :
 
-Titre (à écrire dans "Subject") : "Newsletter n°x du site Réfléchir"
+Titre (à écrire dans "Subject") : "Newsletter #numéro du site Réfléchir"
 
 Décocher : "Make letter public"
 
-Dans le corps du message, ajouter l'image du hibou via l'icône image. Normalement, l'image est déjà chargée (il faut alors cliquer dessus), et avec les paramètres suivants : width (largeur) 100 et "keep aspect ratio" coché, url = "reflechir.ml". Cliquer sur "Update and insert" en bas de la page (si des difficultés à voir ce bouton, me contacter !)
+Dans le corps du message, ajouter l'image (le livre avec un R) via l'icône image. Normalement, l'image est déjà chargée (il faut alors cliquer dessus), et avec les paramètres suivants : width (largeur) 100 et "keep aspect ratio" coché, url = "reflechir.ml". Cliquer sur "Update and insert" en bas de la page (si des difficultés à voir ce bouton, me contacter !)
 
 Après l'image et un saut de ligne, écrire :
 
