@@ -53,7 +53,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>17. Algèbre 2</p>
 
-<p>18. 30 grand•e•s mathématicien•ne•s</p>
+<p>18. 33 grand•e•s mathématicien•ne•s</p>
 
 <p>19. Théorie des nombres</p>
 
