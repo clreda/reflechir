@@ -31,55 +31,55 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>6. Théorie des ensembles</p>
 
-<p>7. Géométrie</p>
+<p>7. Algèbre : groupes, anneaux et corps</p>
 
-<p>8. Probabilités</p>
+<p>8. Analyse : limite et continuité</p>
 
-<p>9. Analyse</p>
+<p>9. Probabilités</p>
 
-<p>10. Algèbre</p>
+<p>10. Géométrie</p>
 
 <p>11. Sites de mathématiques</p>
 
 <p>12. Arithmétique : congruences</p>
 
-<p>13. Théorie des ensembles 2</p>
+<p>13. Théorie des ensembles : axiomes et construction des nombres</p>
 
-<p>14. Géométrie 2</p>
+<p>14. Algèbre 2</p>
 
-<p>15. Intégration</p>
+<p>15. Analyse : dérivée et différentielle</p>
 
-<p>16. Analyse : dérivée et différentielle</p>
+<p>16. Intégration</p>
 
-<p>17. Algèbre 2</p>
+<p>17. Géométrie 2</p>
 
-<p>18. 33 grand•e•s mathématicien•ne•s</p>
+<p>18. 12 grand•e•s mathématicien•ne•s</p>
 
-<p>19. Théorie des nombres</p>
+<p>19. Théorie algébrique des nombres</p>
 
-<p>20. Théorie des ensembles 3</p>
+<p>20. Théorie des ensembles : ordinaux et cardinaux</p>
 
-<p>21. Topologie</p>
+<p>21. Algèbre 3</p>
 
-<p>22. Probabilités 2</p>
+<p>22. Analyse complexe</p>
 
-<p>23. Analyse complexe</p>
+<p>23. Probabilités 2</p>
 
-<p>24. Algèbre 3</p>
+<p>24. Topologie</p>
 
 <p>25. Liens entre les mathématiques et d'autres disciplines</p>
 
-<p>26. Théorie des nombres 2</p>
+<p>26. Théorie analytique des nombres</p>
 
-<p>27. Théorie des ensembles 4</p>
+<p>27. Théorie des ensembles : approfondissement sur les axiomes</p>
 
-<p>28. Topologie 2</p>
+<p>28. Algèbre 4</p>
 
-<p>29. Probabilités 3</p>
+<p>29. Analyse fonctionnelle</p>
 
-<p>30. Analyse fonctionnelle</p>
+<p>30. Probabilités 3</p>
 
-<p>31. Algèbre 4</p>
+<p>31. Topologie 2</p>
 
 <p>32. La recherche en mathématiques</p>
 
