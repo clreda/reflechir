@@ -53,7 +53,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>17. Géométrie 2</p>
 
-<p>18. 12 grand•e•s mathématicien•ne•s</p>
+<p>18. À quoi servent les mathématiques ?</p>
 
 <p>19. Théorie algébrique des nombres</p>
 
@@ -67,7 +67,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>24. Topologie</p>
 
-<p>25. Liens entre les mathématiques et d'autres disciplines</p>
+<p>25. 6 grand•e•s mathématicien•ne•s</p>
 
 <p>26. Théorie analytique des nombres</p>
 
