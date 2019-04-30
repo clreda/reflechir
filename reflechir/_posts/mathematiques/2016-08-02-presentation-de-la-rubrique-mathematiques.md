@@ -39,7 +39,7 @@ Il y aura un total de 42 articles (sans compter celui-ci ni les articles de corr
 
 <p>10. Géométrie</p>
 
-<p>11. Sites de mathématiques</p>
+<p>11. Sites Internet de mathématiques</p>
 
 <p>12. Arithmétique : congruences</p>
 
