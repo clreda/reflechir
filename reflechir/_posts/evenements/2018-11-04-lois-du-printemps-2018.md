@@ -2,12 +2,12 @@
 title : "Lois du printemps 2018"
 date : 2018-11-04
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en avril, mai..."
+excerpt: "Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le troisième tiers de la session ordinaire 2017-2018 (donc en avril, mai et juin 2018)..."
 ---
 
 ![Lois du printemps 2018](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en avril, mai et juin 2018.
+Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le troisième tiers de la session ordinaire 2017-2018 (donc en avril, mai et juin 2018).
 
 Une seule des lois votées était une proposition de loi :
 - La loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat, proposée par Mme Françoise Gatel du groupe Union Centriste au Sénat.
@@ -126,4 +126,6 @@ Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/2018-581/jo/texte).
 
 
-**Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "Loi" (ces lois ayant été votées et étant actuellement en vigueur). Correction de fautes d'orthographe. Ajout du lien vers le texte de loi pour la loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. Ajout des dates de passage à l'Assemblée nationale, au Sénat et au JO pour les lois où ces informations étaient manquantes.
+**Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "Loi" (ces lois ayant été votées et étant actuellement en vigueur). Correction de fautes d'orthographe. Ajout du lien vers le texte de loi pour la loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. Ajout des dates de passage à l'Assemblée nationale, au Sénat et au JO pour les lois où ces informations étaient manquantes.  
+
+**Modifications du 04/11/2018** : Modifications du premier paragraphe pour ressembler à celui des articles précédents.  
