@@ -2,14 +2,14 @@
 title : "Lois de l'été 2018 (première partie)"
 date : 2018-11-04
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
+excerpt: "Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées huit des lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018..."
 ---
 
 ![Lois de l'été 2018 (première partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées une partie des lois votées en juillet, août et septembre 2018. Le reste des lois est disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-05-seconde-partie-lois-de-l-ete-2018 %}).
+Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées huit des lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018. Les autres lois votées pendant cette session extraordinaire sont disponibles [ici]({{ siteurl }}{% post_url evenements/2018-11-05-seconde-partie-lois-de-l-ete-2018 %}).
 
-Neuf des lois votées étaient des propositions de loi :
+Neuf des lois votées pendant cette session extraordinaire étaient des propositions de loi :
 - La loi portant transposition de la directive (UE) 2016/943 du Parlement européen et du Conseil du 8 juin 2016 sur la protection des savoir-faire et des informations commerciales non divulgués contre l'obtention, l'utilisation et la divulgation illicites, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
 - La loi en faveur de l'engagement associatif, proposée par M. Sylvain Waserman du groupe Mouvement Démocrate.
 - La loi relative à l'amélioration de la prestation de compensation du handicap, présentée par M. Philippe Berta, député du groupe Mouvement Démocrate.
@@ -39,13 +39,13 @@ Cette loi définit également le niveau de preuve requis de la part du détenteu
 
 L'article 3 porte sur la protection du secret des affaires devant la justice, notamment pour en limiter sa diffusion en cas d'action juridique sur l'atteinte à ce secret (voir cette [page](https://www.jpkarsenty.com/Entree-en-vigueur-de-la-Directive.html) sur la décision de la Cour de cassation en 2016 sur la portée du secret professionnel pour les avocats).
 
-#### Loi en faveur de l'engagement associatif (Assemblée 4 avril, Sénat 17 mai, JO ?) ####
+#### Loi en faveur de l'engagement associatif (Assemblée 17 mai, Sénat 6 mars 2019, deuxième lecture ?, JO ?) ####
 
 Cette proposition de loi est disponible sur cette [page](http://www.assemblee-nationale.fr/15/ta/ta0116.asp). Elle n'a pas encore été publiée au JO, mais a été adoptée par les deux chambres parlementaires. Le but affiché de cette loi est d'alléger les contraintes financières pesant sur les dirigeants associatifs bénévoles (notamment via le premier article, qui limite leur responsabilité financière en cas de faute de gestion : en cas de [liquidation judiciaire](https://droit-finances.commentcamarche.com/contents/1455-liquidation-judiciaire-definition-et-procedure), "le tribunal apprécie l’existence d’une faute de gestion au regard de la qualité de bénévole du dirigeant", via l'"exception de négligence" déjà applicable aux sociétés ([source](http://www.defrenois.fr/services/actu_jur/e-docs/proposition_de_loi_en_faveur_de_lengagement_associatif/document_actu_jur.phtml?cle_doc=00003612))), et d'inciter (dans l'article 2) la jeunesse à l'engagement associatif et au service civique via une sensibilisation s'opérant dès le CM2 ([source](https://www.unaf.fr/spip.php?article23131)), afin de renouveler les effectifs des associations ([source](http://groupemodem.fr/la-proposition-de-loi-en-faveur-de-lengagement-associatif-adoptee-en-commission/)).
 
 Le troisième article porte sur le [service national](https://www.gouvernement.fr/qu-est-ce-que-le-service-national-universel-snu), et notamment sur la modification du paragraphe sur les fraudes (disponible [ici](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=CDFD2E361B3E81746FE31489092620AF.tplgfr37s_3?idSectionTA=LEGISCTA000006182711&cidTexte=LEGITEXT000006071335&dateTexte=20181104)), en étendant les sanctions encourues par les personnes ne respectant pas les dispositions du code du service national aux ressortissants algériens, entrant dans les conditions définies par l'accord du 27 décembre 1968 entre la France et l'Algérie.
 
-#### Proposition de loi relative à l'amélioration de la prestation de compensation du handicap (1ère lecture Assemblée 17 janvier, 1ère lecture Sénat 18 mai, JO ?) ####
+#### Loi relative à l'amélioration de la prestation de compensation du handicap (Assemblée 17 janvier, Sénat 18 mai, deuxième lecture ?, JO ?) ####
 
 Cette proposition de loi n'a pas encore été adoptée, et est donc sujette à modifications. Le texte (après lecture et modifications par l'Assemblée nationale) est disponible sur cette [page](http://www.assemblee-nationale.fr/15/ta/ta0117.asp).
 
@@ -75,13 +75,13 @@ La justification de cette loi porte sur le fait que "[l']utilisation [du télép
 
 Il est précisé par les [pages officielles du gouvernement](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-encadrement-utilisation-du-telephone-portable-ecoles-colleges.html) que "[les] élèves présentant un handicap ou un trouble de santé invalidant seront autorisés à utiliser des équipements connectés si leur état de santé le nécessite".
 
-#### Proposition de loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites (1ère lecture Sénat 18 mai 2017, 1ère lecture Assemblée 2 novembre 2017, 2ème lecture Sénat 21 juin 2018, JO ?) ####
+#### Loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites (Sénat 31 octobre 2017, Assemblée 21 juin 2018, Sénat 23 octobre, JO 8 novembre) ####
 
 Ce texte n'a pas été adopté (il est disponible [ici](https://www.senat.fr/leg/ppl16-557.html) dans sa version originale, avant lecture par les chambres parlementaires), et est en cours de 2ème lecture au Sénat ([source](http://www.senat.fr/dossier-legislatif/ppl16-557.html#timeline-1)). Il compte six articles, susceptible d'être largement modifiés.
 
 Ce texte clarifie le rôle des pouvoirs publics dans l'accueil des gens du voyage ([source](https://www.journal-des-communes.fr/accueil-des-gens-du-voyage-et-lutte-contre-les-installations-illicites-le-senat-adopte-une-proposition-de-loi/)), et renforcer les sanctions en cas d'installation illégale ([source](https://www.senat.fr/dossier-legislatif/ppl16-557.html)). Ce texte de loi résulte de tensions économiques présentes notamment dans le département de Haute-Savoie ([source](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer?pagename=Territoires/Articles/Articles&cid=1250281317304)), et est âprement discuté, dû à un souci d'à la fois maintenir le devoir des communes d'accueillir les gens du voyage, et d'encadrer l'installation de ces derniers en tenant compte des capacités d'accueil des communes ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-accueil-gens-du-voyage-lutte-contre-installations-illicites.html)). Voir [ici](http://www.maire-info.com/organisation-gestion-communale/gens-du-voyage/gens-du-voyage-les-deputes-modifient-profondement-une-proposition-de-loi-senatoriale-article-22037) un résumé des modifications effectuées par le Sénat et l'Assemblée nationale sur ce texte de loi.
 
-#### Proposition de loi visant à renforcer les droits des consommateurs en matière de démarchage téléphonique (1ère lecture Assemblée 21 mars, 1ère lecture Sénat 22 juin, JO ?) ####
+#### Loi visant à renforcer les droits des consommateurs en matière de démarchage téléphonique (Assemblée 21 juin 2018, Sénat première lecture ?, JO ?) ####
 
 Ce texte n'a pas été adopté, et est en cours de première lecture au Sénat (le texte original est disponible [ici](http://www.assemblee-nationale.fr/15/propositions/pion0779.asp)). Le but affiché est de pallier l'inefficacité du dispositif [Bloctel](http://www.bloctel.gouv.fr/), auquel un consommateur peut s'inscrire pour bloquer l'utilisation de ses données personnelles à des fins de démarchages ([source](https://www.nextinpact.com/news/106356-demarchage-telephonique-deputes-veulent-renforcer-droits-consommateurs.htm)).
 
@@ -107,4 +107,6 @@ L'article 33 "allège les obligations déclaratives pesant sur les entreprises e
 Ce texte de loi autorise aussi le gouvernement à prendre des ordonnances pour certaines modifications précises du code de la défense, de la sécurité intérieure, de l'environnement ([source](http://www.assemblee-nationale.fr/15/projets/pl0659.asp)), pour des raisons de confidentialité liées aux documents d'ordre militaire. 
 
 
-**Modifications du 04/11/2018** : Correction de fautes d'orthographe.
+**Modifications du 04/11/2018** : Correction de fautes d'orthographe.  
+
+**Modifications du 09/05/2019** : Modifications du premier paragraphe pour ressembler au premier article de cette série et des dates pour plusieurs lois.    
