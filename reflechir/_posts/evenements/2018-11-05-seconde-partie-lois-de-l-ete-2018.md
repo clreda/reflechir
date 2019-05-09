@@ -7,7 +7,7 @@ excerpt: "Ceci est le sixième article d'une série visant à présenter toutes 
 
 ![Lois de l'été 2018 (deuxième partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre 2018. Il fait suite à la première partie disponible [ici]({{ siteurl }}{% post_url evenements/2018-11-04-premiere-partie-lois-de-l-ete-2018 %}).
+Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018 qui n'ont pas été présentées dans [cet article]({{ siteurl }}{% post_url evenements/2018-11-04-premiere-partie-lois-de-l-ete-2018 %}).
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
@@ -95,7 +95,7 @@ L'article 70 indique que "[l]'exploitant de chaque établissement d'abattage dé
 
 L'article 74 interdit "les remises, les rabais, les ristournes, [...] ou la remise d'unités gratuites et toutes pratiques équivalentes" sur la vente de produits phytopharmaceutiques. Tout manquement à cet article est "passible d'une amende administrative dont le montant ne peut excéder 15 000 euros pour une personne [physique](https://blog.valoxy.org/difference-personne-morale-physique/) et 75 000 euros pour une personne [morale](https://blog.valoxy.org/difference-personne-morale-physique/)".
 
-#### Projet de loi portant évolution du logement, de l'aménagement et du numérique (ELAN) (Assemblée 4 avril, Sénat 13 juin, JO ?) ####
+#### Loi portant évolution du logement, de l'aménagement et du numérique (Assemblée 4 avril, Sénat 13 juin, JO 24 novembre) ####
 
 Ce texte a été adopté par les deux chambres, et son texte original est disponible [ici](https://www.legifrance.gouv.fr/affichLoiPreparation.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?idDocument=JORFDOLE000036769798&type=contenu&id=2&typeLoi=proj&legislature=15). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi, et est en cours de délibération.
 
@@ -149,4 +149,6 @@ La collecte de dons via SMS est désormais ouverte aux associations cultuelles (
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037240537&dateTexte=20181009). Il a requis la réunion d'une Commission mixte paritaire.
 
 Ce texte de loi vise à diminuer le coût de la vie pour les citoyens français en Outre-mer : "Des facteurs structurels expliquent bien sûr le coût élevé de la vie dans les outre-mer : l'insularité, l'éloignement géographique, des structures économiques historiquement tournées vers la France métropolitaine, au détriment des productions locales ou des échanges régionaux. La petite taille des marchés conduit aussi à des déformations de leur structure ou de leur fonctionnement : monopoles, oligopoles, ententes, abus de position dominante" ([source](http://discours.vie-publique.fr/notices/183001561.html)). Il acte l'adoption d'articles de loi donnant plus de pouvoirs à l'[autorité polynésienne de la concurrence](https://www.autorite-concurrence.pf/) ([source](http://www.senat.fr/leg/pjl17-334.html)).
+
+**Modifications du 09/05/2019** : Modifications du premier paragraphe pour ressembler au premier article de cette série et des dates pour la loi ELAN.  
 
