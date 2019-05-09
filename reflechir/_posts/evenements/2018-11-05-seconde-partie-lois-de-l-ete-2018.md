@@ -2,7 +2,7 @@
 title : "Lois de l'été 2018 (seconde partie)"
 date : 2018-11-05
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en juillet, août et septembre..."
+excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018 qui n'ont pas été présentées dans..."
 ---
 
 ![Lois de l'été 2018 (deuxième partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
