@@ -2,7 +2,7 @@
 title: "Capharnaüm (2018)"
 date: 2019-07-17
 image: "/images/vu_et_approuve/capharnaum/capharnaum.jpg"
-excerpt: "Le film Capharnaüm (کفرناحوم, kafarnaoum), réalisé par Nadine Labaki, décrit une tranche de l'enfance ravagée par la misère de Zain, jeune garçon d'une douzaine d'années, au sein d'une large famille pauvre..."
+excerpt: "Le film Capharnaüm (کفرناحوم, Kafarnahoum), réalisé par Nadine Labaki, décrit une tranche de l'enfance ravagée par la misère de Zain, jeune garçon d'une douzaine d'années, au sein d'une large famille pauvre..."
 --- 
 
 Le film Capharnaüm (کفرناحوم, Kafarnahoum), réalisé par Nadine Labaki, décrit une tranche de l'enfance ravagée par la misère de Zain, jeune garçon d'une douzaine d'années, au sein d'une large famille pauvre de la banlieue beyrouthaine. Rapidement, on se rend compte que, comme le film lui-même, toute la survie de la famille repose sur les frêles épaules de son protagoniste : dans leurs brèves interventions, les adultes sont souvent négligents, comme les habitants du quartier sortant observer passivement depuis la rue les fréquentes disputes intrafamiliales, ou l'idiot et impassible SuperCafard ; parfois cruels et intéressés, comme les géniteurs de Zain ou le concupiscient Assad ; rarement compatissants, comme l'avocate jouée par Nadine Labaki, ou la jeune femme clandestine avec qui Zain se liera d'amitié au cours de son aventure. 
