@@ -150,5 +150,20 @@ Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/a
 
 Ce texte de loi vise à diminuer le coût de la vie pour les citoyens français en Outre-mer : "Des facteurs structurels expliquent bien sûr le coût élevé de la vie dans les outre-mer : l'insularité, l'éloignement géographique, des structures économiques historiquement tournées vers la France métropolitaine, au détriment des productions locales ou des échanges régionaux. La petite taille des marchés conduit aussi à des déformations de leur structure ou de leur fonctionnement : monopoles, oligopoles, ententes, abus de position dominante" ([source](http://discours.vie-publique.fr/notices/183001561.html)). Il acte l'adoption d'articles de loi donnant plus de pouvoirs à l'[autorité polynésienne de la concurrence](https://www.autorite-concurrence.pf/) ([source](http://www.senat.fr/leg/pjl17-334.html)).
 
+#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie. (Sénat 7 juin 2017, Assemblée 20 décembre 2017, JO 6 juillet) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/EAEJ1709797L/jo/texte)
+
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Chili relatif à l'emploi rémunéré des personnes à charge des agents des missions officielles de chaque Etat dans l'autre et de l'accord entre le Gouvernement de la République française et le Gouvernement de l'Etat plurinational de Bolivie relatif à l'emploi salarié des membres des familles des agents des missions officielles de chaque Etat dans l'autre. (Sénat 30 novembre 2016, Assemblée 25 janvier 2018, JO 6 juillet) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/2018-581/jo/texte).
+
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement fédéral autrichien relatif à la réadmission des personnes en situation irrégulière (Assemblée 24 mai, Sénat 19 juillet, JO 4 août). ####
+
+L'[accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0320-ai.pdf).
+
+La [loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037282577&dateTexte=&categorieLien=id).
+
 **Modifications du 09/05/2019** : Modifications du premier paragraphe pour ressembler au premier article de cette série et des dates pour la loi ELAN.  
 
+**Modifications du 12/08/2019** : Ajout de trois lois qui étaient mal rangées dans un article précédent.
