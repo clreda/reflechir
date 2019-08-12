@@ -77,6 +77,12 @@ La deuxième partie du texte acte :
 - l'article 13, contesté par certains sénateurs, qui porte sur le traitement des données personnelles dans le cadre de condamnations pénales, d'infractions, ou de mesures de sécurité. A l'origine, ces traitements devaient être supervisés par "[...] l'autorité publique" ([source](http://www.senat.fr/espace_presse/actualites/201803/protection_des_donnees_personnelles.html)). Or, cette autorité et ses objectifs n'ayant pas été définis précisément, le Conseil constitutionnel a jugé que cet article pouvait porter atteinte aux garanties fondamentales individuelles pour l'exercice des libertés publiques. La mention de ces mots a donc été retirée du texte de loi.
 - les modalités de recours pour une personne à une association ou une organisation afin d'effectuer en son nom une réclamation auprès de la CNIL (article 16).
 
+#### Loi relative au défibrillateur cardiaque (Assemblée 13 octobre 2016 (XIVe législature), Sénat 13 juin 2018, JO 29 juin). ####
+
+Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?dateTexte=&categorieLien=id&cidTexte=JORFTEXT000037116260&fastPos=71&fastReqId=1868243855&oldAction=rechExpTexteJorf).
+
+Cette loi accompagne l'équipement d'établissements recevant du public en défibrillateurs automatisés externes.
+
 #### Loi ratifiant l'ordonnance n° 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (Sénat 17 octobre 2017, 1er février 2018 et 11 avril, Assemblée 11 décembre 2017, 15 février 2018 et 22 mars, JO 21 avril). ####
 
 Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=CC55A5FE55EACA06DEB934653998AA24.tplgfr22s_1?cidTexte=JORFTEXT000036825602&categorieLien=id).
@@ -93,39 +99,13 @@ Ce texte est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/27/2
 
 Ce texte est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/3/2018-237/jo/texte). Le protocole n° 16 à la convention de sauvegarde des droits de l'homme et des libertés fondamentales a été signé à Strasbourg le 2 octobre 2013, et entre donc en vigueur cette année. "[Selon] le Gouvernement, il instaure un mécanisme permettant aux plus hautes juridictions nationales de saisir, à l'occasion d'un litige, la Cour européenne des droits de l'homme pour avis sur des questions de principe relatives à l'interprétation ou à l'application des droits et libertés définis par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou ses protocoles" ([source](http://www.senat.fr/dossier-legislatif/pjl17-304.html), [source](https://www.coe.int/fr/web/human-rights-rule-of-law/-/entry-into-force-of-the-protocol-no-16-to-the-european-convention-of-human-rights)). Un article détaillé sur ce protocole est disponible sur cette [page](https://www.dalloz-actualite.fr/flash/france-sur-voie-de-ratification-du-protocole-n-16-convention-europeenne).
 
-#### Loi autorisant l'approbation de la convention d'extradition signée le 2 mai 2007 entre le Gouvernement de la République française et le Gouvernement de l'État des Émirats arabes unis. (Sénat 13 mai 2015, Assemblée 14 septembre 2017, JO 16 mars) ####
-
-Ce texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/3/15/EAEJ1501724L/jo/texte).
-
-#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de l'Union des Comores. (Sénat 14 janvier 2015, Assemblée 14 septembre 2017, JO 17 mars) ####
-
-Ce texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/3/16/2018-185/jo/texte).
-
 #### Loi autorisant l'approbation du protocole additionnel à l'accord du 9 octobre 1997 entre le Gouvernement de la République française et le Gouvernement de la République fédérale d'Allemagne relatif à la coopération dans leurs zones frontalières entre les autorités de police et les autorités douanières concernant l'emploi transfrontalier d'aéronefs. (Sénat 2 novembre 2017, Assemblée 15 février, JO 20 avril) ####
 
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/decret/2018/10/16/EAEJ1826742D/jo/texte).
 
-#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement fédéral autrichien relatif à la réadmission des personnes en situation irrégulière. ####
-
-Le projet de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/8/3/EAEJ1510183L/jo/texte).
-
-#### Loi autorisant l'approbation du protocole entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine portant sur l'application de l'accord du 18 septembre 2007 entre la Communauté européenne et la Bosnie-Herzégovine concernant la réadmission des personnes en séjour irrégulier. (Assemblée 24 octobre 2017, Sénat 24 mai, JO 4 août) ####
-
-Ce projet de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037501230).
-
-#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. (Assemblée 23 octobre 2017, Sénat 29 juin, JO ?) ####
-
-Un exposé des motifs de la loi, avec son texte intégral, est disponible [ici](http://www.assemblee-nationale.fr/15/projets/pl0322.asp). Une étude d'impact est disponible [ici](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ei.pdf). Ce texte, quoiqu'adopté par les deux chambres, n'est pas encore paru au JO.
-
-#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie. (Sénat 7 juin 2017, Assemblée 20 décembre 2017, JO 6 juillet) ####
-
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/EAEJ1709797L/jo/texte)
-
-#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Chili relatif à l'emploi rémunéré des personnes à charge des agents des missions officielles de chaque Etat dans l'autre et de l'accord entre le Gouvernement de la République française et le Gouvernement de l'Etat plurinational de Bolivie relatif à l'emploi salarié des membres des familles des agents des missions officielles de chaque Etat dans l'autre. (Sénat 30 novembre 2016, Assemblée 25 janvier 2018, JO 6 juillet) ####
-
-Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/2018-581/jo/texte).
-
 
 **Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "Loi" (ces lois ayant été votées et étant actuellement en vigueur). Correction de fautes d'orthographe. Ajout du lien vers le texte de loi pour la loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. Ajout des dates de passage à l'Assemblée nationale, au Sénat et au JO pour les lois où ces informations étaient manquantes.  
 
-**Modifications du 04/11/2018** : Modifications du premier paragraphe pour ressembler à celui des articles précédents.  
+**Modifications du 04/11/2018** : Modifications du premier paragraphe pour ressembler à celui des articles précédents. 
+
+**Modifications du 12/08/2019** : Sept lois ont été enlevées pour être mises dans l'article où est leur place. Une loi a été ajoutée (on l'avait ratée à l'époque).
