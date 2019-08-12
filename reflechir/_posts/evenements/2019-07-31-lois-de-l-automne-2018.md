@@ -205,8 +205,18 @@ c) développer des échanges fructueux et de nouvelles opportunités de mise en 
 
 [La loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037501232&dateTexte=&categorieLien=id). 
 
+#### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. (Assemblée 28 juin, Sénat 8 novembre, JO 20 novembre). ####
+
+L'[accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ai.pdf).
+
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037623589&dateTexte=&categorieLien=id).
+
+Une étude d'impact est disponible [ici](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ei.pdf).
+
 #### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Géorgie relatif au séjour et à la migration circulaire de professionnels (Sénat 25 juin 2015, Assemblée 22 novembre 2018, JO 4 décembre). ####
 
 [L'accord](http://www.senat.fr/leg/pjl13-792-conv.pdf).
 
 [La loi](https://www.legifrance.gouv.fr/eli/loi/2018/12/3/EAEJ1411891L/jo/texte). 
+
+**Modifications du 12/08/2019** : Ajout d'une loi qui était mal rangée dans un article précédent.
