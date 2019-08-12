@@ -250,4 +250,4 @@ Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_
 
 Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
 
-**Modifications du 12/07/2019 : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).**
+**Modifications du 12/08/2019** : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).
