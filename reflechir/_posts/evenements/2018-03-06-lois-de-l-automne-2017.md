@@ -11,7 +11,9 @@ La loi relative à l'exercice des compétences des collectivités territoriales 
 
 Ceci est le deuxième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le premier tiers de la session ordinaire 2017-2018 (donc en octobre, novembre et décembre 2017).
 
-La loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations était une proposition de Marc Fesneau, président du groupe Modem à l'Assemblée nationale. Les autres lois étaient des projets de loi (donc proposés par le Premier ministre).
+
+Une seule des lois votées était une proposition de loi :
+- La loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations, proposée par Marc Fesneau, président du groupe Modem à l'Assemblée nationale. 
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l'Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n'entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
@@ -251,3 +253,5 @@ Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_
 Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
 
 **Modifications du 12/08/2019** : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).
+
+**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles.
