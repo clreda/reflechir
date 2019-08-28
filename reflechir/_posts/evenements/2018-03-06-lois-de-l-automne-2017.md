@@ -2,9 +2,7 @@
 title : "Lois de l'automne 2017"
 date : 2018-03-06
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le deuxième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le premier tiers de la session ordinaire 2017-2018 (donc en octobre, novembre et décembre 2017).
-
-La loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations était une proposition de Marc Fesneau, président du groupe Modem..."
+excerpt: "Ceci est le deuxième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le premier tiers de la session ordinaire 2017-2018 (donc en octobre, novembre et décembre 2017)."
 ---
 
 ![Lois de l'automne 2017](/images/articles_de_loi/illus_assemblees_parl.jpg)
