@@ -108,9 +108,7 @@ Ce texte est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/3/20
 Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/eli/decret/2018/10/16/EAEJ1826742D/jo/texte).
 
 
-**Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "Loi" (ces lois ayant été votées et étant actuellement en vigueur). Correction de fautes d'orthographe. Ajout du lien vers le texte de loi pour la loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. Ajout des dates de passage à l'Assemblée nationale, au Sénat et au JO pour les lois où ces informations étaient manquantes.  
-
-**Modifications du 04/11/2018** : Modifications du premier paragraphe pour ressembler à celui des articles précédents. 
+**Modifications du 04/11/2018** : Remplacement dans les titres de "Proposition/Projet de loi" par simplement "Loi" (ces lois ayant été votées et étant actuellement en vigueur). Correction de fautes d'orthographe. Ajout du lien vers le texte de loi pour la loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. Ajout des dates de passage à l'Assemblée nationale, au Sénat et au JO pour les lois où ces informations étaient manquantes. Modifications du premier paragraphe pour ressembler à celui des articles précédents. 
 
 **Modifications du 12/08/2019** : Sept lois ont été enlevées pour être mises dans l'article où est leur place. Une loi a été ajoutée (on l'avait ratée à l'époque).
 
