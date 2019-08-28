@@ -16,7 +16,7 @@ Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-Dix lois ont été votées pendant le troisième tiers de la session ordinaire 2017-2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature).
+Dix lois ont été votées pendant le troisième tiers de la session ordinaire 2017-2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une ratification d'ordonnances (une ordonnance est un règlement rédigé par le gouvernement qui peut devenir une loi ; le Parlement autorise le gouvernement à rédiger des ordonnances grâce à une loi d’habilitation ; les ordonnances paraissent au JO et ont valeur de règlement, puis de loi si elles sont validées par une loi de ratification au Parlement).
 
 #### Loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat (Sénat 21 février, Assemblée 29 mars, JO 14 avril). ####
 
@@ -89,6 +89,8 @@ Cette loi accompagne l'équipement d'établissements recevant du public en défi
 
 Le texte est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=CC55A5FE55EACA06DEB934653998AA24.tplgfr22s_1?cidTexte=JORFTEXT000036825602&categorieLien=id).
 
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032004939&fastPos=1&fastReqId=2107163615&categorieLien=id&oldAction=rechTexte).
+
 Ce texte a âprement été discuté, et a nécessité la réunion d'une Commission mixte paritaire ([source](https://www.dalloz-actualite.fr/flash/l-ordonnance-portant-reforme-du-droit-des-contrats-du-regime-general-et-de-preuve-des-obligati)). Le but affirmé de ce projet de loi est l'accessibilité (par la modernisation et la simplification de la loi ([source](https://www.senat.fr/dossier-legislatif/pjl16-578.html))) accrue aux droits et devoirs associés à un contrat pour une majorité de la population ("même non juriste"), et permet la simplification et la création de nouveaux mécanismes juridiques, tels que la résolution unilatérale d'un contrat sous certaines conditions, la réception de preuves numériques, et la sanction en cas d'abus avéré ([source](http://www.assemblee-nationale.fr/dyn/15/dossiers/alt/ratification_ordonnance_2016_131)).
 
 Le contenu de la loi demeurant toutefois extrêmement technique, la lecture d'un article plus détaillé (tel que [celui-ci](https://www.village-justice.com/articles/les-deputes-modifient-projet-loi-ratification-ordonnance-fevrier-2016-portant,26987.html)), ainsi que de l'exposé des motifs présenté à l'Assemblée nationale ([source](http://www.assemblee-nationale.fr/14/projets/pl3928.asp)) sera utile.
@@ -112,4 +114,4 @@ Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/e
 
 **Modifications du 12/08/2019** : Sept lois ont été enlevées pour être mises dans l'article où est leur place. Une loi a été ajoutée (on l'avait ratée à l'époque).
 
-**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles.
+**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles. Ajout d'un lien.
