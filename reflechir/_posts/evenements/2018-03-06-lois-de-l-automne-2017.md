@@ -39,7 +39,7 @@ Cette loi permet, pour une durée maximale de douze heures consécutives dans un
 
 #### Loi mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement (Assemblée 10 octobre, 1er et 19 décembre, Sénat 8 novembre puis rejet le 18 décembre, JO 31 décembre 2017). ####
 
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339396&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087). Le gouvernement a engagé une procédure accélérée pour cette loi ([source](http://www.assemblee-nationale.fr/15/projets/pl0155.asp)).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339396&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087). Le gouvernement a engagé une procédure accélérée pour cette loi ([source](http://www.assemblee-nationale.fr/15/projets/pl0155.asp)).
 
 Conformément aux dispositions prévues par l'[accord de Paris](http://unfccc.int/files/essential_background/convention/application/pdf/french_paris_agreement.pdf) (adopté le 12 décembre 2015 lors de la [convention COP21](http://unfccc.int/resource/docs/2015/cop21/fre/10a01f.pdf)) pour réduire les émissions de gaz à effet de serre, les exploitations d'hydrocarbures seront toutes fermées à l'horizon 2040 ([source](https://kiosque.bercy.gouv.fr/alyas/search/print/lettre-daj/7870)), aucun permis d'exploitation d'hydrocarbures ne sera délivré à l'avenir, et aucune concession ne sera prolongée au-delà de 2040 :
 
@@ -77,7 +77,7 @@ Cette loi a fait l'objet de nombreuses corrections par le Sénat, toutes refusé
 
 #### Loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations (Assemblée 30 novembre et 21 décembre, Sénat 18 et 20 décembre, JO 31 décembre 2017). ####
 
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339387&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339387&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
 Ce texte est une **proposition de loi**, c'est-à-dire qu'il est proposé par un parlementaire, et non par le Premier ministre (**projet de loi**). Il a fait l'objet d'une procédure accélérée ([source](https://www.senat.fr/dossier-legislatif/ppl17-123.html)).
 
@@ -99,7 +99,7 @@ Cette loi permet aussi aux intercommunalités de transférer leurs missions à d
 #### Loi de finances rectificative pour 2017 (Assemblée 6, 13 et 14 novembre, Sénat 9 novembre et rejet 14 novembre, JO 2 décembre 2017). ####
 
 
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
 
 La procédure accélérée s'applique de droit pour les projets de loi de finances ([source](http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale/les-fonctions-de-l-assemblee-nationale/les-fonctions-legislatives/l-examen-parlementaire-des-lois-de-finances)). On distingue la loi de finances dite "initiale", qui "prévoit et autorise l'ensemble des ressources et des dépenses du budget de l’État pour l’année civile" qui arrive, de la loi de finances rectificative (ou "collectif budgétaire") qui "modifie en cours d’exercice les dispositions de la loi de finances de l’année et de la loi de règlement, qui retrace les recettes et les dépenses telles qu’elles ont effectivement eu lieu" ([source](https://www.performance-publique.budget.gouv.fr/budget-comptes-etat/lois-finances)).
 
@@ -121,7 +121,7 @@ Les [ouvertures de crédit](http://www.cours-de-droit.net/l-ouverture-de-credit-
 
 #### Loi de finances rectificative pour 2017 (Assemblée 12, 19 et 21 décembre, Sénat 15 décembre et rejet 20 décembre, JO 29 décembre 2017). ####
 
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
 
 Le [compte-rendu](http://discours.vie-publique.fr/notices/176002149.html) du conseil des ministres du 15 novembre 2017 explique que "[ce] texte vise à confirmer la tenue des engagements du Gouvernement en matière de finances publiques, en particulier le passage sous la barre des 3 % de déficit public dès 2017 avec un objectif à 2,9 %", qui a été précédemment écrit dans la loi de finances rectificative précédente.
 
@@ -137,8 +137,7 @@ Les "propriétés bâties les immeubles situés dans un bassin urbain à dynamis
 
 #### Loi de financement de la sécurité sociale pour 2018 (Assemblée 31 octobre et 29 novembre et 4 décembre, Sénat 21 novembre puis rejet le 1er décembre, JO 31 décembre 2017). ####
 
-
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339090&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339090&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
 Le projet de loi de financement de la sécurité sociale est automatiquement examiné selon la procédure accélérée ([source](https://www.senat.fr/dossier-legislatif/plfss2018.html)).
 
@@ -162,7 +161,7 @@ Enfin, d'ici fin 2020, le paquet de cigarettes atteindra 10 euros (voir article 
 
 #### Loi de finances pour 2018 (Assemblée 21 novembre, 15 et 21 décembre, Sénat 12 décembre puis rejet le 19 décembre, JO 31 décembre 2017). ####
 
-L'intégralité de la loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339197&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339197&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
 Ce projet de loi vise à ramener le déficit public (à ne pas confondre avec la [dette publique](https://www.lafinancepourtous.com/outils/questions-reponses/quelle-est-la-difference-entre-deficit-public-et-dette-publique/)) à 2,6% du PIB (Produit Intérieur Brut : une mesure des ressources du pays) pour 2018 ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-finances-pour-2018.html)), contre à peu près 3% actuellement ([source](http://www.liberation.fr/france/2018/01/16/deficit-public-le-gouvernement-entrevoit-le-bout-du-tunnel-des-3_1622851)). Ce texte a aussi été sujet à controverse : il a été contesté par trois recours ([source](http://www.senat.fr/espace_presse/actualites/201709/projet_de_loi_de_finances_pour_2018_comprendre_les_enjeux_du_texte.html)).
 
@@ -198,13 +197,19 @@ Enfin, un dernier article portant sur la déportation d'un étranger non ressort
 
 #### Loi ratifiant l’ordonnance n° 2017-31 du 12 janvier 2017 de mise en cohérence des textes au regard des dispositions de la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé (Assemblée 19 juillet, Sénat 11 octobre, JO 24 octobre). ####
 
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033860852&fastPos=1&fastReqId=625735060&categorieLien=id&oldAction=rechTexte).
+
 Voir [ici](http://www.red-on-line.fr/hse/blog/2017/01/23/modernisation-systeme-sante-ordonnance-mise-coherence-textes-005401) pour des explications. 
 
 #### Loi ratifiant l’ordonnance n° 2017-644 du 27 avril 2017 relative à l’adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé (Assemblée 19 juillet et 18 décembre, Sénat 11 octobre et 20 décembre, JO 31 décembre). ####
 
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034502991&fastPos=1&fastReqId=1059360527&categorieLien=id&oldAction=rechTexte) et son [rectificatif](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034697388&fastPos=2&fastReqId=2130905645&categorieLien=id&oldAction=rechTexte).
+
 Voir [ici](https://www.interfimo.fr/blog/detail/fonctionnement-des-ordres-des-professions-de-sante,533) pour des explications.
 
 #### Loi ratifiant l'ordonnance n° 2017-717 du 3 mai 2017 portant création de l'établissement public Paris La Défense (Sénat 20 juillet et 18 décembre, Assemblée 27 novembre et 14 décembre, JO 27 décembre). ####
+
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034567572&fastPos=1&fastReqId=394088409&categorieLien=id&oldAction=rechTexte).
 
 Les établissements publics de gestion du quartier d'affaires de La Défense (DEFACTO) et d'aménagement de La Défense Seine Arche (EPADESA) sont remplacés dès le 1er janvier 2018 par un établissement public unique appelé Paris La Défense.
 
@@ -248,4 +253,4 @@ Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
 
 **Modifications du 12/08/2019** : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).
 
-**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles.
+**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles. Ajout de liens.
