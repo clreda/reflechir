@@ -21,10 +21,6 @@ Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](http
 
 Dix-neuf lois ont été votées pendant le premier tiers de la session ordinaire 2017-2018 (dont deux pour lesquelles les procédures de vote avaient débuté sous la XIVe législature et neuf pour lesquelles les procédures de vote avaient débuté pendant la session extraordinaire de 2017). Trois de ces lois sont des ratifications d'ordonnances (une ordonnance est un règlement rédigé par le gouvernement qui peut devenir une loi ; le Parlement autorise le gouvernement à rédiger des ordonnances grâce à une loi d'habilitation ; les ordonnances paraissent au JO et ont valeur de règlement, puis de loi si elles sont validées par une loi de ratification au Parlement).
 
-Le gouvernement a engagé une **procédure accélérée** pour plusieurs de ces lois, ce qui fait que le nombre de lectures a été limité à trois pour l'Assemblée nationale et deux pour le Sénat. Après lecture par les deux chambres, une loi est étudiée par une **commission mixte paritaire** (CMP) (constituée de sept représentants de l'Assemblée nationale et de sept représentants du Sénat) qui est chargée d'élaborer le texte à adopter en tenant compte des discussions des deux assemblées. La loi résultant de la CMP est par la suite relue par les deux assemblées.
-
-Si l'Assemblée nationale et le Sénat ne parviennent pas à se mettre d'accord, c'est l'Assemblée nationale qui a le dernier mot (sauf si la loi est une loi organique concernant entre autres le Sénat, auquel cas il faut l'accord des deux chambres pour que la loi passe).
-
 #### Loi renforçant la sécurité intérieure et la lutte contre le terrorisme (Sénat 18 juillet et 18 octobre, Assemblée 3 et 11 octobre, JO 31 octobre). ####
 
 [La loi](https://www.legifrance.gouv.fr/affichTexte.do?dateTexte=&categorieLien=id&cidTexte=JORFTEXT000035932811&fastPos=119&fastReqId=1868243855&oldAction=rechExpTexteJorf).
