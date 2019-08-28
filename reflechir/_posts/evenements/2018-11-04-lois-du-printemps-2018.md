@@ -2,7 +2,7 @@
 title : "Lois du printemps 2018"
 date : 2018-11-04
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le troisième tiers de la session ordinaire 2017-2018 (donc en avril, mai et juin 2018)..."
+excerpt: "Ceci est le quatrième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant le troisième tiers de la session ordinaire 2017-2018 (donc en avril, mai et juin 2018)."
 ---
 
 ![Lois du printemps 2018](/images/articles_de_loi/illus_assemblees_parl.jpg)
