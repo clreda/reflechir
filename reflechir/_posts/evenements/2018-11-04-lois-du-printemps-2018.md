@@ -16,6 +16,8 @@ Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
+Dix lois ont été votées pendant le troisième tiers de la session ordinaire 2017-2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature).
+
 #### Loi visant à simplifier et mieux encadrer le régime d'ouverture et de contrôle des établissements privés hors contrat (Sénat 21 février, Assemblée 29 mars, JO 14 avril). ####
 
 La proposition de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/4/13/MENX1805338L/jo/texte), et comporte quatre articles.
@@ -109,3 +111,5 @@ Le texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/e
 **Modifications du 04/11/2018** : Modifications du premier paragraphe pour ressembler à celui des articles précédents. 
 
 **Modifications du 12/08/2019** : Sept lois ont été enlevées pour être mises dans l'article où est leur place. Une loi a été ajoutée (on l'avait ratée à l'époque).
+
+**Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles.
