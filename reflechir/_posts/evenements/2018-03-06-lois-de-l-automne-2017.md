@@ -17,7 +17,7 @@ Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l'Assemblée et ceux votés au Sénat (dans l'ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s'il a été saisi. Le document est le texte adopté.
 
-Dix-neuf lois ont été votées pendant le premier tiers de la session ordinaire 2017-2018 (dont deux pour lesquelles les procédures de vote avaient débuté sous la XIVe législature et neuf pour lesquelles les procédures de vote avaient débuté pendant la session extraordinaire de 2017). Trois de ces lois sont des ratifications d'ordonnances (une ordonnance est un règlement rédigé par le gouvernement qui peut devenir une loi ; le Parlement autorise le gouvernement à rédiger des ordonnances grâce à une loi d'habilitation ; les ordonnances paraissent au JO et ont valeur de règlement, puis de loi si elles sont validées par une loi de ratification au Parlement).
+Dix-neuf lois ont été votées pendant le premier tiers de la session ordinaire 2017-2018 (dont deux pour lesquelles les procédures de vote avaient débuté sous la XIVe législature et neuf pour lesquelles les procédures de vote avaient débuté pendant la session extraordinaire de 2017). Trois de ces lois sont des ratifications d'ordonnances (une ordonnance est un règlement rédigé par le gouvernement qui peut devenir une loi ; le Parlement autorise le gouvernement à rédiger des ordonnances grâce à une loi d'habilitation ; les ordonnances paraissent au JO et ont valeur de règlement, puis de loi si elles sont validées par une loi de ratification au Parlement). Neuf de ces lois sont des approbations d'accord ou de convention ou des ratifications de protocole, de traité ou d'avenant.
 
 #### Loi renforçant la sécurité intérieure et la lutte contre le terrorisme (Sénat 18 juillet et 18 octobre, Assemblée 3 et 11 octobre, JO 31 octobre). ####
 
@@ -36,6 +36,27 @@ Le Parlement est informé des mesures prises dans le cadre de ce qui a été dé
 Cette loi élargit la possibilité pour les services de renseignement de « procéder à l'interception et à l'exploitation des communications électroniques empruntant exclusivement la voie hertzienne et n'impliquant pas l'intervention d'un opérateur de communications électroniques », « aux seules fins de la défense et de la promotion des intérêts fondamentaux de la Nation ».
 
 Cette loi permet, pour une durée maximale de douze heures consécutives dans un même lieu, de faire des contrôles d'identité (non systématiques) dans un rayon maximal de dix kilomètres autour d'un port ou d'un aéroport désigné « en raison de l'importance de [sa] fréquentation et de [sa] vulnérabilité ». Si une autoroute commence dans la zone désignée, les contrôles d'identité peuvent avoir lieu jusqu'au premier péage, même s'il est situé à plus de dix kilomètres du port ou de l'aéroport.
+
+#### Loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations (Assemblée 30 novembre et 21 décembre, Sénat 18 et 20 décembre, JO 31 décembre 2017). ####
+
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339387&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
+
+Ce texte est une **proposition de loi**, c'est-à-dire qu'il est proposé par un parlementaire, et non par le Premier ministre (**projet de loi**). Il a fait l'objet d'une procédure accélérée ([source](https://www.senat.fr/dossier-legislatif/ppl17-123.html)).
+
+Cette loi vise à définir plus clairement la compétence GEMAPI (GEstion des Milieux Aquatiques et la Prévention des Inondations) introduite dans la loi MAPTAM (*JO du 28 janvier 2014*, disponible [ici](https://www.legifrance.gouv.fr/jo_pdf.do?numJO=0&dateJO=20140128&numTexte=3&pageDebut=01562&pageFin=01618)) qui redistribue les pouvoirs des communes et des régions, et qui pousse à la décentralisation des régions ([source](http://www.lemonde.fr/politique/article/2013/07/15/decentralisation-l-assemblee-doit-retisser-ce-que-le-senat-a-defait_3447544_823448.html)). Apparemment, la (re)définition de cette compétence était attendue par les collectivités territoriales ([source](http://www.lagazettedescommunes.com/543290/gemapi-ce-que-contient-la-loi-point-par-point/)), et la procédure accélérée a été mise en place dans le but de définir la compétence GEMAPI avant qu'elle ne soit mise en place le 1er janvier 2018 ([source](http://www.lagazettedescommunes.com/538271/gemapi-une-proposition-de-loi-pour-repondre-a-lurgence-pas-au-financement/)). Le problème principal à résoudre était que la loi MAPAM attribuait cette compétence aux [intercommunalités](http://www.vie-publique.fr/decouverte-institutions/institutions/collectivites-territoriales/intercommunalite-cooperation-locale/comment-definir-intercommunalite.html) (i.e. des ensembles de communes bien définis), au détriment d'autres organismes territoriaux (communes, départements, ...), même si ces derniers avaient déjà anticipé la loi et entamé des projets ([source](https://www.lemoniteur.fr/article/gemapi-la-proposition-de-loi-definitivement-adoptee-35146654)). Or le financement des projets se fait par une taxe "GEMAPI", plafonnée théoriquement à 6,50 euros annuels par habitant ([source](https://www.ladepeche.fr/article/2018/02/02/2734009-la-taxe-gemapi-fait-des-remous.html)), relevée par l'intercommunalité ([source](http://www.lagazettedescommunes.com/512897/taxe-gemapi-les-interrogations-quant-a-sa-mise-en-oeuvre-subsistent/)). Les articles ci-dessous permettent notamment à la région de financer ces projets, à condition pour ces derniers de satisfaire l'une des quatre missions obligatoires définies par la loi ([source](http://www.rhone-mediterranee.eaufrance.fr/docs/gemapi/20160202_LaGEMAPI_vf.pd)):
+
++ "L'aménagement des bassins versants"
++ "L'entretien et l’aménagement des cours d’eau, canaux, lacs et plans d’eau"
++ "La défense contre les inondations et contre la mer"
++ "La protection et la restauration des zones humides"
+
+Concrètement, d'après cette [page](https://www.ecologique-solidaire.gouv.fr/gestion-des-milieux-aquatiques-et-prevention-des-inondations-gemapi) du gouvernement, ces missions consisteront à "[surveiller, entretenir et réhabiliter les] digues qui sont des ouvrages passifs faisant rempart entre le cours d’eau en crue ou la mer et le territoire devant être protégé" et à créer et gérer les "[...] aménagements hydrauliques [...] fonctionnant sur le principe général du prélèvement d’une partie du cours d’eau en crue aux fins de stockage provisoire dans un « réservoir » prévu à cet effet" (bassins de rétention, ...).
+
+**Article 1** "La région peut contribuer au financement des [missions listées ci-dessus, issues du code de l'environnement], présentant un intérêt régional, dont la maîtrise d'ouvrage est assurée par une commune [...], un établissement public de coopération intercommunale [Note : intercommunalité] ou un syndicat mixte [syndicat comprenant des responsables de communes et d'intercommunalités]."
+
+Cette loi permet aussi aux intercommunalités de transférer leurs missions à des syndicats de communes ou mixtes (ce qui prend en compte certains des cas où les communes ont anticipé la prise de compétence) :
+
+**Article 4** "En matière de gestion des milieux aquatiques et de prévention des inondations, un établissement public de coopération intercommunale à fiscalité propre ou un établissement public territorial peut transférer à un syndicat de communes ou à un syndicat mixte l'ensemble des missions relevant de cette compétence [les missions listées ci-dessus] ou certaines d'entre elles, en totalité ou partiellement. Par dérogation au premier alinéa du présent article, ce transfert total ou partiel peut être réalisé au profit d'un syndicat de communes ou d'un syndicat mixte sur tout ou partie du territoire de l'établissement public de coopération intercommunale à fiscalité propre ou de l'établissement public territorial ou au profit de plusieurs syndicats situés chacun sur des parties distinctes du territoire de l'établissement. [...]"
 
 #### Loi mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement (Assemblée 10 octobre, 1er et 19 décembre, Sénat 8 novembre puis rejet le 18 décembre, JO 31 décembre 2017). ####
 
@@ -75,29 +96,7 @@ La suite du chapitre définit la régulation des biocarburants. Les biocarburant
 
 Cette loi a fait l'objet de nombreuses corrections par le Sénat, toutes refusées par l'Assemblée Nationale, et non présentes dans la loi finale, dont une exception pour les territoires Outre-Mer ([source](http://www.senat.fr/espace_presse/actualites/201710/fin_de_la_recherche_et_de_lexploitation_des_hydrocarbures_conventionnels_et_non_conventionnels.html#c635484)). 
 
-#### Loi relative à l'exercice des compétences des collectivités territoriales dans le domaine de la gestion des milieux aquatiques et de la prévention des inondations (Assemblée 30 novembre et 21 décembre, Sénat 18 et 20 décembre, JO 31 décembre 2017). ####
-
-[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339387&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
-
-Ce texte est une **proposition de loi**, c'est-à-dire qu'il est proposé par un parlementaire, et non par le Premier ministre (**projet de loi**). Il a fait l'objet d'une procédure accélérée ([source](https://www.senat.fr/dossier-legislatif/ppl17-123.html)).
-
-Cette loi vise à définir plus clairement la compétence GEMAPI (GEstion des Milieux Aquatiques et la Prévention des Inondations) introduite dans la loi MAPTAM (*JO du 28 janvier 2014*, disponible [ici](https://www.legifrance.gouv.fr/jo_pdf.do?numJO=0&dateJO=20140128&numTexte=3&pageDebut=01562&pageFin=01618)) qui redistribue les pouvoirs des communes et des régions, et qui pousse à la décentralisation des régions ([source](http://www.lemonde.fr/politique/article/2013/07/15/decentralisation-l-assemblee-doit-retisser-ce-que-le-senat-a-defait_3447544_823448.html)). Apparemment, la (re)définition de cette compétence était attendue par les collectivités territoriales ([source](http://www.lagazettedescommunes.com/543290/gemapi-ce-que-contient-la-loi-point-par-point/)), et la procédure accélérée a été mise en place dans le but de définir la compétence GEMAPI avant qu'elle ne soit mise en place le 1er janvier 2018 ([source](http://www.lagazettedescommunes.com/538271/gemapi-une-proposition-de-loi-pour-repondre-a-lurgence-pas-au-financement/)). Le problème principal à résoudre était que la loi MAPAM attribuait cette compétence aux [intercommunalités](http://www.vie-publique.fr/decouverte-institutions/institutions/collectivites-territoriales/intercommunalite-cooperation-locale/comment-definir-intercommunalite.html) (i.e. des ensembles de communes bien définis), au détriment d'autres organismes territoriaux (communes, départements, ...), même si ces derniers avaient déjà anticipé la loi et entamé des projets ([source](https://www.lemoniteur.fr/article/gemapi-la-proposition-de-loi-definitivement-adoptee-35146654)). Or le financement des projets se fait par une taxe "GEMAPI", plafonnée théoriquement à 6,50 euros annuels par habitant ([source](https://www.ladepeche.fr/article/2018/02/02/2734009-la-taxe-gemapi-fait-des-remous.html)), relevée par l'intercommunalité ([source](http://www.lagazettedescommunes.com/512897/taxe-gemapi-les-interrogations-quant-a-sa-mise-en-oeuvre-subsistent/)). Les articles ci-dessous permettent notamment à la région de financer ces projets, à condition pour ces derniers de satisfaire l'une des quatre missions obligatoires définies par la loi ([source](http://www.rhone-mediterranee.eaufrance.fr/docs/gemapi/20160202_LaGEMAPI_vf.pd)):
-
-+ "L'aménagement des bassins versants"
-+ "L'entretien et l’aménagement des cours d’eau, canaux, lacs et plans d’eau"
-+ "La défense contre les inondations et contre la mer"
-+ "La protection et la restauration des zones humides"
-
-Concrètement, d'après cette [page](https://www.ecologique-solidaire.gouv.fr/gestion-des-milieux-aquatiques-et-prevention-des-inondations-gemapi) du gouvernement, ces missions consisteront à "[surveiller, entretenir et réhabiliter les] digues qui sont des ouvrages passifs faisant rempart entre le cours d’eau en crue ou la mer et le territoire devant être protégé" et à créer et gérer les "[...] aménagements hydrauliques [...] fonctionnant sur le principe général du prélèvement d’une partie du cours d’eau en crue aux fins de stockage provisoire dans un « réservoir » prévu à cet effet" (bassins de rétention, ...).
-
-**Article 1** "La région peut contribuer au financement des [missions listées ci-dessus, issues du code de l'environnement], présentant un intérêt régional, dont la maîtrise d'ouvrage est assurée par une commune [...], un établissement public de coopération intercommunale [Note : intercommunalité] ou un syndicat mixte [syndicat comprenant des responsables de communes et d'intercommunalités]."
-
-Cette loi permet aussi aux intercommunalités de transférer leurs missions à des syndicats de communes ou mixtes (ce qui prend en compte certains des cas où les communes ont anticipé la prise de compétence) :
-
-**Article 4** "En matière de gestion des milieux aquatiques et de prévention des inondations, un établissement public de coopération intercommunale à fiscalité propre ou un établissement public territorial peut transférer à un syndicat de communes ou à un syndicat mixte l'ensemble des missions relevant de cette compétence [les missions listées ci-dessus] ou certaines d'entre elles, en totalité ou partiellement. Par dérogation au premier alinéa du présent article, ce transfert total ou partiel peut être réalisé au profit d'un syndicat de communes ou d'un syndicat mixte sur tout ou partie du territoire de l'établissement public de coopération intercommunale à fiscalité propre ou de l'établissement public territorial ou au profit de plusieurs syndicats situés chacun sur des parties distinctes du territoire de l'établissement. [...]"
-
 #### Loi de finances rectificative pour 2017 (Assemblée 6, 13 et 14 novembre, Sénat 9 novembre et rejet 14 novembre, JO 2 décembre 2017). ####
-
 
 [La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E23E0BEC47977FD7E5DEEE65B6C7EB7A.tplgfr24s_2?cidTexte=JORFTEXT000036126766&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036126763).
 
@@ -201,31 +200,19 @@ Enfin, un dernier article portant sur la déportation d'un étranger non ressort
 
 Voir [ici](http://www.red-on-line.fr/hse/blog/2017/01/23/modernisation-systeme-sante-ordonnance-mise-coherence-textes-005401) pour des explications. 
 
-#### Loi ratifiant l’ordonnance n° 2017-644 du 27 avril 2017 relative à l’adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé (Assemblée 19 juillet et 18 décembre, Sénat 11 octobre et 20 décembre, JO 31 décembre). ####
-
-[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034502991&fastPos=1&fastReqId=1059360527&categorieLien=id&oldAction=rechTexte) et son [rectificatif](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034697388&fastPos=2&fastReqId=2130905645&categorieLien=id&oldAction=rechTexte).
-
-Voir [ici](https://www.interfimo.fr/blog/detail/fonctionnement-des-ordres-des-professions-de-sante,533) pour des explications.
-
 #### Loi ratifiant l'ordonnance n° 2017-717 du 3 mai 2017 portant création de l'établissement public Paris La Défense (Sénat 20 juillet et 18 décembre, Assemblée 27 novembre et 14 décembre, JO 27 décembre). ####
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034567572&fastPos=1&fastReqId=394088409&categorieLien=id&oldAction=rechTexte).
 
 Les établissements publics de gestion du quartier d'affaires de La Défense (DEFACTO) et d'aménagement de La Défense Seine Arche (EPADESA) sont remplacés dès le 1er janvier 2018 par un établissement public unique appelé Paris La Défense.
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/ratification_ordonnance_2017-717.asp#ECRCM) pour plus d'explications. 
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/ratification_ordonnance_2017-717.asp#ECRCM) pour plus d'explications.
 
-#### Loi autorisant l’approbation de la convention d’entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République algérienne démocratique et populaire (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
+#### Loi ratifiant l’ordonnance n° 2017-644 du 27 avril 2017 relative à l’adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé (Assemblée 19 juillet et 18 décembre, Sénat 11 octobre et 20 décembre, JO 31 décembre). ####
 
-Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-04-05/convention-d-entraide-judiciaire-en-matiere-penale-entre-la-).
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034502991&fastPos=1&fastReqId=1059360527&categorieLien=id&oldAction=rechTexte) et son [rectificatif](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034697388&fastPos=2&fastReqId=2130905645&categorieLien=id&oldAction=rechTexte).
 
-#### Loi autorisant la ratification du protocole relatif à la convention pour la répression d’actes illicites contre la sécurité de la navigation maritime et du protocole relatif au protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
-
-Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-05-10/repression-d-actes-illicites-contre-la-securite-de-la-naviga).
-
-#### Loi autorisant la ratification de l’avenant modifiant la convention du 14 janvier 1971 entre la France et le Portugal tendant à éviter les doubles impositions et à établir des règles d’assistance administrative réciproque en matière d’impôts sur le revenu (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
-
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/modification_convention_fiscale_portugal.asp#ECRCM).
+Voir [ici](https://www.interfimo.fr/blog/detail/fonctionnement-des-ordres-des-professions-de-sante,533) pour des explications.
 
 #### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement du Royaume hachémite de Jordanie relatif au statut de leurs forces (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
 
@@ -235,22 +222,36 @@ Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0112-ai.pdf).
 
 Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/accords_portugal_luxembourg_securite_civile.asp#ECRCM).
 
-#### Loi autorisant la ratification du protocole sur les privilèges et immunités de la juridiction unifiée du brevet (Assemblée 4 octobre, Sénat 20 décembre, JO 31 décembre). ####
+#### Loi autorisant la ratification de l’avenant modifiant la convention du 14 janvier 1971 entre la France et le Portugal tendant à éviter les doubles impositions et à établir des règles d’assistance administrative réciproque en matière d’impôts sur le revenu (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_unifiee_brevet.asp#ECRCM).
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/modification_convention_fiscale_portugal.asp#ECRCM).
 
-#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+#### Loi autorisant l’approbation de la convention d’entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République algérienne démocratique et populaire (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/entraide_judiciaire_penale_Costa_Rica.asp#ECRCM).
+Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-04-05/convention-d-entraide-judiciaire-en-matiere-penale-entre-la-).
 
-#### Loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+#### Loi autorisant la ratification du protocole relatif à la convention pour la répression d’actes illicites contre la sécurité de la navigation maritime et du protocole relatif au protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_Costa_Rica.asp#ECRCM).
+Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-05-10/repression-d-actes-illicites-contre-la-securite-de-la-naviga).
 
 #### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse relatif à la fiscalité applicable dans l'enceinte de l'aéroport de Bâle-Mulhouse (Sénat 9 novembre, Assemblée 18 décembre, JO 24 décembre). ####
 
 Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
 
+#### Loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_Costa_Rica.asp#ECRCM).
+
+#### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/entraide_judiciaire_penale_Costa_Rica.asp#ECRCM).
+
+#### Loi autorisant la ratification du protocole sur les privilèges et immunités de la juridiction unifiée du brevet (Assemblée 4 octobre, Sénat 20 décembre, JO 31 décembre). ####
+
+Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_unifiee_brevet.asp#ECRCM).
+
 **Modifications du 12/08/2019** : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).
 
 **Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles. Ajout de liens.
+
+**Modifications du 01/09/2019** : Ajout d'une phrase au cinquième paragraphe et modification de l'ordre des lois (désormais, les lois d'approbation/ratification d'accord/protocole/traité sont mises à la fin, les ratifications d'ordonnances juste avant, les habilitations d'ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l'intérieur de ces catégories, l'ordre est l'ordre de parution au JO).
