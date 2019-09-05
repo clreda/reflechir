@@ -1,12 +1,10 @@
 ---
 title : "Ordonnances sur le Code du Travail"
 date : 2018-02-12
-excerpt: "Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas.
-
-Ordonnance n° 2017-1385 du 22..."
+excerpt: "Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017 et une ordonnance concernant le Code du travail est parue au Journal Officiel du 21 décembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre 2017) et ratifiées par la loi ratifiant diverses ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d’habilitation à prendre les mesures pour le renforcement du dialogue social (JO 31 mars 2018). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas."
 ---
 
-Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas.
+Cinq ordonnances concernant le Code du travail sont parues au Journal Officiel du 22 septembre 2017 et une ordonnance concernant le Code du travail est parue au Journal Officiel du 21 décembre 2017. Elles ont été habilitées par la loi d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social (JO 16 septembre 2017) et ratifiées par la loi ratifiant diverses ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d’habilitation à prendre les mesures pour le renforcement du dialogue social (JO 31 mars 2018). Plusieurs points principaux de ces ordonnances sont présentés ici, et les liens vers les ordonnances et les rapports au Président (qui présentent les ordonnances sous leur meilleur jour au Président afin qu'il les promulgue) sont donnés plus bas.
 
 ### Ordonnance n° 2017-1385 du 22 septembre 2017 relative au renforcement de la négociation collective ###
 
@@ -55,3 +53,12 @@ Cette ordonnance modifie le Compte personnel de prévention de la pénibilité (
 
 [Le rapport au Président de la République](https://www.legifrance.gouv.fr/eli/rapport/2017/9/23/MTRT1724790P/jo/texte)
 
+### Ordonnance n° 2017-1718 du 20 décembre 2017 visant à compléter et mettre en cohérence les dispositions prises en application de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre par ordonnances les mesures pour le renforcement du dialogue social ###
+
+[L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?dateTexte=&categorieLien=id&cidTexte=JORFTEXT000036240557&fastPos=72&fastReqId=1079520955&oldAction=rechExpTexteJorf).
+
+ [Le rapport au Président de la République](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000036240521&categorieLien=id).
+
+Il y a aussi eu des ajouts dans la [loi de ratification](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E61ED211F935B1DDEAD7213DC0B9162C.tplgfr38s_2?cidTexte=JORFTEXT000036755446&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036755443).
+
+**Modifications du 05/09/2019** : Modifications du premier paragraphe. Ajout du paragraphe sur l'ordonnance du 20 décembre 2017 et du lien vers la loi de ratification.
