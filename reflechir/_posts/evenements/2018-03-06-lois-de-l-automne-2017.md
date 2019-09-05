@@ -196,11 +196,15 @@ Enfin, un dernier article portant sur la déportation d'un étranger non ressort
 
 #### Loi ratifiant l’ordonnance n° 2017-31 du 12 janvier 2017 de mise en cohérence des textes au regard des dispositions de la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé (Assemblée 19 juillet, Sénat 11 octobre, JO 24 octobre). ####
 
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E61ED211F935B1DDEAD7213DC0B9162C.tplgfr38s_2?cidTexte=JORFTEXT000035860850&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000035860847).
+
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033860852&fastPos=1&fastReqId=625735060&categorieLien=id&oldAction=rechTexte).
 
 Voir [ici](http://www.red-on-line.fr/hse/blog/2017/01/23/modernisation-systeme-sante-ordonnance-mise-coherence-textes-005401) pour des explications. 
 
 #### Loi ratifiant l'ordonnance n° 2017-717 du 3 mai 2017 portant création de l'établissement public Paris La Défense (Sénat 20 juillet et 18 décembre, Assemblée 27 novembre et 14 décembre, JO 27 décembre). ####
+
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E61ED211F935B1DDEAD7213DC0B9162C.tplgfr38s_2?cidTexte=JORFTEXT000036259042&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036259035).
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034567572&fastPos=1&fastReqId=394088409&categorieLien=id&oldAction=rechTexte).
 
@@ -209,6 +213,8 @@ Les établissements publics de gestion du quartier d'affaires de La Défense (DE
 Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/ratification_ordonnance_2017-717.asp#ECRCM) pour plus d'explications.
 
 #### Loi ratifiant l’ordonnance n° 2017-644 du 27 avril 2017 relative à l’adaptation des dispositions législatives relatives au fonctionnement des ordres des professions de santé (Assemblée 19 juillet et 18 décembre, Sénat 11 octobre et 20 décembre, JO 31 décembre). ####
+
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=E61ED211F935B1DDEAD7213DC0B9162C.tplgfr38s_2?cidTexte=JORFTEXT000036339435&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).
 
 [L'ordonnance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034502991&fastPos=1&fastReqId=1059360527&categorieLien=id&oldAction=rechTexte) et son [rectificatif](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034697388&fastPos=2&fastReqId=2130905645&categorieLien=id&oldAction=rechTexte).
 
@@ -255,3 +261,5 @@ Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_
 **Modifications du 28/08/2019** : Modifications des premiers paragraphes pour plus de cohérence entre les différents articles. Ajout de liens.
 
 **Modifications du 01/09/2019** : Ajout d'une phrase au cinquième paragraphe et modification de l'ordre des lois (désormais, les lois d'approbation/ratification d'accord/protocole/traité sont mises à la fin, les ratifications d'ordonnances juste avant, les habilitations d'ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l'intérieur de ces catégories, l'ordre est l'ordre de parution au JO).
+
+**Modifications du 05/09/2019** : Ajout de liens.
