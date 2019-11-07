@@ -60,7 +60,9 @@ Cette loi permet aussi aux intercommunalités de transférer leurs missions à d
 
 #### Loi mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement (Assemblée 10 octobre, 1er et 19 décembre, Sénat 8 novembre puis rejet le 18 décembre, JO 31 décembre 2017). ####
 
-[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339396&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087). Le gouvernement a engagé une procédure accélérée pour cette loi ([source](http://www.assemblee-nationale.fr/15/projets/pl0155.asp)).
+[La loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339396&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087).  
+
+Le gouvernement a engagé une procédure accélérée pour cette loi ([source](http://www.assemblee-nationale.fr/15/projets/pl0155.asp)).
 
 Conformément aux dispositions prévues par l'[accord de Paris](http://unfccc.int/files/essential_background/convention/application/pdf/french_paris_agreement.pdf) (adopté le 12 décembre 2015 lors de la [convention COP21](http://unfccc.int/resource/docs/2015/cop21/fre/10a01f.pdf)) pour réduire les émissions de gaz à effet de serre, les exploitations d'hydrocarbures seront toutes fermées à l'horizon 2040 ([source](https://kiosque.bercy.gouv.fr/alyas/search/print/lettre-daj/7870)), aucun permis d'exploitation d'hydrocarbures ne sera délivré à l'avenir, et aucune concession ne sera prolongée au-delà de 2040 :
 
@@ -226,19 +228,19 @@ Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0112-ai.pdf).
 
 #### Loi autorisant la ratification de l'accord entre la République française et la République portugaise relatif à l'assistance et à la coopération dans le domaine de la sécurité civile et l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg relatif à l'assistance et à la coopération dans le domaine de la protection et de la sécurité civiles (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/accords_portugal_luxembourg_securite_civile.asp#ECRCM).
+Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0111-ai.pdf).
 
 #### Loi autorisant la ratification de l’avenant modifiant la convention du 14 janvier 1971 entre la France et le Portugal tendant à éviter les doubles impositions et à établir des règles d’assistance administrative réciproque en matière d’impôts sur le revenu (Sénat 20 juillet, Assemblée 4 octobre, JO 19 octobre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/modification_convention_fiscale_portugal.asp#ECRCM).
+Voir [l'avenant](http://www.assemblee-nationale.fr/15/pdf/projets/pl0114-ai.pdf).
 
 #### Loi autorisant l’approbation de la convention d’entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République algérienne démocratique et populaire (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
 
-Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-04-05/convention-d-entraide-judiciaire-en-matiere-penale-entre-la-).
+Voir [la convention](http://www.assemblee-nationale.fr/15/pdf/projets/pl0012-ai.pdf).
 
 #### Loi autorisant la ratification du protocole relatif à la convention pour la répression d’actes illicites contre la sécurité de la navigation maritime et du protocole relatif au protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental (Assemblée 2 août, Sénat 9 novembre, JO 18 novembre). ####
 
-Voir [ici](http://www.gouvernement.fr/conseil-des-ministres/2017-05-10/repression-d-actes-illicites-contre-la-securite-de-la-naviga).
+Voir [le protocole](http://www.assemblee-nationale.fr/15/pdf/projets/pl0014-ai.pdf).
 
 #### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil fédéral suisse relatif à la fiscalité applicable dans l'enceinte de l'aéroport de Bâle-Mulhouse (Sénat 9 novembre, Assemblée 18 décembre, JO 24 décembre). ####
 
@@ -246,15 +248,15 @@ Voir [l'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0373-ai.pdf).
 
 #### Loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/convention_extradition_Costa_Rica.asp#ECRCM).
+Voir [la convention](http://www.assemblee-nationale.fr/15/pdf/projets/pl0159.pdf) (à partir de la page 5).
 
 #### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République du Costa Rica (Sénat 9 novembre 2016 (XIVe législature), Assemblée 18 décembre 2017, JO 27 décembre 2017). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/entraide_judiciaire_penale_Costa_Rica.asp#ECRCM).
+Voir [la convention](http://www.assemblee-nationale.fr/14/pdf/projets/pl4206.pdf) (à partir de la page 5).
 
 #### Loi autorisant la ratification du protocole sur les privilèges et immunités de la juridiction unifiée du brevet (Assemblée 4 octobre, Sénat 20 décembre, JO 31 décembre). ####
 
-Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_unifiee_brevet.asp#ECRCM).
+Voir [le protocole](http://www.assemblee-nationale.fr/15/pdf/projets/pl0146-ai.pdf).
 
 **Modifications du 12/08/2019** : une loi a été ajoutée (elle était mal rangée dans l'article précédent) et une loi a été enlevée (et ajoutée à l'article suivant, où est sa place).
 
@@ -263,3 +265,5 @@ Voir [ici](http://www.assemblee-nationale.fr/15/dossiers/privileges_juridiction_
 **Modifications du 01/09/2019** : Ajout d'une phrase au cinquième paragraphe et modification de l'ordre des lois (désormais, les lois d'approbation/ratification d'accord/protocole/traité sont mises à la fin, les ratifications d'ordonnances juste avant, les habilitations d'ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l'intérieur de ces catégories, l'ordre est l'ordre de parution au JO).
 
 **Modifications du 05/09/2019** : Ajout de liens.
+
+**Modifications du 07/11/2019** : Modifications de liens.  
