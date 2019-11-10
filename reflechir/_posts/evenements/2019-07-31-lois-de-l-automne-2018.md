@@ -2,12 +2,12 @@
 title : "Lois de l'automne 2018"
 date : 2019-07-31
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le septième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en octobre, novembre et décembre 2018."
+excerpt: "Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en octobre, novembre et décembre 2018."
 ---
 
 ![Lois de l'automne 2018](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le septième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en octobre, novembre et décembre 2018.
+Ceci est le sixième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées des lois votées en octobre, novembre et décembre 2018.
 
 Six parmi les lois votées étaient des propositions de loi :
 - La loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites, proposée par M. Jean-Claude Carle, ancien sénateur du groupe Les Républicains.
@@ -20,6 +20,8 @@ Six parmi les lois votées étaient des propositions de loi :
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
+
+Vingt-et-une lois ont été votées pendant le premier tiers de la session ordinaire 2018-2019.
 
 #### Loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites (Sénat 31 octobre 2017, Assemblée 21 juin 2018, Sénat 23 octobre, JO 8 novembre) ####
 
@@ -286,4 +288,4 @@ Une étude d'impact est disponible [ici](http://www.assemblee-nationale.fr/15/pd
 
 **Modifications du 12/08/2019** : Ajout d'une loi qui était mal rangée dans un article précédent.
 
-**Modifications du 10/11/2019** : Ajout de lois qui étaient mal rangées dans un article précédent.
+**Modifications du 10/11/2019** : Ajout de lois qui étaient mal rangées dans un article précédent, modification de "septième" en "sixième" suite à la fusion des deux articles de lois de l'été 2018.
