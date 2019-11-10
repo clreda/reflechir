@@ -181,6 +181,55 @@ Ce projet de loi a été introduit par le gouvernement comme étant dans la cont
 
 Ce [site](https://www.service-public.fr/particuliers/actualites/A13139) fait la liste des principales mesures qui concernent les particuliers et ce [site](https://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-finances-pour-2019.html) fait la liste des principales mesures fiscales et présente l'évolution des effectifs publics ; pour déterminer soi-même l'évolution des effectifs publics, il suffit de vérifier le nombre des autorisations d'emploi (en équivalents temps plein travaillé, par exemple deux personnes qui travaillent 17h30min par semaine correspondent à un ETP, et quatre personnes qui travaillent 8h45min par semaine correspondent aussi à un ETP) qu'il y a dans cette loi (articles 103 à 106) et de le comparer au nombre des autorisations d'emploi (en équivalents temps plein travaillé) qu'il y avait dans la [loi](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=4A402ECC992503FB234C0022DCED4C6A.tplgfr24s_2?cidTexte=JORFTEXT000036339197&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000036339087) de l'année précédente (articles 62 à 65).
 
+#### Loi pour l'équilibre des relations commerciales dans le secteur agricole et alimentaire et une alimentation saine, durable et accessible à tous (Assemblée 1er février, 3 juillet, 14 septembre, Sénat 30 mai, 15 septembre, JO 30 octobre) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037547946&categorieLien=id). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi ([source](https://www.conseil-constitutionnel.fr/decision/2018/2018771DC.htm)). En particulier, "[certains] amendements votés par le Parlement (interdiction d’utiliser des termes associés à des produits d’origine animale comme "steak" ou "saucisse" pour désigner des produits d’origine végétale, obligation pour les producteurs de miel d’indiquer les pays d’origine d’un produit issu d’un mélange de miels, etc.) ont été censurés par le Conseil constitutionnel comme [cavaliers législatifs](http://www.toupie.org/Dictionnaire/Cavalier_legislatif.htm)." ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-pour-equilibre-relations-commerciales-secteur-agricole-alimentaire-alimentation-saine-durable.html))
+
+Les associations d'agriculteurs dénoncent le manque d'inefficacité de ce texte à forcer le paiement de prix "justes" aux producteurs par les industriels et distributeurs, et un niveau de qualité suffisant des aliments (notamment par l'absence de l'interdiction du glysophate, un herbicide toxique) ([source](https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/alimentation-le-vote-final-d-une-loi-qui-decoit-largement-792262.html)). 
+
+Les articles 1 à 3 du texte portent sur les conditions et l'obligation de dressement de contrats entre le producteur et l'acheteur, et les sanctions en cas de manquement à cette règle.
+
+Les articles 11, 15 et 17 permettent au gouvernement de prendre des ordonnances, pendant six (ou quatre, article 15) mois à partir de la publication de cette loi, pour modifier le code rural et de la pêche maritime, et le code de commerce dans certaines circonstances détaillées. En particulier, les mesures suivantes :
+- "le seuil de la revente à perte sera relevé à hauteur de 10%. Ainsi la grande distribution devra revendre un produit alimentaire au minimum au prix où elle l’a acheté, majoré de 10% afin de couvrir les frais de logistiques et de transport" ;
+- "les promotions seront encadrées et limitées à un tiers du prix de référence d’un produit et à 25% de son volume". ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-pour-equilibre-relations-commerciales-secteur-agricole-alimentaire-alimentation-saine-durable.html))
+
+L'article 24 stipule qu'à l'horizon 2021, "les repas servis dans les [cantines] comprennent une part au moins égale, en valeur, à 50 % de produits [de qualité et locaux] répondant à l'une des conditions suivantes [...]" (taux de 20% pour les produits bio ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-pour-equilibre-relations-commerciales-secteur-agricole-alimentaire-alimentation-saine-durable.html))) :
+- "Produits acquis selon des modalités prenant en compte les coûts imputés aux externalités environnementales liées au produit pendant son cycle de vie" ;
+- "[Issus] de l'agriculture biologique [...]" au sens défini par l'Union européenne ;
+- issus de différents labels écologiques favorisant la qualité des produits ou la protection de l'environnement, ou d'exploitations ayant reçu des certifications de niveau élevé au niveau de la préservation environnementale.
+De plus à "titre expérimental", "[...] au plus tard un an après la promulgation [de cette loi], pour une durée de deux ans, les [cantines] sont [tenues] de proposer, au moins une fois par semaine, un menu végétarien. Ce menu peut être composé de protéines animales ou végétales".
+
+L'article 26 prévoit qu'à "titre expérimental, pour une durée de trois ans à compter de la promulgation de la présente loi, l'Etat autorise les collectivités territoriales qui le demandent à rendre obligatoire l'affichage de la composition des menus dans les services de restauration collective dont elles ont la charge".
+
+L'article 28 met fin à l'utilisation d'outils en plastique, et à l'utilisation de conteneurs plastiques de cuisson dans les cantines, au plus tard le 1er janvier 2025, et pour les collectivités territoriales de moins de 2 000 habitants, cette date est reculée au 1er janvier 2028.
+
+L'article 45 prévoit "[l'atteinte], au 31 décembre 2022, [de] l'objectif d'affectation de 15 % de la surface agricole utile à l'agriculture biologique".
+
+L'article 50 punit de six mois d'emprisonnement et de 150 000 euros d'amende la dissimulation pour "un propriétaire ou un détenteur de denrées alimentaires ou d'aliments pour animaux" du fait "qu'une denrée alimentaire ou un aliment pour animaux qu'il a importé, produit, transformé, fabriqué ou distribué présente ou est susceptible de présenter un risque pour la santé humaine ou animale".
+
+L'article 53 suspend la mise sur le marché de "l'additif E 171 (dioxyde de titane-TiO2) ainsi que des denrées alimentaires en contenant".
+
+L'article 62 stipule que "[les] établissements de restauration commerciale et les débits de boissons à consommer sur place mettent à la disposition de leurs clients qui en font la demande des contenants réutilisables ou recyclables permettant d'emporter les aliments ou boissons non consommés sur place, à l'exception de ceux mis à disposition sous forme d'offre à volonté".
+
+L'article 68 interdit, à compter de la date d'entrée en vigueur de cette loi, "[la] mise en production de tout bâtiment nouveau ou réaménagé d'élevage de poules pondeuses élevées en cages".
+
+L'article 70 indique que "[l]'exploitant de chaque établissement d'abattage désigne, pour l'aider à assurer le respect des mesures de protection des animaux au moment de leur mise à mort et des opérations annexes, une personne responsable de la protection animale".
+
+L'article 74 interdit "les remises, les rabais, les ristournes, [...] ou la remise d'unités gratuites et toutes pratiques équivalentes" sur la vente de produits phytopharmaceutiques. Tout manquement à cet article est "passible d'une amende administrative dont le montant ne peut excéder 15 000 euros pour une personne [physique](https://blog.valoxy.org/difference-personne-morale-physique/) et 75 000 euros pour une personne [morale](https://blog.valoxy.org/difference-personne-morale-physique/)".
+
+#### Loi portant évolution du logement, de l'aménagement et du numérique (Assemblée 4 avril, Sénat 13 juin, JO 24 novembre) ####
+
+Ce texte a été adopté par les deux chambres, et son texte original est disponible [ici](https://www.legifrance.gouv.fr/affichLoiPreparation.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?idDocument=JORFDOLE000036769798&type=contenu&id=2&typeLoi=proj&legislature=15). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire. Le Conseil constitutionnel a été saisi, et est en cours de délibération.
+
+Les mesures les plus importantes du projet de loi sont les suivantes ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-portant-evolution-du-logement-amenagement-du-numerique.html)) :
+- "La transformation de bureaux vides en logements sera facilitée" (articles 9 à 11) "afin de permettre la conversion de 500 000 [mètres carré] de bureaux d’ici 2020".
+- La limite maximale des délais de jugement de recours en matière d'urbanisme passe à 10 mois, contre "18 à 24 mois en moyenne actuellement".
+- La création d'un nouveau bail "mobilité" (article 34) : "Il s’agit d’un contrat de location d’une durée d’un à dix mois non renouvelable et sans dépôt de garantie pour les logements meublés. Il s’adresse aux personnes en formation professionnelle, en études supérieures, en contrat d’apprentissage, en stage, ou en mission temporaire dans le cadre de leur activité professionnelle" 
+- "L'allongement de cinq à dix ans de l’interdiction d’acheter un bien immobilier pour les [marchands de sommeil](https://fr.wikipedia.org/wiki/Marchand_de_sommeil) condamnés pour des délits relevant de l’habitat indigne."
+- "Les locaux vacants depuis plus de douze mois pourront être réquisitionnés à des fins d’hébergement de personnes sans abri pour une durée maximale de deux ans".
+- "La lutte contre les squats est renforcée par la suppression du délai de 2 mois entre le commandement de quitter les lieux et la mise en œuvre effective de l’expulsion. Le bénéfice de la trêve hivernale est supprimée pour les squatteurs".
+- "La possibilité est ouverte à un propriétaire de de résilier le bail en cas de condamnation pour trafic de stupéfiants du locataire lorsqu’il a commis ces faits dans son logement ou à proximité".
+
 #### Loi autorisant l'approbation de la convention sur le transfèrement des personnes condamnées entre le Gouvernement de la République française et le Gouvernement de la République du Pérou (Sénat 20 décembre 2017, Assemblée 26 septembre, JO 9 octobre). ####
 
 [La convention](http://www.assemblee-nationale.fr/15/pdf/projets/pl0529-ai.pdf).
@@ -236,3 +285,5 @@ Une étude d'impact est disponible [ici](http://www.assemblee-nationale.fr/15/pd
 [La loi](https://www.legifrance.gouv.fr/eli/loi/2018/12/3/EAEJ1411891L/jo/texte). 
 
 **Modifications du 12/08/2019** : Ajout d'une loi qui était mal rangée dans un article précédent.
+
+**Modifications du 10/11/2019** : Ajout de lois qui étaient mal rangées dans un article précédent.
