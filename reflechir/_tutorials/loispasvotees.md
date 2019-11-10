@@ -2,6 +2,11 @@
 title : Lois pas encore votées
 ---
 
+Propositions de loi :
+- La loi en faveur de l'engagement associatif, proposée par M. Sylvain Waserman du groupe Mouvement Démocrate.
+- La loi relative à l'amélioration de la prestation de compensation du handicap, présentée par M. Philippe Berta, député du groupe Mouvement Démocrate.
+- La loi visant à renforcer les droits des consommateurs en matière de démarchage téléphonique, proposée par M. Pierre Cordier, du groupe Les Républicains, et ses collègues.
+
 #### Loi en faveur de l'engagement associatif (Assemblée 17 mai, Sénat 6 mars 2019, deuxième lecture ?, JO ?) ####
 
 Cette proposition de loi est disponible sur cette [page](http://www.assemblee-nationale.fr/15/ta/ta0116.asp). Elle n'a pas encore été publiée au JO, mais a été adoptée par les deux chambres parlementaires. Le but affiché de cette loi est d'alléger les contraintes financières pesant sur les dirigeants associatifs bénévoles (notamment via le premier article, qui limite leur responsabilité financière en cas de faute de gestion : en cas de [liquidation judiciaire](https://droit-finances.commentcamarche.com/contents/1455-liquidation-judiciaire-definition-et-procedure), "le tribunal apprécie l’existence d’une faute de gestion au regard de la qualité de bénévole du dirigeant", via l'"exception de négligence" déjà applicable aux sociétés ([source](http://www.defrenois.fr/services/actu_jur/e-docs/proposition_de_loi_en_faveur_de_lengagement_associatif/document_actu_jur.phtml?cle_doc=00003612))), et d'inciter (dans l'article 2) la jeunesse à l'engagement associatif et au service civique via une sensibilisation s'opérant dès le CM2 ([source](https://www.unaf.fr/spip.php?article23131)), afin de renouveler les effectifs des associations ([source](http://groupemodem.fr/la-proposition-de-loi-en-faveur-de-lengagement-associatif-adoptee-en-commission/)).
