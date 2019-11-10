@@ -2,28 +2,23 @@
 title : "Lois de l'été 2018 (première partie)"
 date : 2018-11-04
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées huit des lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018..."
+excerpt: "Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018."
 ---
 
 ![Lois de l'été 2018 (première partie)](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
-Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées huit des lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018. Les autres lois votées pendant cette session extraordinaire sont disponibles [ici]({{ siteurl }}{% post_url evenements/2018-11-05-seconde-partie-lois-de-l-ete-2018 %}).
+Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018.  
 
-Neuf des lois votées pendant cette session extraordinaire étaient des propositions de loi :
-- La loi portant transposition de la directive (UE) 2016/943 du Parlement européen et du Conseil du 8 juin 2016 sur la protection des savoir-faire et des informations commerciales non divulgués contre l'obtention, l'utilisation et la divulgation illicites, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
-- La loi en faveur de l'engagement associatif, proposée par M. Sylvain Waserman du groupe Mouvement Démocrate.
-- La loi relative à l'amélioration de la prestation de compensation du handicap, présentée par M. Philippe Berta, député du groupe Mouvement Démocrate.
-- La loi relative à l'expertise des comités de protection des personnes, proposée par MM. Cyrille Isaac-Sibille et Philippe Berta, députés du groupe Mouvement Démocrate.
+Trois des lois votées pendant cette session extraordinaire étaient des propositions de loi :
+- La loi relative à la protection du secret des affaires, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
 - La loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination, proposée par M. François de Rugy, ancien député de la République en Marche.
 - La loi relative à l'encadrement de l'utilisation du téléphone portable dans les écoles et les collèges, proposée par MM. Richard Ferrand, Cédric Roussel, Mme Cathy Racon-Bouzon, MM. Bruno Studer et Gabriel Attal, du groupe La République en Marche.
-- La loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites, proposée par M. Jean-Claude Carle, ancien sénateur du groupe Les Républicains.
-- La loi visant à renforcer les droits des consommateurs en matière de démarchage téléphonique, proposée par M. Pierre Cordier, du groupe Les Républicains, et ses collègues.
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-#### Loi portant transposition de la directive (UE) 2016/943 du Parlement européen et du Conseil du 8 juin 2016 sur la protection des savoir-faire et des informations commerciales non divulgués contre l'obtention, l'utilisation et la divulgation illicites (Assemblée 28 mars, Sénat 18 avril, JO 31 juillet). ####
+#### Loi relative à la protection du secret des affaires (Assemblée 28 mars, Sénat 18 avril, JO 31 juillet). ####
 
 Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=365BE78A3AABF531A762A4E078ACDDC2.tplgfr27s_1?cidTexte=JORFTEXT000037262111&categorieLien=id). La procédure accélérée a été engagée sur ce texte ([source](https://www.senat.fr/espace_presse/actualites/201804/secret_des_affaires.html)), car elle vise à faire entrer dans le droit français une directive de niveau européen (la traduction française est disponible [ici](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32016L0943&from=FR)) sur le "secret des affaires" : le but étant d'uniformiser la sanction en cas de brèche de la propriété intellectuelle et industrielle au sein de l'Union européenne. La date limite de transposition de cette directive était le 9 juin dernier ([source](https://www.les-infostrateges.com/actu/18042542/directive-et-loi-sur-les-secrets-d-affaires-des-nouvelles)). Le Conseil constitutionnel a été saisi sur ce texte par soixante sénateurs et soixante députés notamment sur l'article premier de cette loi ([source](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=365BE78A3AABF531A762A4E078ACDDC2.tplgfr27s_1?cidTexte=JORFTEXT000037262481&categorieLien=id)), qui sera détaillé ci-dessous. Le Conseil constitutionnel a jugé l'ensemble de la loi conforme à la Constitution.
 
@@ -38,24 +33,6 @@ Puis il définit la personne détentrice légitime du secret d'affaires, et quel
 Cette loi définit également le niveau de preuve requis de la part du détenteur légitime d'un secret d'affaires pour justifier d'une atteinte au secret des affaires sans le divulguer complètement (voir page 5 de [source](http://www.aippi.fr/upload/2018%20Cancun/bizollonwarusfelsecretsaippi110118.pdf)).
 
 L'article 3 porte sur la protection du secret des affaires devant la justice, notamment pour en limiter sa diffusion en cas d'action juridique sur l'atteinte à ce secret (voir cette [page](https://www.jpkarsenty.com/Entree-en-vigueur-de-la-Directive.html) sur la décision de la Cour de cassation en 2016 sur la portée du secret professionnel pour les avocats).
-
-#### Loi en faveur de l'engagement associatif (Assemblée 17 mai, Sénat 6 mars 2019, deuxième lecture ?, JO ?) ####
-
-Cette proposition de loi est disponible sur cette [page](http://www.assemblee-nationale.fr/15/ta/ta0116.asp). Elle n'a pas encore été publiée au JO, mais a été adoptée par les deux chambres parlementaires. Le but affiché de cette loi est d'alléger les contraintes financières pesant sur les dirigeants associatifs bénévoles (notamment via le premier article, qui limite leur responsabilité financière en cas de faute de gestion : en cas de [liquidation judiciaire](https://droit-finances.commentcamarche.com/contents/1455-liquidation-judiciaire-definition-et-procedure), "le tribunal apprécie l’existence d’une faute de gestion au regard de la qualité de bénévole du dirigeant", via l'"exception de négligence" déjà applicable aux sociétés ([source](http://www.defrenois.fr/services/actu_jur/e-docs/proposition_de_loi_en_faveur_de_lengagement_associatif/document_actu_jur.phtml?cle_doc=00003612))), et d'inciter (dans l'article 2) la jeunesse à l'engagement associatif et au service civique via une sensibilisation s'opérant dès le CM2 ([source](https://www.unaf.fr/spip.php?article23131)), afin de renouveler les effectifs des associations ([source](http://groupemodem.fr/la-proposition-de-loi-en-faveur-de-lengagement-associatif-adoptee-en-commission/)).
-
-Le troisième article porte sur le [service national](https://www.gouvernement.fr/qu-est-ce-que-le-service-national-universel-snu), et notamment sur la modification du paragraphe sur les fraudes (disponible [ici](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=CDFD2E361B3E81746FE31489092620AF.tplgfr37s_3?idSectionTA=LEGISCTA000006182711&cidTexte=LEGITEXT000006071335&dateTexte=20181104)), en étendant les sanctions encourues par les personnes ne respectant pas les dispositions du code du service national aux ressortissants algériens, entrant dans les conditions définies par l'accord du 27 décembre 1968 entre la France et l'Algérie.
-
-#### Loi relative à l'amélioration de la prestation de compensation du handicap (Assemblée 17 janvier, Sénat 18 mai, deuxième lecture ?, JO ?) ####
-
-Cette proposition de loi n'a pas encore été adoptée, et est donc sujette à modifications. Le texte (après lecture et modifications par l'Assemblée nationale) est disponible sur cette [page](http://www.assemblee-nationale.fr/15/ta/ta0117.asp).
-
-Cette proposition contient deux articles ([source](http://www.assemblee-nationale.fr/15/propositions/pion0559.asp)) :
-- Le premier vise à supprimer la limite d'âge maximal (75 ans actuellement, par décret) de demande de [prestation de compensation d'handicap](https://www.service-public.fr/particuliers/vosdroits/F14202) (PCH) qui permet une compensation financière liée à un défaut d'autonomie.
-- Le deuxième porte sur la mise en place d'une expérimentation de trois ans, à partir de 2019, dans les départements français volontaires, pour évaluer l'efficacité d'un dispositif de reste à charge maximum, qui seraient financés par des fonds départementaux, pour limiter la charge des bénéficiaires de la prestation en fonction de leurs ressources ([source](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer?pagename=Territoires/Articles/Articles&cid=1250281103480)).
-
-#### Loi relative à l'expertise des comités de protection des personnes (Assemblée 4 avril, Sénat 18 mai, JO 17 octobre) ####
-
-L'unique article de cette proposition de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037503516&dateTexte=&categorieLien=id). Il prévoit que "la désignation aléatoire des comités de protection des personnes pour l'examen d'un projet de recherche impliquant la personne humaine s'effectue parmi les comités disponibles et disposant de la compétence nécessaire à l'examen du projet" ([rapport du Sénat](http://www.senat.fr/rap/l17-724/l17-7246.html)). Il permet de préciser l'organisation de l'examen d'un projet de recherche impliquant des êtres humains, en améliorant sa transparence et en prévenant l'émergence de conflits d'intérêt ([source](http://www.assemblee-nationale.fr/15/propositions/pion0847.asp)). Des détails sur cette procédure sont disponibles dans ce [rapport du Sénat](http://www.senat.fr/rap/l17-724/l17-7245.html).
 
 #### Loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination (Assemblée 30 mars, Sénat 24 mai, JO 3 août) ####
 
@@ -74,27 +51,6 @@ Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/a
 La justification de cette loi porte sur le fait que "[l']utilisation [du téléphone portable] est susceptible de favoriser, chez les élèves, le développement de pratiques malveillantes ou à risques (cyberharcèlement, cybersexisme) et de les exposer à des contenus violents ou choquants (pornographie)". ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp))
 
 Il est précisé par les [pages officielles du gouvernement](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-encadrement-utilisation-du-telephone-portable-ecoles-colleges.html) que "[les] élèves présentant un handicap ou un trouble de santé invalidant seront autorisés à utiliser des équipements connectés si leur état de santé le nécessite".
-
-#### Loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites (Sénat 31 octobre 2017, Assemblée 21 juin 2018, Sénat 23 octobre, JO 8 novembre) ####
-
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/11/7/INTX1731081L/jo/texte).  
-
-Les deux premiers articles visent à clarifier le rôle de l'État, des collectivités territoriales et de leurs groupements dans l'accueil des gens du voyage, et demandent aux groupes de plus de cent cinquante résidences mobiles de notifier leur arrivée au moins trois mois à l'avance au représentant de l'État dans la région de destination, au représentant de l'État dans le département et au président du conseil départemental concernés, "pour permettre l'identification d'une aire de stationnement correspondant aux besoins exprimés". 
-
-Le troisième article vise à moderniser les procédures d'évacuation des stationnements illicites et les deux derniers articles renforcent les sanctions pénales en cas de stationnement illicite, allant notamment jusqu'à un an d'emprisonnement (au lieu de six mois) et jusqu'à 7500€ d'amende (au lieu de 3750€).  
-
-Ce texte de loi résulte de tensions économiques présentes notamment dans le département de Haute-Savoie ([source](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer?pagename=Territoires/Articles/Articles&cid=1250281317304)), et est âprement discuté, dû à un souci d'à la fois maintenir le devoir des communes d'accueillir les gens du voyage, et d'encadrer l'installation de ces derniers en tenant compte des capacités d'accueil des communes ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-accueil-gens-du-voyage-lutte-contre-installations-illicites.html)). Voir [ici](http://www.maire-info.com/organisation-gestion-communale/gens-du-voyage/gens-du-voyage-les-deputes-modifient-profondement-une-proposition-de-loi-senatoriale-article-22037) un résumé des modifications effectuées par le Sénat et l'Assemblée nationale sur ce texte de loi.
-
-#### Loi visant à renforcer les droits des consommateurs en matière de démarchage téléphonique (Assemblée 21 juin 2018, Sénat première lecture ?, JO ?) ####
-
-Ce texte n'a pas été adopté, et est en cours de première lecture au Sénat (le texte original est disponible [ici](http://www.assemblee-nationale.fr/15/propositions/pion0779.asp)). Le but affiché est de pallier l'inefficacité du dispositif [Bloctel](http://www.bloctel.gouv.fr/), auquel un consommateur peut s'inscrire pour bloquer l'utilisation de ses données personnelles à des fins de démarchages ([source](https://www.nextinpact.com/news/106356-demarchage-telephonique-deputes-veulent-renforcer-droits-consommateurs.htm)).
-
-Le texte de loi contient cinq articles, dont :
-- L'article 1, qui stipule que [les] données à caractère personnel issues des listes d’abonnés ou d’utilisateurs de communications électroniques ou téléphoniques ne peuvent être utilisées dans des opérations de prospection commerciale directe sans l’accord préalable explicite de la personne physique auxquelles ces données à caractère personnel se rapportent. Cet accord peut être dénoncé par l’abonné à tout moment. L’opérateur est tenu d’informer clairement l’abonné de cette faculté de résiliation."
-- L'article 2, qui régit les modalités de démarchages téléphoniques, avec l'obligation de "[révéler] de manière explicite au début de la conversation son identité, le nom de la personne morale qui l’emploie, celle de la personne pour le compte de laquelle il effectue cet appel si elle est distincte de l’employeur et la nature commerciale de l’appel."
-- L'article 5, qui punit les contrevenants à l'objet de la loi à "cinq ans d’emprisonnement et de 300 000 euros d’amende".
-
-Toutefois, alors que la proposition de loi contenait l'obligation pour les démarcheurs d'avoir un indicatif téléphonique unique, le gouvernement s'oppose notamment à celle-ci, qui risque de "pénaliser avant tout les opérateurs vertueux du secteur", et également à la peine de prison encourue en cas de non-respect de la loi ([source](https://www.nextinpact.com/news/106761-demarchage-telephonique-proposition-loi-en-debat-aujourdhui-a-lassemblee.htm), [source](https://www.quechoisir.org/actualite-loi-sur-le-demarchage-telephonique-le-gouvernement-n-en-veut-pas-n56365/)).
 
 #### Loi relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (Assemblée 27 mars et 27 juin, Sénat 29 mai, JO 13 juillet). ####
 
@@ -116,3 +72,5 @@ Ce texte de loi autorise aussi le gouvernement à prendre des ordonnances pour c
 **Modifications du 09/05/2019** : Modifications du premier paragraphe pour ressembler au premier article de cette série et des dates pour plusieurs lois.    
 
 **Modifications du 28/06/2019** : Modifications du paragraphe sur la loi relative à l'accueil des gens du voyage et à la lutte contre les installations illicites.  
+
+**Modifications du 10/11/2019** : Suppression des lois pas encore parues au JO à cette époque (qui seront mises dans les articles correspondant au moment de la parution au JO), rectification du nom de la loi relative à la protection du secret des affaires.
