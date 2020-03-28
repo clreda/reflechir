@@ -57,16 +57,6 @@ Cette loi définit également le niveau de preuve requis de la part du détenteu
 
 L'article 3 porte sur la protection du secret des affaires devant la justice, notamment pour en limiter sa diffusion en cas d'action juridique sur l'atteinte à ce secret (voir cette [page](https://www.jpkarsenty.com/Entree-en-vigueur-de-la-Directive.html) sur la décision de la Cour de cassation en 2016 sur la portée du secret professionnel pour les avocats).
 
-#### Loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination (Assemblée 30 mars, Sénat 24 mai, JO 3 août) ####
-
-Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/8/3/PRMX1809684L/jo/texte/fr), et a bénéficié de la procédure accélérée, et a nécessité la réunion d'une Commission mixte paritaire, notamment sur le premier article portant sur la nomination et le remplacement des parlementaires dans les organismes extérieurs au Parlement ([source](http://www.assemblee-nationale.fr/15/propositions/pion1051.asp)). L'accès des parlementaires à des organismes extérieurs doit être codifié par une disposition législative qui définit les modalités de sa désignation ([source](http://www.senat.fr/dossier-legislatif/ppl17-504.html)). 
-
-Ce texte de loi se décompose en quatre titres :
-- Le premier prévoit la parité homme/femme dans la représentation de l'Assemblée nationale et du Sénat hors du Parlement, et le respect de la configuration politique actuelle des chambres. 
-- Le deuxième titre nomme certains organismes comme extra-parlementaires (bénéficiant de deux parlementaires, un de chaque chambre, dans leur conseil d'administration), et redéfinit les conditions de nominations de parlementaires au sein de ces organismes.
-- Le troisième supprime certains organismes de la liste des organismes extra-parlementaires.
-- Le quatrième contient les dispositions transitoires et finales, c'est-à-dire les conditions et dates d'application de ce texte de loi.
-
 #### Loi relative à l'harmonisation de l'utilisation des caméras mobiles par les autorités de sécurité publique (Sénat 13 juin, Assemblée 30 juillet, JO 5 août) ####
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=1C1F41CC4C51189BA8C6EEC987E2060F.tplgfr44s_2?cidTexte=JORFTEXT000037284329&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000037284326).
@@ -90,6 +80,16 @@ Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/a
 La justification de cette loi porte sur le fait que "[l']utilisation [du téléphone portable] est susceptible de favoriser, chez les élèves, le développement de pratiques malveillantes ou à risques (cyberharcèlement, cybersexisme) et de les exposer à des contenus violents ou choquants (pornographie)". ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp))
 
 Il est précisé par les [pages officielles du gouvernement](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-encadrement-utilisation-du-telephone-portable-ecoles-colleges.html) que "[les] élèves présentant un handicap ou un trouble de santé invalidant seront autorisés à utiliser des équipements connectés si leur état de santé le nécessite".
+
+#### Loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination (Assemblée 30 mars, Sénat 24 mai, JO 5 août) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/8/3/PRMX1809684L/jo/texte/fr), et a bénéficié de la procédure accélérée, et a nécessité la réunion d'une Commission mixte paritaire, notamment sur le premier article portant sur la nomination et le remplacement des parlementaires dans les organismes extérieurs au Parlement ([source](http://www.assemblee-nationale.fr/15/propositions/pion1051.asp)). L'accès des parlementaires à des organismes extérieurs doit être codifié par une disposition législative qui définit les modalités de sa désignation ([source](http://www.senat.fr/dossier-legislatif/ppl17-504.html)). 
+
+Ce texte de loi se décompose en quatre titres :
+- Le premier prévoit la parité homme/femme dans la représentation de l'Assemblée nationale et du Sénat hors du Parlement, et le respect de la configuration politique actuelle des chambres. 
+- Le deuxième titre nomme certains organismes comme extra-parlementaires (bénéficiant de deux parlementaires, un de chaque chambre, dans leur conseil d'administration), et redéfinit les conditions de nominations de parlementaires au sein de ces organismes.
+- Le troisième supprime certains organismes de la liste des organismes extra-parlementaires.
+- Le quatrième contient les dispositions transitoires et finales, c'est-à-dire les conditions et dates d'application de ce texte de loi.
 
 #### Loi renforçant la lutte contre les violences sexuelles et sexistes (Assemblée 21 mars, Sénat 17 mai, JO 5 août) ####
 
