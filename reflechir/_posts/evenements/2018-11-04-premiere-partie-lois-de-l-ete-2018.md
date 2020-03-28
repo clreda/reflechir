@@ -9,8 +9,9 @@ excerpt: "Ceci est le cinquième article d'une série visant à présenter toute
 
 Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018.  
 
-Trois des lois votées pendant cette session extraordinaire étaient des propositions de loi :
+Quatre des lois votées pendant cette session extraordinaire étaient des propositions de loi :
 - La loi relative à la protection du secret des affaires, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
+- La loi relative à l'harmonisation de l'utilisation des caméras mobiles par les autorités de sécurité publique, qui a été proposée par M. Jean-Pierre Decool du groupe Les Indépendants - République et Territoires au Sénat.
 - La loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination, proposée par M. François de Rugy, ancien député de la République en Marche.
 - La loi relative à l'encadrement de l'utilisation du téléphone portable dans les écoles et les collèges, proposée par MM. Richard Ferrand, Cédric Roussel, Mme Cathy Racon-Bouzon, MM. Bruno Studer et Gabriel Attal, du groupe La République en Marche.
 
@@ -18,7 +19,7 @@ Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-Treize lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
+Quatorze lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
 
 #### Loi relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (Assemblée 27 mars et 27 juin, Sénat 29 mai, JO 13 juillet). ####
 
@@ -65,6 +66,20 @@ Ce texte de loi se décompose en quatre titres :
 - Le deuxième titre nomme certains organismes comme extra-parlementaires (bénéficiant de deux parlementaires, un de chaque chambre, dans leur conseil d'administration), et redéfinit les conditions de nominations de parlementaires au sein de ces organismes.
 - Le troisième supprime certains organismes de la liste des organismes extra-parlementaires.
 - Le quatrième contient les dispositions transitoires et finales, c'est-à-dire les conditions et dates d'application de ce texte de loi.
+
+#### Loi relative à l'harmonisation de l'utilisation des caméras mobiles par les autorités de sécurité publique (Sénat 13 juin, Assemblée 30 juillet, JO 5 août) ####
+
+L'article 1 stipule qu'à titre expérimental (pour une durée de trois ans) les pompiers « peuvent procéder, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident de nature à mettre en péril leur intégrité physique, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées ». 
+Il est précisé que « l'enregistrement n'est pas permanent et ne peut être déclenché dans les cas où il est susceptible de porter atteinte au secret médical », que « les caméras sont portées de façon apparente par les agents » et qu' « un signal visuel spécifique indique si la caméra enregistre ». 
+Il est aussi précisé que « les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois ».  
+
+L'article 2 stipule qu'à titre expérimental (pour une durée de trois ans) « les personnels de surveillance de l'administration pénitentiaire individuellement désignés peuvent être autorisés à procéder, aux moyens de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées ».
+Il est précisé que « l'enregistrement n'est pas permanent », que « les caméras sont portées de façon apparente » et qu'« un signal visuel spécifique indique si la caméra enregistre ». 
+Il est aussi précisé que « les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois ».  
+
+L'article 3 modifie le Code de la sécurité intérieure pour permettre aux agents de police municipale, s'ils y sont autorisés par le représentant de l'État dans le département, de « procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées ».
+Il est précisé que « l'enregistrement n'est pas permanent », que « les caméras sont portées de façon apparente par les agents » et qu' « un signal visuel spécifique indique si la caméra enregistre ».
+Il est aussi précisé que « les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois ».    
 
 #### Loi renforçant la lutte contre les violences sexuelles et sexistes (Assemblée 21 mars, Sénat 17 mai, JO 5 août) ####
 
@@ -179,3 +194,5 @@ La [loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT00003728
 **Modifications du 12/08/2019** : Ajout de trois lois qui étaient mal rangées dans un article précédent.
 
 **Modifications du 10/11/2019** : Suppression des lois pas encore parues au JO à cette époque (qui seront mises dans les articles correspondant au moment de la parution au JO), rectification du nom de la loi relative à la protection du secret des affaires, fusion des deux articles de lois de l'été 2018, modification de l’ordre des lois (désormais, les lois d’approbation/ratification d’accord/protocole/traité sont mises à la fin, les ratifications d’ordonnances juste avant, les habilitations d’ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l’intérieur de ces catégories, l’ordre est l’ordre de parution au JO).
+
+**Modification du 28/03/2020** : Ajout d'une loi (celle sur les caméras mobiles) qui avait été oubliée.  
