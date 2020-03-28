@@ -19,7 +19,7 @@ Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-Quatorze lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
+Quinze lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Une de ces lois est une ratification d'ordonnance. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
 
 #### Loi relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (Assemblée 27 mars et 27 juin, Sénat 29 mai, JO 13 juillet). ####
 
@@ -69,6 +69,8 @@ Ce texte de loi se décompose en quatre titres :
 
 #### Loi relative à l'harmonisation de l'utilisation des caméras mobiles par les autorités de sécurité publique (Sénat 13 juin, Assemblée 30 juillet, JO 5 août) ####
 
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=1C1F41CC4C51189BA8C6EEC987E2060F.tplgfr44s_2?cidTexte=JORFTEXT000037284329&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000037284326).
+
 L'article 1 stipule qu'à titre expérimental (pour une durée de trois ans) les pompiers « peuvent procéder, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident de nature à mettre en péril leur intégrité physique, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées ». 
 Il est précisé que « l'enregistrement n'est pas permanent et ne peut être déclenché dans les cas où il est susceptible de porter atteinte au secret médical », que « les caméras sont portées de façon apparente par les agents » et qu' « un signal visuel spécifique indique si la caméra enregistre ». 
 Il est aussi précisé que « les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois ».  
@@ -81,6 +83,14 @@ L'article 3 modifie le Code de la sécurité intérieure pour permettre aux agen
 Il est précisé que « l'enregistrement n'est pas permanent », que « les caméras sont portées de façon apparente par les agents » et qu' « un signal visuel spécifique indique si la caméra enregistre ».
 Il est aussi précisé que « les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois ».    
 
+#### Loi relative à l'encadrement de l'utilisation du téléphone portable dans les écoles et les collèges (1ère lecture Assemblée 14 mai, 1ère lecture Sénat 7 juin, JO 5 août) ####
+
+Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037284333&dateTexte=&categorieLien=id), et a bénéficié d'une procédure accélérée, et requis la réunion d'une Commission mixte paritaire. Il porte sur une promesse de campagne de M. Emmanuel Macron sur l'interdiction du portable dans les écoles maternelles, élémentaires, et collèges ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp), [source](https://www.lemonde.fr/les-decodeurs/article/2018/08/01/imbroglio-autour-de-l-interdiction-du-portable-a-l-ecole_5338319_4355770.html)). Dans les lycées, "[...] le règlement intérieur peut interdire l'utilisation par un élève des appareils mentionnés au premier alinéa dans tout ou partie de l'enceinte de l'établissement ainsi que pendant les activités se déroulant à l'extérieur de celle-ci". En cas de non-respect de la loi, la confiscation de l'appareil est désormais justifié par la loi.
+
+La justification de cette loi porte sur le fait que "[l']utilisation [du téléphone portable] est susceptible de favoriser, chez les élèves, le développement de pratiques malveillantes ou à risques (cyberharcèlement, cybersexisme) et de les exposer à des contenus violents ou choquants (pornographie)". ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp))
+
+Il est précisé par les [pages officielles du gouvernement](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-encadrement-utilisation-du-telephone-portable-ecoles-colleges.html) que "[les] élèves présentant un handicap ou un trouble de santé invalidant seront autorisés à utiliser des équipements connectés si leur état de santé le nécessite".
+
 #### Loi renforçant la lutte contre les violences sexuelles et sexistes (Assemblée 21 mars, Sénat 17 mai, JO 5 août) ####
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=34212886498F40F6FC999DB1D4A7D300.tplgfr43s_2?cidTexte=JORFTEXT000037284450&categorieLien=id). Il a bénéficié d'une procédure accélérée, et a requis la réunion d'une Commission mixte paritaire.
@@ -92,14 +102,6 @@ Le deuxième article signale que "[lorsque] les faits sont commis sur la personn
 Les articles 11 et 15 caractérisent pour la première fois dans la loi le délit d'harcèlement "de rue", nommé "outrage sexiste" dans l'article 15 : "caractérisé par des propos ou des comportements à connotation sexuelle ou sexiste qui soit porte atteinte à sa dignité en raison de son caractère dégradant ou humiliant, soit crée à son encontre une situation intimidante, hostile ou offensante" ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-renforcant-lutte-contre-atteintes-sexuelles-sexistes.html)). L'outrage sexiste est puni de 3 750 euros d'amende ([source](http://www.stopharcelementderue.org/2018/07/modification-du-projet-de-loi-renforcant-la-lutte-contre-les-violences-sexuelles-et-sexistes-par-le-senat/)), et d'une obligation de suivre un stage de citoyenneté à ses frais (article 15). "Le fait d’user de tout moyen pour apercevoir les parties intimes d’une personne à son insu ou sans son contentement" ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-renforcant-lutte-contre-atteintes-sexuelles-sexistes.html)) est puni d'un an d'emprisonnement et de 15 000 € d'amende, et de deux ans d’emprisonnement et de 30 000 euros d'amende dans certaines circonstances aggravantes : commis sur un mineur, un malade, etc. (article 16).
 
 Ce texte élagit également "la définition du harcèlement en ligne afin de pouvoir réprimer les cas où une personne est victime d’une attaque coordonnée de plusieurs internautes, même lorsque chacune des personnes n’a pas agi de façon répétée. Le juge pourra distinguer l’instigateur et les comparses et adapter les peines à la gravité des actes commis" ([source](http://www.vie-publique.fr/actualite/panorama/texte-discussion/projet-loi-renforcant-lutte-contre-atteintes-sexuelles-sexistes.html)).
-
-#### Loi relative à l'encadrement de l'utilisation du téléphone portable dans les écoles et les collèges (1ère lecture Assemblée 14 mai, 1ère lecture Sénat 7 juin, JO 5 août) ####
-
-Ce texte de loi est disponible sur cette [page](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037284333&dateTexte=&categorieLien=id), et a bénéficié d'une procédure accélérée, et requis la réunion d'une Commission mixte paritaire. Il porte sur une promesse de campagne de M. Emmanuel Macron sur l'interdiction du portable dans les écoles maternelles, élémentaires, et collèges ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp), [source](https://www.lemonde.fr/les-decodeurs/article/2018/08/01/imbroglio-autour-de-l-interdiction-du-portable-a-l-ecole_5338319_4355770.html)). Dans les lycées, "[...] le règlement intérieur peut interdire l'utilisation par un élève des appareils mentionnés au premier alinéa dans tout ou partie de l'enceinte de l'établissement ainsi que pendant les activités se déroulant à l'extérieur de celle-ci". En cas de non-respect de la loi, la confiscation de l'appareil est désormais justifié par la loi.
-
-La justification de cette loi porte sur le fait que "[l']utilisation [du téléphone portable] est susceptible de favoriser, chez les élèves, le développement de pratiques malveillantes ou à risques (cyberharcèlement, cybersexisme) et de les exposer à des contenus violents ou choquants (pornographie)". ([source](http://www.assemblee-nationale.fr/15/propositions/pion0941.asp))
-
-Il est précisé par les [pages officielles du gouvernement](http://www.vie-publique.fr/actualite/panorama/texte-discussion/proposition-loi-relative-encadrement-utilisation-du-telephone-portable-ecoles-colleges.html) que "[les] élèves présentant un handicap ou un trouble de santé invalidant seront autorisés à utiliser des équipements connectés si leur état de santé le nécessite".
 
 #### Loi pour un Etat au service d'une société de confiance (Assemblée 27 novembre 2017, 21 mars 2018, 26 juin, Sénat 31 janvier, 27 juin, JO 11 août) ####
 
@@ -171,6 +173,14 @@ Notamment, les résultats montrent que :
 - Cependant, en 2017, l'endettement de l'Etat a augmenté de 4 % (totalisant 1 686 milliards d'euros) par rapport à l'année dernière. D'après le Sénat, "[la] France continue de s'endetter majoritairement pour couvrir des dépenses courantes et marginalement pour investir" ([source](http://www.senat.fr/dossier-legislatif/pjl17-595.html)).
 - "[Les] dépenses publiques s'élèvent à 56,4 % du PIB, ce qui constitue le niveau le plus élevé au sein de l'Union européenne" ([source](http://www.senat.fr/dossier-legislatif/pjl17-595.html)).
 
+#### Loi ratifiant l'ordonnance n° 2017-1252 du 9 août 2017 portant transposition de la directive 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur (Assemblée 8 février et 5 juillet, Sénat 22 mars et 25 juillet, JO 5 août) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=06836D519BE26430D54252AD5CB15F80.tplgfr44s_2?cidTexte=JORFTEXT000037284433&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000037284326).  
+
+L'ordonnance ratifiée est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035394629&categorieLien=id).  
+
+Des explications sur son contenu sont disponibles [ici](http://www.thierryvallatavocat.com/2017/08/services-de-paiement-dans-le-marche-interieur-l-ordonnance-du-9-aout-2017.html).  
+
 #### Loi autorisant l'approbation de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie et de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de Sainte-Lucie. (Sénat 7 juin 2017, Assemblée 20 décembre 2017, JO 6 juillet) ####
 
 Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/eli/loi/2018/7/6/EAEJ1709797L/jo/texte)
@@ -195,4 +205,4 @@ La [loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT00003728
 
 **Modifications du 10/11/2019** : Suppression des lois pas encore parues au JO à cette époque (qui seront mises dans les articles correspondant au moment de la parution au JO), rectification du nom de la loi relative à la protection du secret des affaires, fusion des deux articles de lois de l'été 2018, modification de l’ordre des lois (désormais, les lois d’approbation/ratification d’accord/protocole/traité sont mises à la fin, les ratifications d’ordonnances juste avant, les habilitations d’ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l’intérieur de ces catégories, l’ordre est l’ordre de parution au JO).
 
-**Modification du 28/03/2020** : Ajout d'une loi (celle sur les caméras mobiles) qui avait été oubliée.  
+**Modification du 28/03/2020** : Ajout de deux lois (celle sur les caméras mobiles et celle ratifiant l'ordonnance sur les services de paiement) qui avaient été oubliées.  
