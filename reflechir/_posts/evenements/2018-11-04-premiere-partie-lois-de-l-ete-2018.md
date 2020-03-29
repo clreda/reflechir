@@ -9,17 +9,19 @@ excerpt: "Ceci est le cinquième article d'une série visant à présenter toute
 
 Ceci est le cinquième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées pendant la session extraordinaire (convoquée par le Président de la République Emmanuel Macron) qui a eu lieu en juillet, août et septembre 2018.  
 
-Quatre des lois votées pendant cette session extraordinaire étaient des propositions de loi :
+Six des lois votées pendant cette session extraordinaire étaient des propositions de loi :
 - La loi relative à la protection du secret des affaires, qui a été proposée par M. Raphaël Gauvain, député du groupe La République en Marche, et d'autres collègues.
 - La loi relative à l'harmonisation de l'utilisation des caméras mobiles par les autorités de sécurité publique, qui a été proposée par M. Jean-Pierre Decool du groupe Les Indépendants - République et Territoires au Sénat.
-- La loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination, proposée par M. François de Rugy, ancien député de la République en Marche.
 - La loi relative à l'encadrement de l'utilisation du téléphone portable dans les écoles et les collèges, proposée par MM. Richard Ferrand, Cédric Roussel, Mme Cathy Racon-Bouzon, MM. Bruno Studer et Gabriel Attal, du groupe La République en Marche.
+- La loi visant à garantir la présence des parlementaires dans certains organismes extérieurs au Parlement et à simplifier les modalités de leur nomination, proposée par M. François de Rugy, ancien député de la République en Marche.
+- La loi renforçant la lutte contre les rodéos motorisés, qui a été proposée par M. Richard Ferrand, député du groupe La République en Marche.
+- La loi relative à la mise en œuvre du transfert des compétences eau et assainissement aux communautés de communes, qui a été proposée par M. Richard Ferrand, député du groupe La République en Marche.  
 
 Entre parenthèses sont indiquées les dates auxquelles la loi a été votée au Sénat et à l’Assemblée nationale et la date de parution au Journal officiel (JO) (une loi n’entre en application que le lendemain de sa publication au JO, ou plus tard si précisé).
 
 Pour trouver les journaux officiels (JOs) associés, aller sur cette [page](https://www.legifrance.gouv.fr/initRechJO.do). Les lois, ainsi que le dossier législatif et le document associés, sont disponibles sur cette [page de l'Assemblée nationale](http://www2.assemblee-nationale.fr/documents/liste/%28type%29/ta) et cette [page du Sénat](http://www.senat.fr/leg/index.html). Le dossier législatif contient les textes votés à l’Assemblée et ceux votés au Sénat (dans l’ordre chronologique des éventuelles corrections), ainsi que la décision du Conseil constitutionnel s’il a été saisi. Le document est le texte adopté.
 
-Quinze lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Une de ces lois est une ratification d'ordonnance. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
+Dix-sept lois ont été votées pendant la session extraordinaire de 2018 (dont une pour laquelle la procédure de vote avait débuté sous la XIVe législature). Une de ces lois est une loi de financement. Une de ces lois est une ratification d'ordonnance. Trois de ces lois sont des approbations d’accord ou de convention ou des ratifications de protocole, de traité ou d’avenant.
 
 #### Loi relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense (Assemblée 27 mars et 27 juin, Sénat 29 mai, JO 13 juillet). ####
 
@@ -90,6 +92,18 @@ Ce texte de loi se décompose en quatre titres :
 - Le deuxième titre nomme certains organismes comme extra-parlementaires (bénéficiant de deux parlementaires, un de chaque chambre, dans leur conseil d'administration), et redéfinit les conditions de nominations de parlementaires au sein de ces organismes.
 - Le troisième supprime certains organismes de la liste des organismes extra-parlementaires.
 - Le quatrième contient les dispositions transitoires et finales, c'est-à-dire les conditions et dates d'application de ce texte de loi.
+
+#### Loi renforçant la lutte contre les rodéos motorisés (Assemblée 4 juillet, Sénat 26 juillet, JO 5 août) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=06836D519BE26430D54252AD5CB15F80.tplgfr44s_2?cidTexte=JORFTEXT000037284442&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000037284326).  
+
+Cette loi crée de nouveaux délits qui ciblent les rodéos motorisés : « le fait d'adopter, au moyen d'un véhicule terrestre à moteur, une conduite répétant de façon intentionnelle des manœuvres constituant des violations d'obligations particulières de sécurité ou de prudence prévues par les dispositions législatives et réglementaires du présent code dans des conditions qui compromettent la sécurité des usagers de la route ou qui troublent la tranquillité publique », le fait « d'inciter directement autrui à commettre les faits mentionnés » plus haut, le fait « d'organiser un rassemblement destiné à permettre la commission des faits mentionnés » plus haut, et le fait « de faire, par tout moyen, la promotion des faits mentionnés » plus haut ou du rassemblement mentionné plus haut. Suivant les circonstances, ces délits peuvent être punis de diverses manières, dont par des amendes de dizaines de milliers d'euros, des peines de prison, et des confiscations de véhicules.    
+
+#### Loi relative à la mise en œuvre du transfert des compétences eau et assainissement aux communautés de communes (Assemblée 30 janvier, 5 juillet et 31 juillet, Sénat 17 avril et 26 juillet, JO 5 août) ####
+
+Le texte de loi est disponible [ici](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=06836D519BE26430D54252AD5CB15F80.tplgfr44s_2?cidTexte=JORFTEXT000037284445&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000037284326).  
+
+Cette loi permet aux communes membres d'une communauté de communes qui n'exerce pas le 5 août 2018 « à titre optionnel ou facultatif, les compétences relatives à l'eau ou à l'assainissement » de s'opposer au tranfert obligatoire le 1er janvier 2020 (par la loi NOTRe (précisément le IV de l'article 64 de la [loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030985460&categorieLien=id) n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République)) « de ces deux compétences, ou de l'une d'entre elles, à la communauté de communes si, avant le 1er juillet 2019, au moins 25 % des communes membres de la communauté de communes représentant au moins 20 % de la population délibèrent en ce sens. » Ce transfert de compétences aura alors lieu le 1er janvier 2026.  
 
 #### Loi renforçant la lutte contre les violences sexuelles et sexistes (Assemblée 21 mars, Sénat 17 mai, JO 5 août) ####
 
@@ -206,3 +220,5 @@ La [loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT00003728
 **Modifications du 10/11/2019** : Suppression des lois pas encore parues au JO à cette époque (qui seront mises dans les articles correspondant au moment de la parution au JO), rectification du nom de la loi relative à la protection du secret des affaires, fusion des deux articles de lois de l'été 2018, modification de l’ordre des lois (désormais, les lois d’approbation/ratification d’accord/protocole/traité sont mises à la fin, les ratifications d’ordonnances juste avant, les habilitations d’ordonnances juste avant, les lois de financement/règlement du budget juste avant, et les autres lois juste avant; à l’intérieur de ces catégories, l’ordre est l’ordre de parution au JO).
 
 **Modification du 28/03/2020** : Ajout de deux lois (celle sur les caméras mobiles et celle ratifiant l'ordonnance sur les services de paiement) qui avaient été oubliées.  
+
+**Modification du 29/03/2020** : Ajout de deux lois (celle sur les rodéos motorisés et celle sur les compétences eau et assainissement) qui avaient été oubliées. Cet article est désormais complet.   
