@@ -274,7 +274,7 @@ c) développer des échanges fructueux et de nouvelles opportunités de mise en 
 
 #### Loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Conseil des ministres de Bosnie-Herzégovine relatif à la mobilité des jeunes. (Assemblée 28 juin, Sénat 8 novembre, JO 20 novembre). ####
 
-L'[accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ai.pdf).
+[L'accord](http://www.assemblee-nationale.fr/15/pdf/projets/pl0322-ai.pdf).
 
 [La loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037623589&dateTexte=&categorieLien=id).
 
