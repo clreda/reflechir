@@ -2,7 +2,7 @@
 title : "Lois du printemps 2020"
 date : 2021-04-18
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
-excerpt: "Ceci est le douzième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en janvier, février et mars 2020."
+excerpt: "Ceci est le douzième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en avril, mai et juin 2020."
 ---
 
 ![Lois du printemps 2020](/images/articles_de_loi/illus_assemblees_parl.jpg)
