@@ -1,6 +1,6 @@
 ---
 title : "Lois de l'automne 2020"
-date : 2021-04-18
+date : 2021-04-20
 image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le quatorzième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en octobre, novembre et décembre 2020."
 ---
@@ -11,7 +11,7 @@ Ceci est le quatorzième article d'une série visant à présenter toutes les lo
 
 Des explications seront ajoutées au fur et à mesure (ainsi que l'en-tête habituel avec le nombre de propositions de lois etc).
 
-Les lois sont disponibles[ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&typePagination=DEFAUT&tab_selection=jorf&origine=jorf&nature=3M-Rcg%3D%3D&nature=o_ZqUg%3D%3D&nature=AIl5ag%3D%3D&nature=hef3Kw%3D%3D&nature=wYjYmw%3D%3D&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&isAdvancedResult=true&sortValue=SIGNATURE_DATE_DESC&pageSize=10&typeRecherche=date&init=true&page=1), [ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&isAdvancedResult=true&dateSignature=&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&nature=o_ZqUg%3D%3D&typePagination=DEFAUT&sortValue=SIGNATURE_DATE_DESC&pageSize=10&page=2&tab_selection=jorf#jorf) et [ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&isAdvancedResult=true&dateSignature=&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&nature=o_ZqUg%3D%3D&typePagination=DEFAUT&sortValue=SIGNATURE_DATE_DESC&pageSize=10&page=3&tab_selection=jorf#jorf).
+Les lois sont disponibles [ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&typePagination=DEFAUT&tab_selection=jorf&origine=jorf&nature=3M-Rcg%3D%3D&nature=o_ZqUg%3D%3D&nature=AIl5ag%3D%3D&nature=hef3Kw%3D%3D&nature=wYjYmw%3D%3D&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&isAdvancedResult=true&sortValue=SIGNATURE_DATE_DESC&pageSize=10&typeRecherche=date&init=true&page=1), [ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&isAdvancedResult=true&dateSignature=&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&nature=o_ZqUg%3D%3D&typePagination=DEFAUT&sortValue=SIGNATURE_DATE_DESC&pageSize=10&page=2&tab_selection=jorf#jorf) et [ici](https://www.legifrance.gouv.fr/search/jorf?tab_selection=jorf&query=%7B(%40ALL%5Bt%22*%22%5D)%7D&isAdvancedResult=true&dateSignature=&datePublication=01%2F10%2F2020+%3E+31%2F12%2F2020&nature=o_ZqUg%3D%3D&typePagination=DEFAUT&sortValue=SIGNATURE_DATE_DESC&pageSize=10&page=3&tab_selection=jorf#jorf).
 
 #### Loi n° 2020-1236 du 9 octobre 2020 autorisant l'approbation de l'avenant à la convention du 15 avril 1999 entre le Gouvernement de la République française et le Gouvernement de la République du Botswana en vue d'éviter les doubles impositions et de prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu ####
 
