@@ -5,7 +5,7 @@ image: "/images/articles_de_loi/illus_assemblees_parl.jpg"
 excerpt: "Ceci est le quatorzième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en octobre, novembre et décembre 2020."
 ---
 
-![Lois de l'hiver 2020](/images/articles_de_loi/illus_assemblees_parl.jpg)
+![Lois de l'automne 2020](/images/articles_de_loi/illus_assemblees_parl.jpg)
 
 Ceci est le quatorzième article d'une série visant à présenter toutes les lois votées sous la XVe législature (donc pendant le quinquennat d'Emmanuel Macron). Dans cet article sont présentées les lois votées en octobre, novembre et décembre 2020.  
 
