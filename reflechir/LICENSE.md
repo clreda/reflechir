@@ -1,7 +1,7 @@
---
+---
 layout: null
-permalink: /licence
---
+permalink: /licence/
+---
 
 # Licence sur le contenu du site [{{ site.title }}]({{ site.url }})
 
