@@ -1,10 +1,10 @@
 title:                  Réfléchir
-image:                  "http://reflechir.fr/images/Lu_et_approuv.png"
-description:            "Ce site s'adresse à tous et a pour but de susciter la réflexion, autant par l'analyse des actualités que par la découverte des sciences et des sciences humaines."
+image:                  "https://reflechir.fr/android-chrome-512x512.png"
+description:            "Ce site s'adresse à toutes et à tous, et a pour but de susciter la réflexion, autant par l'analyse des actualités que par la découverte des sciences et des sciences humaines."
 url:                    https://reflechir.fr
 baseurl:                ""
 email:                  sitereflechir@gmail.com
-lang:                   "fr"
+
 categories:             [actualités,sciences, sciences humaines,évènements,fact-checking,opinions,mathématiques,informatique,biologie, physique,dossiers,lu et approuvé,vu et approuvé]
 sections:               [actualités, sciences, sciences humaines]
 nav:                    [[[Actualités, actualites], [["Dossiers", dossiers],["Évènements", evenements],["Opinions",opinions]]],[[Sciences, sciences], [["Informatique", informatique],["Mathématiques", mathematiques]]],[["Sciences humaines", scienceshumaines], [["Lu et approuvé", luetapprouve],["Vu et approuvé", vuetapprouve]]]]
@@ -18,18 +18,30 @@ google_analytics:       'UA-129121205-1'
 
 environment:            "production"
 
-images:                 "images/"
-pdfs:                   "pdfs/"
+images:                 images/
+pdfs:                   pdfs/
 
 theme:                  minima
 paginate:               5
 
 version:                2.1.0
 
+source:                 .
+destination:            ./_site
+#https://stackoverflow.com/questions/63405212/jekyll-site-posts-returns-empty
+#collections_dir:        .
+plugins_dir:            _plugins
+layouts_dir:            _layouts
+data_dir:               _data
+includes_dir:           _includes
+collections:
+  posts:
+    output:             true
+
 defaults:
   -
     scope:
-      path:             "_posts/"
+      path:             ""
       type:             "posts"
     values:
       layout:           "post"
@@ -37,31 +49,31 @@ defaults:
     scope:
       path:             "_posts/actualites"
     values:
-      title:            "Actualités"
+      title:            Actualités
       category:         actualités
   -
     scope:
       path:             "_posts/sciences"
     values:
-      title:            "Sciences"
+      title:            Sciences
       category:         sciences
   -
     scope:
       path:             "_posts/scienceshumaines"
     values:
-      title:            "Sciences humaines"
+      title:            Sciences humaines
       category:         sciences humaines
   -
     scope:
       path:             "_posts/evenements"
     values:
-      title:            "Évènements"
+      title:            Évènements
       category:         [évènements,actualités]
   -
     scope:
       path:             "_posts/dossiers"
     values:
-      title:            "Dossiers"
+      title:            Dossiers
       category:         [dossiers,actualités]
   -
     scope:
@@ -73,32 +85,20 @@ defaults:
     scope:
       path:             "_posts/opinions"
     values:
-      title:            "Opinions"
+      title:            Opinions
       category:         [opinions,actualités]
   -
     scope:
       path:             "_posts/informatique"
     values:
-      title:            "Informatique"
+      title:            Informatique
       category:         [informatique,sciences]
   -
     scope:
       path:             "_posts/mathematiques"
     values:
-      title:            "Mathématiques"
+      title:            Mathématiques
       category:         [mathématiques,sciences]
-  -
-    scope:
-      path:             "_posts/biologie"
-    values:
-      title:            "Biologie"
-      category:         [biologie,sciences]
-  -
-    scope:
-      path:             "_posts/physique"
-    values:
-      title:            "Physique"
-      category:         [physique,sciences]
   -
     scope:
       path:             "_posts/luetapprouve"
@@ -111,18 +111,6 @@ defaults:
     values:
       title:            "Vu et approuvé"
       category:         [vu et approuvé,sciences humaines]
-
-images:                 "images/"
-source:                 .
-destination:            ./_site
-collections_dir:        .
-plugins_dir:            _plugins
-layouts_dir:            _layouts
-data_dir:               _data
-includes_dir:           _includes
-collections:
-  posts:
-    output:             true
 
 safe:                   false
 include:                [".htaccess"]

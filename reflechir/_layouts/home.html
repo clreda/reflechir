@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  {% if site.posts %}
+  {% if site.posts.size > 0 %}
     {% for post in site.posts %}
     {% include thumb_post.html %}
     {% endfor %}
